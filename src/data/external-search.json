@@ -1,0 +1,65 @@
+{
+ "checked": "2026-09-18",
+ "searched": [
+  [
+   "Mississippi Ethics Commission, Open Meetings orders (217 orders)",
+   "Full list filtered for Tishomingo, Iuka, Belmont and Burnsville",
+   "One: Case No. M-25-022, dismissed May 8, 2026.",
+   "/documents/records/ethics-m-25-022"
+  ],
+  [
+   "Mississippi Ethics Commission, Public Records orders (347)",
+   "Same method",
+   "None.",
+   null
+  ],
+  [
+   "Mississippi Ethics Commission, ethics opinions (1,554)",
+   "Same method, titles only. Opinions do not name the requesting body.",
+   "None by title.",
+   null
+  ],
+  [
+   "Mississippi appellate courts",
+   "Search for the district’s name",
+   "One: Miss. Ct. App. No. 2022-CA-01010-COA, decided Nov. 14, 2023. A negligent-supervision claim over a 2020 classroom injury; summary judgment for the district was affirmed. Predates this site’s coverage window.",
+   null
+  ],
+  [
+   "Federal courts (CourtListener / PACER index)",
+   "Search for the district’s name",
+   "No case with the district as a party.",
+   null
+  ],
+  [
+   "U.S. Department of Education, Office for Civil Rights, pending investigations",
+   "Institution search “Tishomingo”",
+   "Nothing for the Mississippi district. The list was last updated Jan. 14, 2025.",
+   null
+  ],
+  [
+   "Mississippi Office of the State Auditor",
+   "Reports search",
+   "Audits and the 2026–2028 audit contract. No investigative report or demand letter naming the district.",
+   "/finances/audits"
+  ],
+  [
+   "Mississippi Department of Education, accountability",
+   "2025 district ratings",
+   "Rated A (685 points) for 2024–25; B for 2023–24.",
+   "/benchmarks"
+  ],
+  [
+   "Tishomingo County News",
+   "Full-text pass of every issue reviewed",
+   "No report of litigation, a state complaint, or an Ethics Commission matter involving the district.",
+   null
+  ]
+ ],
+ "notReachable": [
+  "Special-education state complaints and due-process filings with the Mississippi Department of Education are not published by name.",
+  "Circuit and chancery court filings for Tishomingo County are on a paid electronic system and were not searched.",
+  "Ethics Commission complaint files that did not result in a published order are confidential by statute.",
+  "Personnel grievances and EEOC charges are not public unless they reach court."
+ ]
+}

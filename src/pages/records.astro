@@ -7,6 +7,7 @@ import site from '../data/site.json';
 import { reportByDate } from '../lib/meetings';
 import { fmtDate } from '../lib/format';
 import { docHref } from '../lib/documents';
+import ext from '../data/external-search.json';
 const order = 'records/ethics-m-25-022';
 const past = calendar.filter((m) => m.date <= site.dataPulled);
 const privateCount = past.filter((m) => !m.minutesPublic).length;
@@ -48,6 +49,20 @@ const log = requests as Req[];
       <li>The Commission restated the standard: the Act “is to be construed liberally in favor of the public,” and “however inconvenient openness may be to some, it is the legislatively decreed public policy of this state.” (¶2.1)</li>
     </ul>
     <p class="source mt-2">Source: <a href={docHref(order)}>Mississippi Ethics Commission, Order of Dismissal, Case No. M-25-022 (May 8, 2026)</a> — read or download the full two-page order.</p>
+  </section>
+
+  <section class="mt-10" id="looked-for">
+    <h2 class="text-xl font-semibold">What we looked for</h2>
+    <p class="mt-2 measure">A search for any other state or federal proceeding involving the district, checked {fmtDate(ext.checked)}. Empty results are listed so readers can see what was checked.</p>
+    <div class="table-wrap mt-3">
+      <table class="data">
+        <thead><tr><th>Source</th><th>How searched</th><th>Result</th></tr></thead>
+        <tbody>{ext.searched.map(([src, how, res, href]) => <tr><td>{src}</td><td>{how}</td><td>{res}{href && <> <a href={href}>See it on this site.</a></>}</td></tr>)}</tbody>
+      </table>
+    </div>
+    <h3 class="mt-4 font-semibold">Not reachable from public indexes</h3>
+    <ul class="mt-2 list-disc pl-6 space-y-1 measure">{ext.notReachable.map((x) => <li>{x}</li>)}</ul>
+    <p class="source mt-2">Source: searches of each body’s public database on {fmtDate(ext.checked)}.</p>
   </section>
 
   <section class="mt-10">

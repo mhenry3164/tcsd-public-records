@@ -27,6 +27,7 @@ const yearEnd = (fy: string) => `${fy.slice(2)}-06-30`;
   </div>
   <p class="source mt-1">Source: each year’s audit (links below). Filing timing: audit report date compared with the June 30 year end.</p>
 
+  <p class="note mt-6 measure">The FY2024 and FY2025 audits each report a principal who recommended and supervised a relative: a sister-in-law in FY2024 and a spouse in FY2025. These are two separate findings, and the auditor referred each to the Mississippi Ethics Commission. Neither referral appears in the Commission’s published orders; complaint files are confidential unless an order issues.</p>
   <div class="grid-auto mt-8" style="--min:30rem">
     <StackBars title="Findings by year" parts={['Repeated from a prior year', 'New or not stated']} format={(v) => String(v)}
       rows={findings.map((f) => { const rep = f.findings.filter((x) => x.repeat === 'Yes').length; return { label: f.fy, parts: [rep, f.findings.length - rep] }; })} />

@@ -77,7 +77,8 @@ const path = Astro.url.pathname.replace(/\/$/, '') || '/';
     </main>
     <footer class="border-t border-rule bg-white text-sm text-muted">
       <div class="frame py-6 space-y-3"><div class="measure space-y-3">
-        <p>Maintained by {site.maintainer}, a Tishomingo County parent, as an ongoing public record, updated quarterly. This site endorses no candidate and takes no position in any race. <a href="/about">About and disclosure</a> · Corrections: <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a></p>
+        <p>Built and maintained by {site.maintainer}, a parent with two children in the district. This site is independent of every candidate, the district, and the board. Nothing is sponsored. It is refreshed quarterly. <a href="/about">About and disclosure</a> · Corrections: <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a></p>
+        <p>Built and maintained by Matthew Henry, EffiWise Solutions, Belmont, MS.</p>
         <p>Public records only. Every figure links to its source. Newspaper reporting is the copyrighted work of the Tishomingo County News; this site states the facts reported, with short attributed quotes and a link to the issue. <a href="/about">About this site</a> · <a href="/sources">Sources</a> · <a href="/documents">Documents</a> · <a href="/changelog">Changelog</a> · Last updated {fmtDate(site.lastUpdated)} · <a href="/rss.xml">RSS</a></p>
       </div></div>
     </footer>
