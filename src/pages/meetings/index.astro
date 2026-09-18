@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allMeetings, reports } from '../../lib/meetings';
+import site from '../../data/site.json';
+import { fmtDate } from '../../lib/format';
+import StackBars from '../../components/StackBars.astro';
+import BarList from '../../components/BarList.astro';
+const rows = allMeetings().reverse();
+const past = rows.filter((r) => r.date <= site.dataPulled);
+const types = [...new Set(rows.map((r) => r.type))];
+const yrs = [...new Set(past.map((r) => r.date.slice(0, 4)))].sort();
+---
+<Base title="Board meetings" description={`Every Tishomingo County School Board meeting since Sept. 2024 — ${past.length} held so far — with type, time, and whether the Tishomingo County News reported it. Agendas and minutes are private.`}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Board meetings</h1>
+  <p class="mt-3 measure">All meetings the district posted on <a href={site.district.oagendas}>OAgendas</a> since Sept. 2024. Agendas, packets and minutes are marked private for every one of them; only the meeting notice is public. The newspaper reported on {reports.length} meetings, including {reports.filter((r) => r.date < '2024-09').length} from Jan.–Aug. 2024, before the OAgendas list begins; those link to a page listing what was reported.</p>
+  <ul class="mt-4 flex flex-wrap gap-x-6 gap-y-1 text-sm">
+    {types.map((t) => <li>{t}: {past.filter((r) => r.type === t).length} held</li>)}
+    <li>Reported by the paper: {past.filter((r) => r.report).length}</li>
+  </ul>
+  <div class="grid-auto mt-6" style="--min:30rem">
+    <StackBars title="Meetings held, by year" parts={['Reported by the newspaper', 'No report']} format={(v) => String(v)}
+      rows={yrs.map((y) => { const l = past.filter((r) => r.date.startsWith(y)); const rep = l.filter((r) => r.report).length; return { label: y, parts: [rep, l.length - rep] }; })}
+      caption="2024 is partial: the district’s OAgendas list begins Sept. 2024. 2026 runs through the date this site was last updated." />
+    <BarList title="Meetings held, by type" format={(v) => String(v)} items={types.map((t) => ({ label: t, value: past.filter((r) => r.type === t).length })).sort((a, b) => b.value - a.value)} />
+  </div>
+  <div class="mt-6 flex flex-wrap items-center gap-3" data-pagefind-ignore>
+    <label for="mtype" class="text-sm font-medium">Type</label>
+    <select id="mtype" data-filter-col="meetings" class="border border-rule rounded px-2 py-1.5 bg-white">
+      <option value="">All types</option>{types.map((t) => <option value={t}>{t}</option>)}
+    </select>
+    <input type="search" data-filter="meetings" placeholder="Filter" class="border border-rule rounded px-3 py-1.5 bg-white" aria-label="Filter meetings" />
+    <span class="text-sm text-muted" data-count="meetings" aria-live="polite"></span>
+  </div>
+  <div class="table-wrap mt-3">
+    <table class="data" id="meetings" data-sortable>
+      <thead><tr><th>Date</th><th>Day</th><th>Time</th><th>Type</th><th>Agenda / minutes public?</th><th>Newspaper report</th></tr></thead>
+      <tbody>{rows.map((r) => (
+        <tr data-group={r.type}>
+          <td class="whitespace-nowrap" data-v={r.date}>{r.report ? <a href={`/meetings/${r.date}`}>{fmtDate(r.date)}</a> : fmtDate(r.date)}</td>
+          <td>{r.weekday || '—'}</td><td class="whitespace-nowrap">{r.time || '—'}</td><td>{r.type}</td>
+          <td>{r.agendaId ? (r.agendaPublic || r.minutesPublic ? 'Yes' : 'No (private)') : 'Not on OAgendas'}</td>
+          <td>{r.report ? <a href={`/meetings/${r.date}`}>Yes — summary</a> : r.date > site.dataPulled ? 'Upcoming' : 'None'}</td>
+        </tr>
+      ))}</tbody>
+    </table>
+  </div>
+  <p class="source mt-2">Sources: <a href={site.district.oagendas}>OAgendas meeting list</a> (checked {fmtDate(site.dataPulled)}); Tishomingo County News meeting reports.</p>
+</Base>

@@ -1,0 +1,110 @@
+[
+ {
+  "fy": "FY2022",
+  "reportDate": "2024-09-25",
+  "lateness": "About 2 years after year end",
+  "opinion": "Unmodified",
+  "materialWeakness": "No (1 significant deficiency: athletic event receipts)",
+  "findings": [
+   {
+    "finding": "PERS Form 4B for rehired retirees not completed properly (3 instances)",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Travel vouchers not properly/timely approved (4); no second airfare comparison (1)",
+    "repeat": null
+   },
+   {
+    "finding": "Board member did not recuse from consent-agenda hiring of a relative within the third degree",
+    "repeat": "No"
+   },
+   {
+    "finding": "Athletic gate receipt forms not properly completed (13 instances); deposits not timely (2) — significant deficiency",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Procurement card: tax paid on purchases; missing independent review of charges",
+    "repeat": "No"
+   },
+   {
+    "finding": "Federal: Child Nutrition eligibility documentation (significant deficiency); allowable costs (significant deficiency)",
+    "repeat": "No"
+   }
+  ]
+ },
+ {
+  "fy": "FY2023",
+  "reportDate": "2025-06-04",
+  "lateness": "About 23 months after year end",
+  "opinion": "Unmodified",
+  "materialWeakness": "No",
+  "findings": [
+   {
+    "finding": "Statement of Economic Interest compliance",
+    "repeat": "No"
+   },
+   {
+    "finding": "Surety bonds not compliant with state law",
+    "repeat": "No"
+   },
+   {
+    "finding": "Travel reimbursement controls/documentation",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Reemployment of retired public employees (PERS Form 4B)",
+    "repeat": "Yes"
+   }
+  ]
+ },
+ {
+  "fy": "FY2024",
+  "reportDate": "2025-07-31",
+  "lateness": "About 13 months after year end",
+  "opinion": "Unmodified",
+  "materialWeakness": "No",
+  "findings": [
+   {
+    "finding": "Surety bonds not compliant with state law",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Principal recommended/supervised a relative within the first degree (referred to MS Ethics Commission)",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Travel reimbursement controls/documentation",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Reemployment of retired public employees (PERS Form 4B)",
+    "repeat": "Yes"
+   }
+  ]
+ },
+ {
+  "fy": "FY2025",
+  "reportDate": "2026-02-20",
+  "lateness": "About 8 months after year end (back on schedule)",
+  "opinion": "Unmodified",
+  "materialWeakness": "No",
+  "findings": [
+   {
+    "finding": "Two SROs bonded with indefinite bonds",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "One principal recommended and supervised their spouse; corrected by resignation/transfer; referred to MS Ethics Commission",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Travel: 1 voucher not signed/approved; 13 of tested lacked evidence of trip purpose; 1 lacked flight cost comparison",
+    "repeat": "Yes"
+   },
+   {
+    "finding": "Two of eight rehired retirees overpaid vs. allowed income on PERS Form 4B",
+    "repeat": "Yes"
+   }
+  ]
+ }
+]

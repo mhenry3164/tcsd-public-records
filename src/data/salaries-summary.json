@@ -1,0 +1,318 @@
+{
+ "years": [
+  {
+   "year": 2017,
+   "positions": 435,
+   "total": 16484337,
+   "average": 37895.03,
+   "median": 40140,
+   "top": 95000
+  },
+  {
+   "year": 2018,
+   "positions": 453,
+   "total": 16838925,
+   "average": 37172.02,
+   "median": 40420,
+   "top": 101500
+  },
+  {
+   "year": 2019,
+   "positions": 456,
+   "total": 17098360,
+   "average": 37496.4,
+   "median": 40420.0,
+   "top": 101500
+  },
+  {
+   "year": 2020,
+   "positions": 454,
+   "total": 17796108,
+   "average": 39198.48,
+   "median": 42001.5,
+   "top": 105249
+  },
+  {
+   "year": 2021,
+   "positions": 451,
+   "total": 17734444,
+   "average": 39322.49,
+   "median": 42288,
+   "top": 109000
+  },
+  {
+   "year": 2022,
+   "positions": 457,
+   "total": 18187633,
+   "average": 39797.88,
+   "median": 42145,
+   "top": 109000
+  },
+  {
+   "year": 2023,
+   "positions": 473,
+   "total": 20750935,
+   "average": 43870.9,
+   "median": 46700,
+   "top": 121500
+  },
+  {
+   "year": 2024,
+   "positions": 490,
+   "total": 21570479.48,
+   "average": 44021.39,
+   "median": 48087.5,
+   "top": 131500
+  },
+  {
+   "year": 2025,
+   "positions": 490,
+   "total": 22386442.19,
+   "average": 45686.62,
+   "median": 48600.0,
+   "top": 131500
+  }
+ ],
+ "bandLabels": [
+  "Under $10K",
+  "$10K–25K",
+  "$25K–40K",
+  "$40K–55K",
+  "$55K–70K",
+  "$70K–100K",
+  "$100K+"
+ ],
+ "bands": [
+  {
+   "year": 2017,
+   "counts": [
+    10,
+    111,
+    96,
+    151,
+    57,
+    10,
+    0
+   ]
+  },
+  {
+   "year": 2018,
+   "counts": [
+    30,
+    107,
+    83,
+    164,
+    53,
+    15,
+    1
+   ]
+  },
+  {
+   "year": 2019,
+   "counts": [
+    25,
+    111,
+    87,
+    163,
+    53,
+    16,
+    1
+   ]
+  },
+  {
+   "year": 2020,
+   "counts": [
+    21,
+    105,
+    74,
+    174,
+    63,
+    16,
+    1
+   ]
+  },
+  {
+   "year": 2021,
+   "counts": [
+    25,
+    97,
+    73,
+    180,
+    60,
+    15,
+    1
+   ]
+  },
+  {
+   "year": 2022,
+   "counts": [
+    23,
+    98,
+    80,
+    179,
+    54,
+    22,
+    1
+   ]
+  },
+  {
+   "year": 2023,
+   "counts": [
+    19,
+    96,
+    49,
+    171,
+    104,
+    33,
+    1
+   ]
+  },
+  {
+   "year": 2024,
+   "counts": [
+    30,
+    87,
+    53,
+    172,
+    112,
+    35,
+    1
+   ]
+  },
+  {
+   "year": 2025,
+   "counts": [
+    22,
+    81,
+    56,
+    171,
+    115,
+    42,
+    3
+   ]
+  }
+ ],
+ "topTitlesYear": 2025,
+ "topTitles": [
+  {
+   "title": "Teacher (187 Days) - Elementary",
+   "positions": 123,
+   "total": 6438933.47,
+   "average": 52349.05
+  },
+  {
+   "title": "Teacher (187 Days) - Secondary",
+   "positions": 71,
+   "total": 3895007.17,
+   "average": 54859.26
+  },
+  {
+   "title": "Teacher (200 Days) - Secondary",
+   "positions": 25,
+   "total": 1495933.36,
+   "average": 59837.33
+  },
+  {
+   "title": "Sped Asst - Non-Certified Support",
+   "positions": 23,
+   "total": 554431.22,
+   "average": 24105.71
+  },
+  {
+   "title": "Custodian",
+   "positions": 18,
+   "total": 630677.08,
+   "average": 35037.62
+  },
+  {
+   "title": "Cafeteria Worker",
+   "positions": 17,
+   "total": 272321.7,
+   "average": 16018.92
+  },
+  {
+   "title": "Bus Driver (Hourly)",
+   "positions": 15,
+   "total": 305280.0,
+   "average": 20352.0
+  },
+  {
+   "title": "Teacher (187 Days) - Kindergarten",
+   "positions": 14,
+   "total": 707050.0,
+   "average": 50503.57
+  },
+  {
+   "title": "Bus Driver (Retiree Form 4B)",
+   "positions": 11,
+   "total": 110225.0,
+   "average": 10020.45
+  },
+  {
+   "title": "Kindergarten Assistant Teacher",
+   "positions": 10,
+   "total": 229899.96,
+   "average": 22990.0
+  },
+  {
+   "title": "Cafeteria Cashier",
+   "positions": 8,
+   "total": 147411.6,
+   "average": 18426.45
+  },
+  {
+   "title": "School Resource Officer (Full Time)",
+   "positions": 7,
+   "total": 349720.0,
+   "average": 49960.0
+  },
+  {
+   "title": "Assistant Teacher (Comp)",
+   "positions": 7,
+   "total": 164565.0,
+   "average": 23509.29
+  },
+  {
+   "title": "Cafeteria Manager",
+   "positions": 7,
+   "total": 181610.4,
+   "average": 25944.34
+  },
+  {
+   "title": "Teacher (187 Days) - Librarian",
+   "positions": 6,
+   "total": 351250.0,
+   "average": 58541.67
+  },
+  {
+   "title": "Teacher (187 Days)- Interventionist",
+   "positions": 6,
+   "total": 328300.0,
+   "average": 54716.67
+  },
+  {
+   "title": "Non-Certified Support- Asst Teacher",
+   "positions": 6,
+   "total": 163280.0,
+   "average": 27213.33
+  },
+  {
+   "title": "School Nurse - 4Yr Rn",
+   "positions": 5,
+   "total": 260425.0,
+   "average": 52085.0
+  },
+  {
+   "title": "Secretary",
+   "positions": 5,
+   "total": 167425.0,
+   "average": 33485.0
+  },
+  {
+   "title": "Assistant Teacher (Isd)",
+   "positions": 5,
+   "total": 94249.28,
+   "average": 18849.86
+  }
+ ]
+}

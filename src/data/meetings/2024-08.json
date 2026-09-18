@@ -1,0 +1,59 @@
+{
+ "date": "2024-08",
+ "type": "Board meeting (type not stated)",
+ "dateNote": "The report (issue of Sept. 5, 2024) says only that the board 'recently approved' the raise and that it is 'already in effect'; it gives no meeting date or type. The OAgendas calendar begins Sept. 9, 2024. Listed here as August 2024; the exact date and meeting type are not stated.",
+ "sources": [
+  {
+   "issue": "2024-09-05",
+   "page": 4
+  }
+ ],
+ "headline": "Board Approves Pay Raise for School Resource Officers to Boost Retention and Morale",
+ "summary": "The board approved a pay increase for School Resource Officers, to be funded from the district's general fund. The paper reported the decision was unanimous and printed no dollar amount for the raise.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [
+  {
+   "item": "Pay increase for School Resource Officers",
+   "member": "All members",
+   "action": "unanimous",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-09-05",
+    "page": 4
+   }
+  }
+ ],
+ "personnel": {
+  "hires": 0,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 0,
+  "note": null
+ },
+ "money": [],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [],
+ "superintendent": [],
+ "executiveSession": [],
+ "otherActions": [
+  "Board member Stacy Stepp told the paper the board compared SRO pay with neighboring school districts and city and county law enforcement before the decision.",
+  "The raise is funded from the district's general fund and was reported as already in effect."
+ ],
+ "quote": {
+  "text": "To have quality officers, you have to meet that financial demand.",
+  "speaker": "Stacy Stepp, board member",
+  "source": {
+   "issue": "2024-09-05",
+   "page": 4
+  }
+ },
+ "reviewed": false
+}

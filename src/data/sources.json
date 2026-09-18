@@ -1,0 +1,129 @@
+[
+ {
+  "group": "Audited financial statements (Mississippi Office of the State Auditor)",
+  "items": [
+   {
+    "label": "FY2025 audit, filed Feb. 20, 2026",
+    "url": "https://www.osa.ms.gov/node/19108",
+    "local": "/documents/audits/tcsd-fy2025"
+   },
+   {
+    "label": "FY2024 audit, filed July 31, 2025",
+    "url": "https://www.osa.ms.gov/node/18574",
+    "local": "/documents/audits/tcsd-fy2024"
+   },
+   {
+    "label": "FY2023 audit, filed June 4, 2025",
+    "url": "https://www.osa.ms.gov/node/18384",
+    "local": "/documents/audits/tcsd-fy2023"
+   },
+   {
+    "label": "FY2022 audit, filed Sept. 25, 2024",
+    "url": "https://www.osa.ms.gov/node/17630",
+    "local": "/documents/audits/tcsd-fy2022"
+   },
+   {
+    "label": "Audit contract, FY2026–FY2028",
+    "url": "https://www.osa.ms.gov/node/18751"
+   }
+  ]
+ },
+ {
+  "group": "Neighboring districts’ audits (Benchmarks)",
+  "items": [
+   {
+    "label": "Alcorn School District, FY2025",
+    "url": "https://www.osa.ms.gov/node/19465",
+    "local": "/documents/peer-audits/alcorn-fy2025"
+   },
+   {
+    "label": "Prentiss County School District, FY2025",
+    "url": "https://www.osa.ms.gov/node/19072",
+    "local": "/documents/peer-audits/prentiss-county-fy2025"
+   },
+   {
+    "label": "Itawamba County School District, FY2023",
+    "url": "https://www.osa.ms.gov/node/18932",
+    "local": "/documents/peer-audits/itawamba-county-fy2023"
+   },
+   {
+    "label": "Booneville School District, FY2025",
+    "url": "https://www.osa.ms.gov/node/19034",
+    "local": "/documents/peer-audits/booneville-fy2025"
+   },
+   {
+    "label": "Corinth School District, FY2025",
+    "url": "https://www.osa.ms.gov/node/18952",
+    "local": "/documents/peer-audits/corinth-fy2025"
+   },
+   {
+    "label": "Baldwyn School District, FY2025",
+    "url": "https://www.osa.ms.gov/node/19093",
+    "local": "/documents/peer-audits/baldwyn-fy2025"
+   },
+   {
+    "label": "MDE 2025 district ratings (Mississippi Free Press)",
+    "url": "https://www.mississippifreepress.org/wp-content/uploads/2025/09/2025-School-District-Ratings.pdf"
+   },
+   {
+    "label": "U.S. Census Bureau, school system finances FY2024",
+    "url": "https://www.census.gov/newsroom/press-releases/2026/school-system-finances.html"
+   },
+   {
+    "label": "NEA, Educator Pay and Student Spending",
+    "url": "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank"
+   }
+  ]
+ },
+ {
+  "group": "Payroll and vendor payments (OpenTheBooks.com)",
+  "items": [
+   {
+    "label": "Salaries, 2017–2025 (source: Mississippi Department of Education)",
+    "url": "https://www.openthebooks.com/members/employer-detail/?Id=27618&tab=1",
+    "local": "/data/tcsd_salaries_2017-2025.csv"
+   },
+   {
+    "label": "Vendor annual totals, 2023–2024 (source: the district)",
+    "url": "https://www.openthebooks.com/members/employer-detail/?Id=27618&tab=3",
+    "local": "/data/tcsd_checkbook_vendors.csv"
+   }
+  ]
+ },
+ {
+  "group": "District",
+  "items": [
+   {
+    "label": "Board policy manual (Simbli), 320 policies",
+    "url": "https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36031793",
+    "local": "/data/tcsd_policy_index.csv"
+   },
+   {
+    "label": "Board meeting notices (OAgendas)",
+    "url": "https://oagendas.com/meeting/tcsk"
+   },
+   {
+    "label": "School board page, district website",
+    "url": "https://www.tcsk12.com/page/board-members"
+   },
+   {
+    "label": "District five-year strategic plan",
+    "url": "https://aptg.co/mVNY5X"
+   },
+   {
+    "label": "Mississippi Ethics Commission, Open Meetings Case No. M-25-022, Order of Dismissal (May 8, 2026)",
+    "url": "/documents/records/ethics-m-25-022",
+    "local": "/records/MSEC_M-25-022_Order_of_Dismissal_2026-05-08.pdf"
+   }
+  ]
+ },
+ {
+  "group": "Newspaper of record",
+  "items": [
+   {
+    "label": "Tishomingo County News e-edition (weekly issues, Sept. 5, 2024 – Sept. 17, 2026)",
+    "url": "https://tishconews.org/last-e-edition/"
+   }
+  ]
+ }
+]

@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Search" description="Search every page of the TCSD Public Record: meetings, votes, notices, audit findings, vendors, salaries and policies.">
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Search</h1>
+  <p class="mt-2 text-muted">Searches every page, including full salary and vendor tables and the text of legal notices.</p>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <div id="search" class="mt-6" data-pagefind-ignore></div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      var ui = new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+      var q = new URLSearchParams(location.search).get('q');
+      if (q) ui.triggerSearch(q);
+    });
+  </script>
+</Base>

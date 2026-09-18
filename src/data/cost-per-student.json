@@ -1,0 +1,38 @@
+[
+ {
+  "fy": "FY2022",
+  "students": 2841,
+  "total": 12324,
+  "instruction": 7928,
+  "generalAdmin": 356,
+  "schoolAdmin": 680,
+  "other": 3360
+ },
+ {
+  "fy": "FY2023",
+  "students": 2821,
+  "total": 14000,
+  "instruction": 8842,
+  "generalAdmin": 375,
+  "schoolAdmin": 740,
+  "other": 4043
+ },
+ {
+  "fy": "FY2024",
+  "students": 2857,
+  "total": 14079,
+  "instruction": 8697,
+  "generalAdmin": 381,
+  "schoolAdmin": 783,
+  "other": 4218
+ },
+ {
+  "fy": "FY2025",
+  "students": 2785,
+  "total": 15335,
+  "instruction": 8949,
+  "generalAdmin": 399,
+  "schoolAdmin": 837,
+  "other": 5150
+ }
+]

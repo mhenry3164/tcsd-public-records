@@ -1,0 +1,155 @@
+---
+import Base from '../../../layouts/Base.astro';
+import site from '../../../data/site.json';
+import { docs, summaryHtml, citationsFor, type Doc } from '../../../lib/documents';
+import { fmtDate } from '../../../lib/format';
+
+const texts = import.meta.glob<{ page: number; text: string }[]>('../../../data/doc-text/*.json', { eager: true, import: 'default' });
+export function getStaticPaths() {
+  return docs.map((d) => ({ params: { collection: d.collection, slug: d.slug }, props: { d } }));
+}
+const { d } = Astro.props as { d: Doc };
+const pages = texts[`../../../data/doc-text/${d.collection}__${d.slug}.json`] ?? [];
+const cites = citationsFor(d.id);
+const citedPages = [...new Set(cites.map((c) => c.page))];
+const pageTitle = (p: string) =>
+  ({ '/': 'Home', '/finances': 'Finances', '/finances/audits': 'Audit opinions and findings', '/benchmarks': 'Benchmarks', '/records': 'Missing records', '/board': 'School board' } as Record<string, string>)[p] ?? p;
+const collectionLabel =
+  ({ audits: 'District audits', 'peer-audits': 'Neighboring districts’ audits', budget: 'Budget documents', records: 'Records' } as Record<string, string>)[d.collection] ?? d.collection;
+const plain = d.summary.replace(/\{\{(.+?)\}\}/g, '$1');
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'DigitalDocument', name: d.title, datePublished: d.reportDate,
+  author: { '@type': 'Organization', name: d.author }, url: new URL(d.file, site.url).href, encodingFormat: 'application/pdf',
+  numberOfPages: d.pages, description: plain,
+  about: { '@type': 'GovernmentOrganization', name: d.district === 'Tishomingo County' ? site.district.legalName : `${d.district} School District` },
+};
+---
+<Base title={d.title} description={plain.slice(0, 300)} jsonLd={jsonLd} robots="index,follow">
+  <p class="text-sm"><a href="/documents">← Documents</a> · {collectionLabel}</p>
+  <h1 class="text-2xl sm:text-3xl font-semibold mt-2">{d.title}</h1>
+  <p class="mt-2 text-sm text-muted">
+    {d.author} · {d.collection === 'records' ? 'Dated' : 'Report dated'} {fmtDate(d.reportDate)} · {d.pages} pages ·
+    {d.sourceUrl ? <a href={d.sourceUrl} rel="noopener">Source: {d.sourceLabel}</a> : <>Source: {d.sourceLabel}</>}
+  </p>
+  <div class="mt-4 flex flex-wrap gap-3" data-pagefind-ignore>
+    <a href={d.file} download class="rounded bg-accent text-white px-4 py-2 font-medium no-underline">Download PDF</a>
+    <a href={d.file} target="_blank" rel="noopener" class="rounded border border-rule bg-white px-4 py-2 no-underline">Open in new tab</a>
+  </div>
+
+  <div class="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1fr)_320px]">
+    <section aria-label="Document viewer" data-pagefind-ignore>
+      <div class="flex flex-wrap items-center gap-2 bg-white border border-rule rounded-t px-3 py-2 text-sm">
+        <button type="button" id="pv-prev" class="border border-rule rounded px-3 py-1" aria-label="Previous page">←</button>
+        <label for="pv-num" class="sr-only">Page number</label>
+        <input id="pv-num" type="number" min="1" max={d.pages} value="1" class="w-16 border border-rule rounded px-2 py-1" />
+        <span>of {d.pages}</span>
+        <button type="button" id="pv-next" class="border border-rule rounded px-3 py-1" aria-label="Next page">→</button>
+        <span id="pv-status" class="text-muted ml-auto" aria-live="polite"></span>
+      </div>
+      <div id="pv" class="border border-t-0 border-rule rounded-b bg-[#e9e7e1] p-2 sm:p-4 min-h-[60vh] flex justify-center scroll-mt-4" data-file={d.file} data-pages={d.pages}>
+        <canvas id="pv-canvas" class="bg-white shadow max-w-full" role="img" aria-label="Rendered PDF page; the text of each page is under Full text below"></canvas>
+        <noscript><p class="p-4">The viewer needs JavaScript. <a href={d.file}>Open the PDF</a>.</p></noscript>
+      </div>
+    </section>
+
+    <aside class="space-y-6">
+      <section class="bg-white border border-rule rounded p-4">
+        <h2 class="font-semibold">In plain language</h2>
+        <p class="mt-2 text-[0.95rem] leading-relaxed" set:html={summaryHtml(d)} />
+        <p class="source mt-2">Source: this document{d.sourceUrl && <>, as filed with the {d.sourceLabel}</>}.</p>
+      </section>
+      <section class="bg-white border border-rule rounded p-4" data-pagefind-ignore>
+        <h2 class="font-semibold">Key pages</h2>
+        <ul class="mt-2 space-y-1 text-sm">
+          {d.keyPages.map((k) => <li><a href={`#page=${k.page}`} data-goto={k.page}>{k.label}</a> <span class="text-muted">· PDF p. {k.page}</span></li>)}
+        </ul>
+        <p class="mt-2 text-xs text-muted">PDF page numbers can differ from the numbers printed on the page.</p>
+      </section>
+      <section class="bg-white border border-rule rounded p-4">
+        <h2 class="font-semibold">Numbers on this site taken from this document</h2>
+        {cites.length ? (
+          <ul class="mt-2 space-y-2 text-sm">
+            {citedPages.map((p) => (
+              <li><a href={p}>{pageTitle(p)}</a>: {cites.filter((c) => c.page === p).map((c, i) => <>{i > 0 && '; '}{c.label} (<a href={`#page=${c.pdfPage}`} data-goto={c.pdfPage}>p. {c.pdfPage}</a>)</>)}</li>
+            ))}
+          </ul>
+        ) : <p class="mt-2 text-sm">Not yet cited elsewhere on this site.</p>}
+      </section>
+    </aside>
+  </div>
+
+  <details class="mt-8 bg-white border border-rule rounded p-4" id="fulltext">
+    <summary class="cursor-pointer font-semibold">Full text of this document, by page</summary>
+    <p class="mt-2 text-sm text-muted">Extracted automatically from the PDF so the text can be searched. Tables may lose their alignment; the PDF is authoritative.</p>
+    {pages.map((p) => (
+      <section class="mt-4">
+        <h3 id={`page-${p.page}`} class="text-sm font-semibold">Page {p.page} <a href={`#page=${p.page}`} data-goto={p.page} class="font-normal" data-pagefind-ignore>view page</a></h3>
+        <pre class="mt-1 whitespace-pre-wrap text-xs leading-snug font-mono overflow-x-auto">{p.text}</pre>
+      </section>
+    ))}
+  </details>
+
+  <script is:inline type="module">
+    const box = document.getElementById('pv');
+    const canvas = document.getElementById('pv-canvas');
+    const num = document.getElementById('pv-num');
+    const status = document.getElementById('pv-status');
+    const total = Number(box.dataset.pages);
+    let pdf, current = 1, task = null;
+    // Accept #page=N (site links, PDF convention) and #page-N (search-result anchors).
+    const fromHash = () => { const m = location.hash.match(/^#page[=-](\d+)$/); return m ? Math.min(Math.max(1, +m[1]), total) : null; };
+    async function show(n, updateHash) {
+      current = n; num.value = n;
+      if (updateHash) history.replaceState(null, '', `#page=${n}`);
+      if (!pdf) return;
+      if (task) { try { task.cancel(); } catch {} }
+      status.textContent = 'Loading page…';
+      const page = await pdf.getPage(n);
+      const base = page.getViewport({ scale: 1 });
+      const scale = Math.min((box.clientWidth - 16) / base.width, 2);
+      const dpr = window.devicePixelRatio || 1;
+      const vp = page.getViewport({ scale: scale * dpr });
+      canvas.width = vp.width; canvas.height = vp.height;
+      canvas.style.width = `${vp.width / dpr}px`; canvas.style.height = `${vp.height / dpr}px`;
+      task = page.render({ canvasContext: canvas.getContext('2d'), viewport: vp });
+      try { await task.promise; status.textContent = ''; } catch { /* superseded by a newer render */ }
+    }
+    const viewer = box.parentElement;
+    const go = (n) => { show(n, true); viewer.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+    document.getElementById('pv-prev').onclick = () => current > 1 && show(current - 1, true);
+    document.getElementById('pv-next').onclick = () => current < total && show(current + 1, true);
+    num.onchange = () => show(Math.min(Math.max(1, +num.value || 1), total), true);
+    document.addEventListener('click', (e) => {
+      const a = e.target.closest('[data-goto]');
+      if (!a) return;
+      e.preventDefault();
+      go(+a.dataset.goto);
+    });
+    window.addEventListener('hashchange', () => { const n = fromHash(); if (n) go(n); });
+    let t;
+    window.addEventListener('resize', () => { clearTimeout(t); t = setTimeout(() => show(current), 200); });
+    const start = fromHash() || 1;
+    current = start; num.value = start;
+    // Deep link: bring the viewer into view once the browser has finished its own load-time scrolling.
+    if (fromHash()) {
+      history.scrollRestoration = 'manual';
+      const toViewer = () => setTimeout(() => viewer.scrollIntoView({ block: 'start' }), 0);
+      if (document.readyState === 'complete') toViewer(); else window.addEventListener('load', toViewer, { once: true });
+    }
+    // Load PDF.js only after the page itself has finished loading, so the text of the page paints first.
+    async function boot() {
+      try {
+        status.textContent = 'Loading document…';
+        const lib = await import('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs');
+        lib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
+        pdf = await lib.getDocument(box.dataset.file).promise;
+        await show(current);
+      } catch (err) {
+        status.textContent = '';
+        box.innerHTML = `<p class="p-4">The in-page viewer could not load. <a href="${box.dataset.file}${current > 1 ? '#page=' + current : ''}">Open the PDF</a> instead.</p>`;
+      }
+    }
+    const later = () => ('requestIdleCallback' in window ? requestIdleCallback(boot, { timeout: 1500 }) : setTimeout(boot, 200));
+    if (document.readyState === 'complete') later(); else window.addEventListener('load', later, { once: true });
+  </script>
+</Base>

@@ -1,0 +1,90 @@
+{
+  "date": "2024-07-18",
+  "type": "Regular Meeting",
+  "dateNote": "Report states the district held its annual budget meeting on Thursday, July 18, followed by its July monthly meeting. The paper covered both in one article, so one file is used; budget-meeting items are listed in otherActions with the prefix 'Budget hearing:'. The report says the next regular meeting is August 15.",
+  "sources": [
+    {
+      "issue": "2024-07-25",
+      "page": 1
+    },
+    {
+      "issue": "2024-07-25",
+      "page": 4
+    }
+  ],
+  "headline": "TCSD annual Budget Meeting and July monthly meeting adopted new cellphone policy for students, new hires among other topics addressed",
+  "summary": "At the annual budget meeting the finance director presented the projected 2024-2025 budget, and the report states the district would not need to ask the Board of Supervisors for an increase. At the July meeting the board approved personnel, a PepsiCo sales contract, a contract with Jack Ivy Broadcasting and a new student cell phone policy. The board also discussed an Attorney General opinion on out-of-state students; board member Jessica Seaton recused herself from that matter.",
+  "attendance": null,
+  "calledToOrderBy": "Jeff Daniel",
+  "minutesApproved": [],
+  "publicComment": "Budget hearing: an attendee asked whether the fire alarm system is up to code.",
+  "votes": [
+    {
+      "item": "Out-of-state student transfers, following an Attorney General opinion",
+      "member": "Jessica Seaton",
+      "action": "recused",
+      "outcome": "not stated",
+      "source": {
+        "issue": "2024-07-25",
+        "page": 4
+      }
+    }
+  ],
+  "personnel": {
+    "hires": 31,
+    "resignations": 4,
+    "retirements": 0,
+    "transfers": 0,
+    "other": 1,
+    "note": "Hires include 5 substitute teachers, 1 substitute SPED bus monitor, 7 after-school program teachers, 4 ATSI ELA and math tutors, and administrative, nursing, finance, technology, custodial, instructional and coaching positions; other = 1 volunteer (Belmont volleyball)."
+  },
+  "money": [
+    {
+      "item": "Contract under which Jack Ivy Broadcasting pays the district to livestream high school athletic events",
+      "vendor": "Jack Ivy Broadcasting",
+      "amount": 4000,
+      "amountText": "$4,000 (paid to the district)",
+      "source": {
+        "issue": "2024-07-25",
+        "page": 4
+      }
+    }
+  ],
+  "donations": {
+    "count": 0,
+    "total": 0,
+    "note": null
+  },
+  "policy": [
+    {
+      "item": "New student cell phone policy adopted: phones and smartwatches must stay in backpacks from arrival until the end of the school day, with escalating consequences from confiscation to in-school detention, out-of-school suspension and alternative school; provision for students who need a phone for medical reasons. No change was made for teacher cell phones.",
+      "source": {
+        "issue": "2024-07-25",
+        "page": 4
+      }
+    }
+  ],
+  "superintendent": [
+    "Superintendent Holly said the Iuka Elementary School fire system was checked, issues were found, and everything is now code compliant (budget meeting)."
+  ],
+  "executiveSession": [],
+  "otherActions": [
+    "Budget hearing: Board President Jeff Daniel called the annual budget meeting to order; about 50 people attended.",
+    "Budget hearing: the finance director presented the projected 2024-2025 budget; the report states the district would not need to ask the Board of Supervisors to increase its budget and that ad valorem taxes will not increase based on projections.",
+    "Budget hearing: ESSER 1 and 2 funds end Sept. 30 (FY24); the district chose to keep kindergarten assistant, interventionist and nurse positions paid from those funds.",
+    "Budget hearing: Educator Expense Fund (EEF) cards of $740 per teacher, available July 31, 2024 to March 31, 2025.",
+    "Budget hearing: student lunch price rises from $2.75 to $3.00 and breakfast from $1.50 to $1.75.",
+    "Budget hearing: asked by board member Stacy Stepp what it would take to provide free breakfast and lunch to all students, the report states the county must meet 25% of SNAP benefits for free and reduced lunch and the district is at 17%, below the threshold.",
+    "Budget hearing: the district operates on $39,304,926.95; funding is 55% state, 25% local taxes, 15% federal and 5% other.",
+    "Budget hearing: the district increased the teacher and assistant supplement from $800 to $1,000 the previous year.",
+    "Budget hearing: about 467 full-time employees; 46 bus routes, over 465,000 miles a year; 143,590 breakfasts and 314,161 lunches served in SY2024; the 3-mill bond issued in FY17 is to be paid off in July 2026.",
+    "4 resignations accepted",
+    "Approved all schools to sell PepsiCo products for profit from July 1, 2024 to June 30, 2025; the contract binds all booster clubs to sell only Pepsi products",
+    "Board approved the Jack Ivy Broadcasting contract after discussion raised by board member Stacy Stepp; no motion was made to change the contract",
+    "Approved allowing Jack Ivy Broadcasting to livestream the Belmont/Tishomingo County volleyball match at TCHS, at Stacy Stepp's request, along with the TCHS PR class",
+    "Discussed an Attorney General's official opinion that out-of-state students may not attend district schools; the report states 27 students are affected, that educating them costs about $10,000 each ($270,000 a year), and that families will be notified",
+    "Next regular meeting set for August 15"
+  ],
+  "quote": null,
+  "reviewed": false
+}

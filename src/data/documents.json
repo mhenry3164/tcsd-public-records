@@ -1,0 +1,648 @@
+[
+ {
+  "id": "audits/tcsd-fy2025",
+  "collection": "audits",
+  "slug": "tcsd-fy2025",
+  "title": "Tishomingo County School District — Audited Financial Statements, FY2025",
+  "shortTitle": "TCSD audit, FY2025",
+  "district": "Tishomingo County",
+  "fiscalYear": "FY2025",
+  "author": "McKenzie CPA, PLLC",
+  "reportDate": "2026-02-20",
+  "pages": 79,
+  "file": "/audits/TCSD_Audit_FY2025.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/19108",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 12
+   },
+   {
+    "label": "Balance sheet",
+    "page": 20
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 22
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 49
+   },
+   {
+    "label": "Cost per student",
+    "page": 62
+   },
+   {
+    "label": "Federal awards",
+    "page": 60
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 64
+   },
+   {
+    "label": "State-law compliance",
+    "page": 73
+   },
+   {
+    "label": "Findings",
+    "page": 78
+   }
+  ],
+  "summary": "This is the district's audited financial report for the year ending June 30, 2025. McKenzie CPA, PLLC prepared it, and it was filed with the State Auditor on Feb. 20, 2026. The auditor gave an unmodified opinion (the statements are fairly presented). The auditor found no material weaknesses (control gaps serious enough to let an error go unnoticed). Spending across all funds was $42.7 million, or $15,335 per student. The General Fund (the main operating fund) ended the year with $13.9 million, about five months of spending. The district paid off $4.1 million in bonds and notes during the year. The auditor reported four state-law compliance findings, all repeated from prior years. They cover employee surety bonds, a principal supervising a relative, travel-reimbursement documentation, and paperwork for rehired retirees. Open the findings ({{Findings}}), budget vs. actual ({{Budget vs. actual}}), or cost per student ({{Cost per student}})."
+ },
+ {
+  "id": "audits/tcsd-fy2024",
+  "collection": "audits",
+  "slug": "tcsd-fy2024",
+  "title": "Tishomingo County School District — Audited Financial Statements, FY2024",
+  "shortTitle": "TCSD audit, FY2024",
+  "district": "Tishomingo County",
+  "fiscalYear": "FY2024",
+  "author": "McKenzie CPA, PLLC",
+  "reportDate": "2025-07-31",
+  "pages": 83,
+  "file": "/audits/TCSD_Audit_FY2024.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/18574",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 12
+   },
+   {
+    "label": "Balance sheet",
+    "page": 20
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 22
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 52
+   },
+   {
+    "label": "Cost per student",
+    "page": 67
+   },
+   {
+    "label": "Federal awards",
+    "page": 65
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 69
+   },
+   {
+    "label": "State-law compliance",
+    "page": 77
+   },
+   {
+    "label": "Findings",
+    "page": 82
+   }
+  ],
+  "summary": "This is the district's audited financial report for the year ending June 30, 2024. McKenzie CPA, PLLC prepared it, and it was filed with the State Auditor on July 31, 2025, about 13 months after the year ended. The auditor gave an unmodified opinion (the statements are fairly presented) and found no material weaknesses. Spending across all funds was $40.2 million, or $14,079 per student. The General Fund ended the year with $13.7 million. The auditor reported four state-law findings, all repeated from the prior year: surety bonds, a principal supervising a relative (referred to the Mississippi Ethics Commission), travel documentation, and paperwork for rehired retirees. Open the findings ({{Findings}}) or cost per student ({{Cost per student}})."
+ },
+ {
+  "id": "audits/tcsd-fy2023",
+  "collection": "audits",
+  "slug": "tcsd-fy2023",
+  "title": "Tishomingo County School District — Audited Financial Statements, FY2023",
+  "shortTitle": "TCSD audit, FY2023",
+  "district": "Tishomingo County",
+  "fiscalYear": "FY2023",
+  "author": "McKenzie CPA, PLLC",
+  "reportDate": "2025-06-04",
+  "pages": 84,
+  "file": "/audits/TCSD_Audit_FY2023.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/18384",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 12
+   },
+   {
+    "label": "Balance sheet",
+    "page": 20
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 22
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 52
+   },
+   {
+    "label": "Cost per student",
+    "page": 64
+   },
+   {
+    "label": "Federal awards",
+    "page": 62
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 66
+   },
+   {
+    "label": "State-law compliance",
+    "page": 75
+   },
+   {
+    "label": "Findings",
+    "page": 81
+   }
+  ],
+  "summary": "This is the district's audited financial report for the year ending June 30, 2023. McKenzie CPA, PLLC prepared it, and it was filed with the State Auditor on June 4, 2025, about 23 months after the year ended. The auditor gave an unmodified opinion (the statements are fairly presented) and found no material weaknesses. Spending across all funds was $39.5 million, or $14,000 per student. The General Fund ended the year with $15.1 million. The auditor reported four state-law findings; two were repeated from the prior year. They cover statements of economic interest, surety bonds, travel documentation, and paperwork for rehired retirees. Open the findings ({{Findings}}) or cost per student ({{Cost per student}})."
+ },
+ {
+  "id": "audits/tcsd-fy2022",
+  "collection": "audits",
+  "slug": "tcsd-fy2022",
+  "title": "Tishomingo County School District — Audited Financial Statements, FY2022",
+  "shortTitle": "TCSD audit, FY2022",
+  "district": "Tishomingo County",
+  "fiscalYear": "FY2022",
+  "author": "The Sparks CPA Firm, P.C.",
+  "reportDate": "2024-09-25",
+  "pages": 80,
+  "file": "/audits/TCSD_Audit_FY2022.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/17630",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 4
+   },
+   {
+    "label": "MD&A",
+    "page": 8
+   },
+   {
+    "label": "Statement of net position",
+    "page": 11
+   },
+   {
+    "label": "Balance sheet",
+    "page": 19
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 21
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 45
+   },
+   {
+    "label": "Cost per student",
+    "page": 58
+   },
+   {
+    "label": "Federal awards",
+    "page": 56
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 60
+   },
+   {
+    "label": "State-law compliance",
+    "page": 69
+   },
+   {
+    "label": "Findings",
+    "page": 74
+   }
+  ],
+  "summary": "This is the district's audited financial report for the year ending June 30, 2022. The Sparks CPA Firm, P.C. prepared it, and it is dated Sept. 25, 2024, about two years after the year ended. The auditor gave an unmodified opinion (the statements are fairly presented). It reported no material weakness and one significant deficiency (a control gap less serious than a material weakness), on athletic gate receipts. Spending across all funds was $35.0 million, or $12,324 per student. The General Fund ended the year with $16.9 million. Findings also cover rehired-retiree paperwork, travel vouchers, a board member who did not recuse from a consent-agenda hire of a relative, procurement cards, and federal child-nutrition documentation. Open the findings ({{Findings}}) or cost per student ({{Cost per student}})."
+ },
+ {
+  "id": "peer-audits/alcorn-fy2025",
+  "collection": "peer-audits",
+  "slug": "alcorn-fy2025",
+  "title": "Alcorn School District — Audited Financial Statements, FY2025",
+  "shortTitle": "Alcorn audit, FY2025",
+  "district": "Alcorn",
+  "fiscalYear": "FY2025",
+  "author": "Cunningham CPAs, PLLC",
+  "reportDate": "2026-07-31",
+  "pages": 80,
+  "file": "/peer-audits/Alcorn_FY2025.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/19465",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 12
+   },
+   {
+    "label": "Balance sheet",
+    "page": 20
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 22
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 52
+   },
+   {
+    "label": "Cost per student",
+    "page": 66
+   },
+   {
+    "label": "Federal awards",
+    "page": 63
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 68
+   },
+   {
+    "label": "State-law compliance",
+    "page": 76
+   },
+   {
+    "label": "Findings",
+    "page": 79
+   }
+  ],
+  "summary": "Audited financial statements for the Alcorn School District for the year ending June 30, 2025, filed with the Mississippi State Auditor. Cunningham CPAs, PLLC prepared them. Opinion: unmodified (the statements are fairly presented). Used on this site for the Benchmarks comparison: cost per student $13,258; no state-law audit findings; General Fund balance $7.8 million. Open cost per student ({{Cost per student}}) or the findings ({{Findings}})."
+ },
+ {
+  "id": "peer-audits/prentiss-county-fy2025",
+  "collection": "peer-audits",
+  "slug": "prentiss-county-fy2025",
+  "title": "Prentiss County School District — Audited Financial Statements, FY2025",
+  "shortTitle": "Prentiss County audit, FY2025",
+  "district": "Prentiss County",
+  "fiscalYear": "FY2025",
+  "author": "Cunningham CPAs, PLLC",
+  "reportDate": "2026-02-19",
+  "pages": 80,
+  "file": "/peer-audits/PrentissCounty_FY2025.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/19072",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 12
+   },
+   {
+    "label": "Balance sheet",
+    "page": 20
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 22
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 51
+   },
+   {
+    "label": "Cost per student",
+    "page": 65
+   },
+   {
+    "label": "Federal awards",
+    "page": 62
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 67
+   },
+   {
+    "label": "State-law compliance",
+    "page": 75
+   },
+   {
+    "label": "Findings",
+    "page": 78
+   }
+  ],
+  "summary": "Audited financial statements for the Prentiss County School District for the year ending June 30, 2025, filed with the Mississippi State Auditor. Cunningham CPAs, PLLC prepared them. Opinion: unmodified (the statements are fairly presented). Used on this site for the Benchmarks comparison: cost per student $14,222; no state-law audit findings; General Fund balance $9.6 million. Open cost per student ({{Cost per student}}) or the findings ({{Findings}})."
+ },
+ {
+  "id": "peer-audits/itawamba-county-fy2023",
+  "collection": "peer-audits",
+  "slug": "itawamba-county-fy2023",
+  "title": "Itawamba County School District — Audited Financial Statements, FY2023",
+  "shortTitle": "Itawamba County audit, FY2023",
+  "district": "Itawamba County",
+  "fiscalYear": "FY2023",
+  "author": "McKenzie CPA, PLLC",
+  "reportDate": "2025-11-30",
+  "pages": 86,
+  "file": "/peer-audits/ItawambaCounty_FY2023.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/18932",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 6
+   },
+   {
+    "label": "MD&A",
+    "page": 10
+   },
+   {
+    "label": "Statement of net position",
+    "page": 13
+   },
+   {
+    "label": "Balance sheet",
+    "page": 21
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 23
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 51
+   },
+   {
+    "label": "Cost per student",
+    "page": 66
+   },
+   {
+    "label": "Federal awards",
+    "page": 64
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 68
+   },
+   {
+    "label": "State-law compliance",
+    "page": 76
+   },
+   {
+    "label": "Findings",
+    "page": 82
+   }
+  ],
+  "summary": "Audited financial statements for the Itawamba County School District for the year ending June 30, 2023, filed with the Mississippi State Auditor. McKenzie CPA, PLLC prepared them. Opinion: unmodified (the statements are fairly presented). Used on this site for the Benchmarks comparison: cost per student $12,308; 5 state-law audit findings (all repeats), plus a material weakness; General Fund balance $5.5 million. Open cost per student ({{Cost per student}}) or the findings ({{Findings}})."
+ },
+ {
+  "id": "peer-audits/booneville-fy2025",
+  "collection": "peer-audits",
+  "slug": "booneville-fy2025",
+  "title": "Booneville School District — Audited Financial Statements, FY2025",
+  "shortTitle": "Booneville audit, FY2025",
+  "district": "Booneville",
+  "fiscalYear": "FY2025",
+  "author": "Brown CPA, PLLC",
+  "reportDate": "2026-01-23",
+  "pages": 81,
+  "file": "/peer-audits/Booneville_FY2025.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/19034",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 10
+   },
+   {
+    "label": "Balance sheet",
+    "page": 21
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 23
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 49
+   },
+   {
+    "label": "Cost per student",
+    "page": 62
+   },
+   {
+    "label": "Federal awards",
+    "page": 60
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 64
+   },
+   {
+    "label": "State-law compliance",
+    "page": 72
+   },
+   {
+    "label": "Findings",
+    "page": 80
+   }
+  ],
+  "summary": "Audited financial statements for the Booneville School District for the year ending June 30, 2025, filed with the Mississippi State Auditor. Brown CPA, PLLC prepared them. Opinion: unmodified (the statements are fairly presented). Used on this site for the Benchmarks comparison: cost per student $18,391; 3 state-law audit findings (all repeats); General Fund balance $3.2 million. Open cost per student ({{Cost per student}}) or the findings ({{Findings}})."
+ },
+ {
+  "id": "peer-audits/corinth-fy2025",
+  "collection": "peer-audits",
+  "slug": "corinth-fy2025",
+  "title": "Corinth School District — Audited Financial Statements, FY2025",
+  "shortTitle": "Corinth audit, FY2025",
+  "district": "Corinth",
+  "fiscalYear": "FY2025",
+  "author": "Cunningham CPAs, PLLC",
+  "reportDate": "2026-01-12",
+  "pages": 84,
+  "file": "/peer-audits/Corinth_FY2025.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/18952",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 6
+   },
+   {
+    "label": "MD&A",
+    "page": 10
+   },
+   {
+    "label": "Statement of net position",
+    "page": 13
+   },
+   {
+    "label": "Balance sheet",
+    "page": 21
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 23
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 54
+   },
+   {
+    "label": "Cost per student",
+    "page": 70
+   },
+   {
+    "label": "Federal awards",
+    "page": 67
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 72
+   },
+   {
+    "label": "State-law compliance",
+    "page": 80
+   },
+   {
+    "label": "Findings",
+    "page": 83
+   }
+  ],
+  "summary": "Audited financial statements for the Corinth School District for the year ending June 30, 2025, filed with the Mississippi State Auditor. Cunningham CPAs, PLLC prepared them. Opinion: unmodified (the statements are fairly presented). Used on this site for the Benchmarks comparison: cost per student $17,051; no state-law audit findings; General Fund balance $20.4 million. Open cost per student ({{Cost per student}}) or the findings ({{Findings}})."
+ },
+ {
+  "id": "peer-audits/baldwyn-fy2025",
+  "collection": "peer-audits",
+  "slug": "baldwyn-fy2025",
+  "title": "Baldwyn School District — Audited Financial Statements, FY2025",
+  "shortTitle": "Baldwyn audit, FY2025",
+  "district": "Baldwyn",
+  "fiscalYear": "FY2025",
+  "author": "McKenzie CPA, PLLC",
+  "reportDate": "2026-02-13",
+  "pages": 78,
+  "file": "/peer-audits/Baldwyn_FY2025.pdf",
+  "sourceUrl": "https://www.osa.ms.gov/node/19093",
+  "sourceLabel": "Mississippi Office of the State Auditor",
+  "keyPages": [
+   {
+    "label": "Auditor’s opinion",
+    "page": 5
+   },
+   {
+    "label": "MD&A",
+    "page": 9
+   },
+   {
+    "label": "Statement of net position",
+    "page": 12
+   },
+   {
+    "label": "Balance sheet",
+    "page": 20
+   },
+   {
+    "label": "Revenues and expenditures",
+    "page": 22
+   },
+   {
+    "label": "Budget vs. actual",
+    "page": 50
+   },
+   {
+    "label": "Cost per student",
+    "page": 65
+   },
+   {
+    "label": "Federal awards",
+    "page": 63
+   },
+   {
+    "label": "Four-year General Fund",
+    "page": 67
+   },
+   {
+    "label": "State-law compliance",
+    "page": 75
+   },
+   {
+    "label": "Findings",
+    "page": 77
+   }
+  ],
+  "summary": "Audited financial statements for the Baldwyn School District for the year ending June 30, 2025, filed with the Mississippi State Auditor. McKenzie CPA, PLLC prepared them. Opinion: unmodified (the statements are fairly presented). Used on this site for the Benchmarks comparison: cost per student $19,324; no state-law audit findings; General Fund balance $4.8 million. Open cost per student ({{Cost per student}}) or the findings ({{Findings}})."
+ },
+ {
+  "id": "records/ethics-m-25-022",
+  "collection": "records",
+  "slug": "ethics-m-25-022",
+  "title": "Mississippi Ethics Commission — Open Meetings Case No. M-25-022, Order of Dismissal",
+  "shortTitle": "Ethics Commission order M-25-022",
+  "district": "Tishomingo County",
+  "fiscalYear": null,
+  "author": "Mississippi Ethics Commission",
+  "reportDate": "2026-05-08",
+  "pages": 2,
+  "file": "/records/MSEC_M-25-022_Order_of_Dismissal_2026-05-08.pdf",
+  "sourceUrl": null,
+  "sourceLabel": "Mississippi Ethics Commission",
+  "keyPages": [
+   {
+    "label": "Findings of fact (¶1.1–1.4)",
+    "page": 1
+   },
+   {
+    "label": "Conclusions of law (¶2.1–2.2)",
+    "page": 2
+   }
+  ],
+  "summary": "This is a two-page order from the Mississippi Ethics Commission, dated May 8, 2026. A private citizen complained that the school board does not post its minutes online. The Commission dismissed the complaint. It held that state law requires minutes to be recorded within 30 days and open to inspection during business hours. The law does not require minutes to be posted online. In its response, the board confirmed that it does not post minutes online. The district said copies of minutes “would have been provided as per policy” if requested. Read the conclusions of law ({{Conclusions of law (¶2.1–2.2)}})."
+ }
+]

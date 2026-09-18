@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import Columns from '../../components/Columns.astro';
+import BarList from '../../components/BarList.astro';
+import StackBars from '../../components/StackBars.astro';
+import { moneyShort } from '../../lib/format';
+import sal from '../../data/salaries-summary.json';
+import site from '../../data/site.json';
+import { money, pct } from '../../lib/format';
+const years = sal.years;
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'Dataset', name: 'Tishomingo County School District salaries, 2017–2025',
+  description: 'Annual wages by employee and position, from the Mississippi Department of Education as published by OpenTheBooks.com.',
+  creator: { '@type': 'GovernmentOrganization', name: 'Mississippi Department of Education' }, isAccessibleForFree: true, temporalCoverage: '2017/2025',
+  distribution: { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${site.url}/data/tcsd_salaries_2017-2025.csv` },
+};
+---
+<Base title="Salaries" description="Tishomingo County School District payroll 2017–2025: total wages, positions, average and median pay, pay bands, largest job titles, and every position by name." jsonLd={jsonLd}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Salaries</h1>
+  <p class="note mt-4 measure">Salary data is Mississippi Department of Education public data as published by <a href={site.district.openthebooks}>OpenTheBooks.com</a>; this site reproduces it unchanged. Each row is one person in one position for one year, so a person with two positions appears twice. Anyone may request a correction with a source: <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a>.</p>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Payroll by year</h2>
+    <div class="grid-auto my-4" style="--min:30rem">
+      <Columns title="Total wages" labels={years.map((y) => y.year)} format={(v) => moneyShort(v)} series={[{ name: 'Total wages', values: years.map((y) => y.total) }]} />
+      <Columns title="Average and median wage" labels={years.map((y) => y.year)} format={(v) => money(Math.round(v))} axisFormat={(v) => moneyShort(v)}
+        series={[{ name: 'Average', values: years.map((y) => y.average) }, { name: 'Median', values: years.map((y) => y.median) }]} />
+      <Columns title="Positions" labels={years.map((y) => y.year)} format={(v) => String(v)} series={[{ name: 'Positions', values: years.map((y) => y.positions) }]} />
+    </div>
+    <div class="table-wrap">
+      <table class="data">
+        <thead><tr><th>Year</th><th class="num">Positions</th><th class="num">Total wages</th><th class="num">Change</th><th class="num">Average</th><th class="num">Median</th><th class="num">Highest</th><th></th></tr></thead>
+        <tbody>{years.map((y, i) => (
+          <tr><td>{y.year}</td><td class="num">{y.positions}</td><td class="num">{money(y.total)}</td><td class="num">{i ? pct(years[i - 1].total, y.total) : '—'}</td><td class="num">{money(y.average)}</td><td class="num">{money(y.median)}</td><td class="num">{money(y.top)}</td><td><a href={`/salaries/${y.year}`}>All {y.positions}</a></td></tr>
+        ))}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Source: Mississippi Department of Education via <a href={site.district.openthebooks}>OpenTheBooks.com</a>. <a href="/data/tcsd_salaries_2017-2025.csv" download>Download CSV</a> (4,159 rows).</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Pay bands (number of positions)</h2>
+    <div class="my-4"><BarList title={`Positions by pay band, ${sal.bands[sal.bands.length - 1].year}`} format={(v) => String(v)}
+      items={sal.bandLabels.map((l, i) => ({ label: l, value: sal.bands[sal.bands.length - 1].counts[i] }))} /></div>
+    <div class="table-wrap mt-3">
+      <table class="data">
+        <thead><tr><th>Year</th>{sal.bandLabels.map((l) => <th class="num">{l}</th>)}</tr></thead>
+        <tbody>{sal.bands.map((b) => <tr><td>{b.year}</td>{b.counts.map((c) => <td class="num">{c}</td>)}</tr>)}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Computed from the same data. Positions under $10,000 are mostly coaching and activity supplements and part-time roles.</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Largest job titles, {sal.topTitlesYear}</h2>
+    <div class="my-4"><BarList title="Total wages by job title, top 12" format={(v) => money(Math.round(v))}
+      items={[...sal.topTitles].sort((a, b) => b.total - a.total).slice(0, 12).map((t) => ({ label: t.title, value: t.total, note: `${t.positions} positions` }))} /></div>
+    <div class="table-wrap mt-3">
+      <table class="data" data-sortable>
+        <thead><tr><th>Title</th><th class="num">Positions</th><th class="num">Total wages</th><th class="num">Average</th></tr></thead>
+        <tbody>{sal.topTitles.map((t) => <tr><td>{t.title}</td><td class="num">{t.positions}</td><td class="num">{money(t.total)}</td><td class="num">{money(t.average)}</td></tr>)}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Titles as recorded by the Mississippi Department of Education.</p>
+  </section>
+</Base>

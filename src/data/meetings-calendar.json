@@ -1,0 +1,551 @@
+[
+ {
+  "date": "2024-09-09",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "41480"
+ },
+ {
+  "date": "2024-10-08",
+  "time": "6:30 PM",
+  "weekday": "Tuesday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "41810"
+ },
+ {
+  "date": "2024-10-29",
+  "time": "6:30 PM",
+  "weekday": "Tuesday",
+  "type": "Working Session",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "41993"
+ },
+ {
+  "date": "2024-11-01",
+  "time": "8:00 AM",
+  "weekday": "Friday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42125"
+ },
+ {
+  "date": "2024-11-11",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42001"
+ },
+ {
+  "date": "2024-12-10",
+  "time": "6:30 PM",
+  "weekday": "Tuesday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42193"
+ },
+ {
+  "date": "2024-12-11",
+  "time": "3:00 PM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42365"
+ },
+ {
+  "date": "2024-12-17",
+  "time": "8:00 AM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42394"
+ },
+ {
+  "date": "2025-01-13",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42364"
+ },
+ {
+  "date": "2025-01-15",
+  "time": "8:00 AM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42519"
+ },
+ {
+  "date": "2025-01-23",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42549"
+ },
+ {
+  "date": "2025-02-11",
+  "time": "6:30 PM",
+  "weekday": "Tuesday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42520"
+ },
+ {
+  "date": "2025-03-06",
+  "time": "6:30 PM",
+  "weekday": "Thursday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42709"
+ },
+ {
+  "date": "2025-03-19",
+  "time": "8:00 AM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42891"
+ },
+ {
+  "date": "2025-03-27",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42964"
+ },
+ {
+  "date": "2025-04-03",
+  "time": "6:30 PM",
+  "weekday": "Thursday",
+  "type": "Working Session",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42710"
+ },
+ {
+  "date": "2025-04-08",
+  "time": "8:00 AM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43035"
+ },
+ {
+  "date": "2025-04-14",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "42859"
+ },
+ {
+  "date": "2025-05-12",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43116"
+ },
+ {
+  "date": "2025-05-28",
+  "time": "8:00 AM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43400"
+ },
+ {
+  "date": "2025-06-09",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43386"
+ },
+ {
+  "date": "2025-06-16",
+  "time": "8:00 AM",
+  "weekday": "Monday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43565"
+ },
+ {
+  "date": "2025-06-26",
+  "time": "4:00 PM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43696"
+ },
+ {
+  "date": "2025-07-10",
+  "time": "6:30 PM",
+  "weekday": "Thursday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43566"
+ },
+ {
+  "date": "2025-07-21",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Annual Public Budget Hearing",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43917"
+ },
+ {
+  "date": "2025-07-21",
+  "time": "7:00 PM",
+  "weekday": "Monday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43918"
+ },
+ {
+  "date": "2025-07-31",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43944"
+ },
+ {
+  "date": "2025-08-11",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "43704"
+ },
+ {
+  "date": "2025-08-26",
+  "time": "8:00 AM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44285"
+ },
+ {
+  "date": "2025-09-08",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44288"
+ },
+ {
+  "date": "2025-09-25",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44472"
+ },
+ {
+  "date": "2025-10-16",
+  "time": "6:30 PM",
+  "weekday": "Thursday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44471"
+ },
+ {
+  "date": "2025-11-04",
+  "time": "8:00 AM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44740"
+ },
+ {
+  "date": "2025-11-10",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44685"
+ },
+ {
+  "date": "2025-12-04",
+  "time": "1:00 PM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44938"
+ },
+ {
+  "date": "2025-12-15",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "44917"
+ },
+ {
+  "date": "2026-01-12",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45148"
+ },
+ {
+  "date": "2026-01-16",
+  "time": "8:00 AM",
+  "weekday": "Friday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45222"
+ },
+ {
+  "date": "2026-02-09",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45223"
+ },
+ {
+  "date": "2026-03-05",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45573"
+ },
+ {
+  "date": "2026-03-17",
+  "time": "6:30 PM",
+  "weekday": "Tuesday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45422"
+ },
+ {
+  "date": "2026-03-26",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45732"
+ },
+ {
+  "date": "2026-03-31",
+  "time": "6:00 PM",
+  "weekday": "Tuesday",
+  "type": "Working Session",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45424"
+ },
+ {
+  "date": "2026-04-13",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45674"
+ },
+ {
+  "date": "2026-04-22",
+  "time": "8:00 AM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45942"
+ },
+ {
+  "date": "2026-05-01",
+  "time": "8:00 AM",
+  "weekday": "Friday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46015"
+ },
+ {
+  "date": "2026-05-11",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "45889"
+ },
+ {
+  "date": "2026-05-18",
+  "time": "8:00 AM",
+  "weekday": "Monday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46152"
+ },
+ {
+  "date": "2026-06-02",
+  "time": "8:00 AM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46271"
+ },
+ {
+  "date": "2026-06-11",
+  "time": "6:30 PM",
+  "weekday": "Thursday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46159"
+ },
+ {
+  "date": "2026-06-17",
+  "time": "8:00 AM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46425"
+ },
+ {
+  "date": "2026-06-30",
+  "time": "3:00 PM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46557"
+ },
+ {
+  "date": "2026-07-09",
+  "time": "6:30 PM",
+  "weekday": "Thursday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46422"
+ },
+ {
+  "date": "2026-07-21",
+  "time": "6:00 PM",
+  "weekday": "Tuesday",
+  "type": "Annual Public Budget Hearing",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46426"
+ },
+ {
+  "date": "2026-07-21",
+  "time": "6:45 PM",
+  "weekday": "Tuesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46708"
+ },
+ {
+  "date": "2026-07-30",
+  "time": "8:00 AM",
+  "weekday": "Thursday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46427"
+ },
+ {
+  "date": "2026-08-10",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "46802"
+ },
+ {
+  "date": "2026-09-02",
+  "time": "8:00 AM",
+  "weekday": "Wednesday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "47111"
+ },
+ {
+  "date": "2026-09-14",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "47038"
+ },
+ {
+  "date": "2026-09-21",
+  "time": "4:00 PM",
+  "weekday": "Monday",
+  "type": "Special Called Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "47230"
+ },
+ {
+  "date": "2026-10-12",
+  "time": "6:30 PM",
+  "weekday": "Monday",
+  "type": "Regular Meeting",
+  "agendaPublic": false,
+  "minutesPublic": false,
+  "agendaId": "47229"
+ }
+]

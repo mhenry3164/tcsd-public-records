@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import Filter from '../../components/Filter.astro';
+import sal from '../../data/salaries-summary.json';
+import site from '../../data/site.json';
+import { money } from '../../lib/format';
+
+type Row = { name: string; title: string; wages: number };
+const files = import.meta.glob<Row[]>('../../data/salaries-2*.json', { eager: true, import: 'default' });
+export function getStaticPaths() {
+  return sal.years.map((y) => ({ params: { year: String(y.year) }, props: { y } }));
+}
+const { y } = Astro.props;
+const rows = files[`../../data/salaries-${y.year}.json`];
+const jsonLd = { '@context': 'https://schema.org', '@type': 'Dataset', name: `Tishomingo County School District salaries, ${y.year}`,
+  description: `${y.positions} positions, total wages ${money(y.total)}.`, temporalCoverage: String(y.year), isAccessibleForFree: true,
+  creator: { '@type': 'GovernmentOrganization', name: 'Mississippi Department of Education' },
+  distribution: { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${site.url}/data/tcsd_salaries_2017-2025.csv` } };
+---
+<Base title={`Salaries, ${y.year}`} description={`All ${y.positions} Tishomingo County School District positions in ${y.year} with name, title and annual wages. Total ${money(y.total)}; average ${money(y.average)}.`} jsonLd={jsonLd}>
+  <p class="text-sm"><a href="/salaries">← Salaries</a> · Year: {sal.years.map((o) => o.year === y.year ? <strong class="mx-1">{o.year}</strong> : <a class="mx-1" href={`/salaries/${o.year}`}>{o.year}</a>)}</p>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold mt-2">Salaries, {y.year}</h1>
+  <p class="mt-2">{y.positions} positions · total {money(y.total)} · average {money(y.average)} · median {money(y.median)}.</p>
+  <p class="note mt-3">Mississippi Department of Education data as published by OpenTheBooks.com, reproduced unchanged. Names appear as recorded (last name first). Corrections with a source: <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a>.</p>
+  <Filter target="salaries" label="Filter by name or title" />
+  <div class="table-wrap">
+    <table class="data" id="salaries" data-sortable>
+      <thead><tr><th>Name</th><th>Title</th><th class="num">Annual wages</th></tr></thead>
+      <tbody>{rows.map((r) => <tr><td>{r.name}</td><td>{r.title}</td><td class="num">{money(r.wages, { cents: !Number.isInteger(r.wages) })}</td></tr>)}</tbody>
+    </table>
+  </div>
+  <p class="source mt-2">Source: Mississippi Department of Education via <a href={site.district.openthebooks}>OpenTheBooks.com</a>. <a href="/data/tcsd_salaries_2017-2025.csv" download>Download CSV</a>.</p>
+</Base>

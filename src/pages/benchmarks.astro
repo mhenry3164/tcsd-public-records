@@ -1,0 +1,119 @@
+---
+import Base from '../layouts/Base.astro';
+import BarList from '../components/BarList.astro';
+import StackBars from '../components/StackBars.astro';
+import { money } from '../lib/format';
+import facts from '../data/benchmark-facts.json';
+import site from '../data/site.json';
+import { docs, docHref } from '../lib/documents';
+import { tcsd, avg, districtRows, auditLink, n, cols, tiles, charts } from '../lib/benchmarks';
+
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'Dataset',
+  name: 'Tishomingo County School District compared with six neighboring districts',
+  description: 'Cost per student, spending mix, revenue sources, reserves, debt, audit findings, superintendent pay and 2025 accountability ratings for Tishomingo County and six neighboring Mississippi school districts, from each district’s audited financial statements.',
+  isAccessibleForFree: true, temporalCoverage: '2022-07-01/2025-06-30',
+  spatialCoverage: 'Northeast Mississippi',
+  distribution: { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${site.url}/data/tcsd_benchmarks.csv` },
+};
+---
+<Base title="Benchmarks" description="Tishomingo County School District compared with Alcorn, Prentiss County, Itawamba County, Booneville, Corinth and Baldwyn: cost per student, administration, reserves, debt, audit findings and superintendent pay, from each district’s audit." jsonLd={jsonLd}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Benchmarks</h1>
+  <div class="mt-4 measure space-y-3">
+    <p class="text-lg">These tables compare the district with six neighbors using the same schedule from each district's audit, so the numbers are measured the same way. Tishomingo County spends $15,335 per student, in the middle of the group and $424 below the peer average. It spends the second-least on general administration and holds more in reserve than most neighbors. It carries the least debt per student. Four of the six neighbors had no audit findings in their latest audit; Tishomingo had four repeat findings. The district's 2025 state rating is an A.</p>
+    <p class="text-sm">Neighbors: Alcorn, Prentiss County, Itawamba County, Booneville, Corinth and Baldwyn. All figures are for fiscal year 2025 (July 2024 – June 2025) except Itawamba, whose latest posted audit is FY2023. “Peer average” is the simple average of the six.</p>
+    <p class="note"><strong>Definitions differ.</strong> The audit’s “cost per student” is all governmental-fund spending, including buildings and debt payments, divided by students in average daily attendance. The Census Bureau’s “current spending” excludes buildings and debt, so it runs lower. State and national figures below are for reference only.</p>
+  </div>
+
+  <ul class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+    {tiles.map((t) => (
+      <li class="bg-white border border-rule rounded p-4">
+        <span class="text-sm text-muted">{t.label}</span>
+        <span class="block text-2xl font-serif font-semibold mt-1">{t.tcsd}</span>
+        <span class="block text-sm">Peer average {t.peer}</span>
+        <span class="block text-sm font-medium mt-1">{t.words}</span>
+      </li>
+    ))}
+  </ul>
+  <p class="source mt-2">Sources: each district’s audit; peer average of six districts. “Reserve” is the General Fund balance divided by a month of General Fund spending.</p>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Comparison table</h2>
+    <p class="mt-1 text-sm text-muted">Tishomingo County is pinned first; the peer average is last. Click a column heading to sort. District names open that district’s audit at its cost-per-student schedule.</p>
+    <div class="table-wrap mt-3">
+      <table class="data sticky-first" data-sortable>
+        <thead><tr><th>District</th>{cols.map((c) => <th class="num">{c.label}</th>)}</tr></thead>
+        <tbody>
+          {districtRows.map((r, i) => (
+            <tr class={i === 0 ? 'pin' : ''}>
+              <td class="whitespace-nowrap"><a href={auditLink(String(r.District))}>{r.District}</a></td>
+              {cols.map((c) => <td class="num" data-v={n(r[c.key]) ?? ''}>{c.f(r[c.key])}</td>)}
+            </tr>
+          ))}
+          <tr class="total"><td class="whitespace-nowrap">Peer average (6)</td>{cols.map((c) => <td class="num">{c.key === 'Audit FY' || c.key === 'Accountability 2025' ? '—' : c.f(avg[c.key])}</td>)}</tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="source mt-2">Sources: audited financial statements for each district (<a href="/documents">Documents</a>); superintendent pay from Mississippi Department of Education data via OpenTheBooks.com; 2025 accountability ratings from the Mississippi Department of Education as posted by <a href="https://www.mississippifreepress.org/wp-content/uploads/2025/09/2025-School-District-Ratings.pdf" rel="noopener">Mississippi Free Press</a>. Property tax per student is not available for Itawamba. <a href="/data/tcsd_benchmarks.csv" download>Download CSV</a> · <a href={docHref('audits/tcsd-fy2025', 62)}>View source PDF</a></p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">What the comparison shows</h2>
+    <ul class="mt-3 list-disc pl-6 space-y-2 measure">{facts.map((f) => <li set:html={f} />)}</ul>
+    <p class="mt-3 text-sm">Tishomingo County’s 2024 rating was B after five straight years of A; the 2025 rating returned to A (685 points).</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-2xl font-semibold">District by district</h2>
+    <p class="mt-1 text-sm text-muted">Tishomingo County in blue; the vertical line marks the six-district peer average. The same figures are in the comparison table above.</p>
+    <div class="grid-auto mt-4" style="--min:28rem">
+      <StackBars title="Cost per student, by category" parts={['Instruction', 'General administration', 'School administration', 'Other']} format={(v) => money(v)} highlight="Tishomingo County"
+        rows={[...districtRows].sort((a, b) => n(b['Cost per student, total'])! - n(a['Cost per student, total'])!).map((r) => ({ label: String(r.District), href: auditLink(String(r.District)),
+          parts: [n(r['Instruction per student'])!, n(r['General admin per student'])!, n(r['School admin per student'])!, n(r['Other per student'])!] }))}
+        caption="“Other” includes transportation, food service, plant, debt and capital spending." />
+      {charts.map((c) => (
+        <BarList title={c.title} highlight="Tishomingo County" format={(v) => c.f(v)}
+          items={c.sorted.map((r) => ({ label: String(r.District), value: n(r[c.key])!, href: auditLink(String(r.District)) }))}
+          reference={{ label: 'Peer average', value: n(avg[c.key])! }} />
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">State and national reference points</h2>
+    <div class="table-wrap mt-3 measure">
+      <table class="data">
+        <thead><tr><th>Measure</th><th class="num">United States</th><th class="num">Mississippi</th><th>Source</th></tr></thead>
+        <tbody>
+          <tr><td>Current spending per pupil, FY2024</td><td class="num">$17,619</td><td class="num">$12,324 (5th lowest state)</td><td><a href="https://www.census.gov/newsroom/press-releases/2026/school-system-finances.html" rel="noopener">U.S. Census Bureau</a></td></tr>
+          <tr><td>Per-student spending, 2024–25 (NEA method)</td><td class="num">—</td><td class="num">$13,049 (rank 46)</td><td><a href="https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank" rel="noopener">NEA</a></td></tr>
+          <tr><td>Average teacher salary, 2024–25</td><td class="num">$74,495</td><td class="num">$54,975 (rank 51 of 51)</td><td><a href="https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank" rel="noopener">NEA</a></td></tr>
+          <tr><td>Average starting teacher salary, 2024–25</td><td class="num">$48,112</td><td class="num">$43,814 (rank 43)</td><td><a href="https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank" rel="noopener">NEA</a></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="source mt-2">Census and NEA figures exclude capital and debt spending, so compare them with the district’s audit figures only loosely.</p>
+  </section>
+
+  <section class="mt-10 grid gap-8 sm:grid-cols-2">
+    <div>
+      <h2 class="text-xl font-semibold">Sources</h2>
+      <ul class="mt-3 space-y-1 text-sm">
+        {docs.filter((d) => d.collection !== 'records' && (d.collection === 'peer-audits' || d.id === 'audits/tcsd-fy2025')).map((d) => (
+          <li><a href={`/documents/${d.id}`}>{d.shortTitle}</a> · <a href={d.sourceUrl!} rel="noopener">State Auditor</a></li>
+        ))}
+        <li>Superintendent pay: <a href={site.district.openthebooks} rel="noopener">OpenTheBooks.com</a> (Mississippi Department of Education data)</li>
+        <li><a href="https://www.mississippifreepress.org/wp-content/uploads/2025/09/2025-School-District-Ratings.pdf" rel="noopener">MDE 2025 district ratings</a> (as posted by Mississippi Free Press)</li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="text-xl font-semibold">Not yet gathered</h2>
+      <ul class="mt-3 list-disc pl-6 space-y-1 text-sm">
+        <li>Millage rates for each neighbor, to pair with Tishomingo County’s 47-mill request.</li>
+        <li>Average teacher pay by district.</li>
+        <li>Enrollment trend by district, to put Tishomingo County’s drop of 158 students in context.</li>
+        <li>Itawamba County’s FY2024 and FY2025 audits, when the State Auditor posts them.</li>
+      </ul>
+    </div>
+  </section>
+</Base>

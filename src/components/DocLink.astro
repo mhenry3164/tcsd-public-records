@@ -1,0 +1,8 @@
+---
+import { docById, docHref } from '../lib/documents';
+interface Props { id: string; page?: number; label?: string }
+const { id, page, label } = Astro.props;
+const d = docById.get(id);
+if (!d) throw new Error(`Unknown document ${id}`);
+---
+<a href={docHref(id, page)}>{label ?? d.shortTitle}{page ? `, PDF p. ${page}` : ''}</a>

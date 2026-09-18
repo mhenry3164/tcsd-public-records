@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-11",
+  "type": "Regular Meeting",
+  "dateNote": "Report says 'its regular meeting' without a date. The May report said the next meeting was rescheduled for June 11, the calendar lists June 11, 2026 Regular, and the July 9 meeting approved 'June 11, Regular Meeting' minutes. Page 2 says 'continued on page 4', but the continuation is printed on page 8.",
+  "sources": [
+    {
+      "issue": "2026-06-18",
+      "page": 2
+    },
+    {
+      "issue": "2026-06-18",
+      "page": 8
+    }
+  ],
+  "headline": "Tishomingo County School Board Covers Staffing, Technology, and Athletics",
+  "summary": "The board approved personnel, field trips, donations, two student transfers, revisions to 14 district policies, a revised payroll schedule and a 25-cent increase in student breakfast and lunch prices. It also approved software subscriptions, insurance renewals and service agreements, and scheduled the annual public budget hearing for July 21 and a special called budget meeting for July 30.",
+  "attendance": null,
+  "calledToOrderBy": null,
+  "minutesApproved": [
+    "Regular meeting, May 11, 2026",
+    "Executive session, May 11, 2026",
+    "Special called meeting, May 18, 2026",
+    "Special called meeting, June 2, 2026"
+  ],
+  "publicComment": "No one appeared for public comments.",
+  "votes": [],
+  "personnel": {
+    "hires": 11,
+    "resignations": 7,
+    "retirements": 0,
+    "transfers": 1,
+    "other": 1,
+    "note": "Hires include a substitute teacher, a summer worker at $10/hour, 3 bus drivers (one half-route), coaching assignments, teachers and a high school assistant principal at Belmont School; other = 1 revised teacher contract; 1 employee transfer."
+  },
+  "money": [
+    {
+      "item": "Grant for Tishomingo Middle School students attending the National FBLA competition (accepted)",
+      "vendor": "Tri-State",
+      "amount": 500,
+      "amountText": "$500",
+      "source": {
+        "issue": "2026-06-18",
+        "page": 8
+      }
+    }
+  ],
+  "donations": {
+    "count": 2,
+    "total": 5598,
+    "note": null
+  },
+  "policy": [
+    {
+      "item": "Approved revisions to 14 district policies, including attendance, student conduct, school wellness, artificial intelligence, employee compensation, retired teacher employment, promotion and retention, Title I family engagement, purchasing and procurement, and school calendar requirements.",
+      "source": {
+        "issue": "2026-06-18",
+        "page": 8
+      }
+    },
+    {
+      "item": "Changed the payroll schedule: January payroll moved up one week, reducing the holiday gap between pay periods from six weeks to five.",
+      "source": {
+        "issue": "2026-06-18",
+        "page": 8
+      }
+    },
+    {
+      "item": "Increased full-paid student lunch from $3.25 to $3.50 and breakfast from $2.00 to $2.25; adult prices rise to $4.50 lunch and $2.75 breakfast.",
+      "source": {
+        "issue": "2026-06-18",
+        "page": 8
+      }
+    },
+    {
+      "item": "Discussed whether to adopt a policy for forming student clubs and an approval process for graduation stoles and cords; no action taken.",
+      "source": {
+        "issue": "2026-06-18",
+        "page": 8
+      }
+    }
+  ],
+  "superintendent": [
+    "Superintendent Christie Holly reported that a new state attendance law limits excused absences, requires attendance plans for students over the limit and raises minimum attendance from 63% to 66% of the school day.",
+    "Holly reported that districts with chronic absenteeism above 10% must implement attendance improvement plans, with Mississippi Department of Education guidance expected by Aug. 15.",
+    "Holly also updated the board on changes to employee payroll procedures and increases in meal prices."
+  ],
+  "executiveSession": [
+    "topic not stated (held at end of meeting)"
+  ],
+  "otherActions": [
+    "13 field trip requests approved (several retroactive)",
+    "1 use-of-facilities request approved",
+    "2 student transfers approved",
+    "Financial report given",
+    "One-year Freshworks technology ticketing subscription",
+    "Renewal of SmartPass software for TCHS",
+    "2026-27 Child Nutrition Handbook and Food Safety Plan",
+    "Service agreements with Unifirst for several district facilities",
+    "Scheduled the annual public hearing for July 21 and a special called budget meeting for July 30",
+    "Level Up curriculum for the TCHS College and Career Readiness class",
+    "Three-year NoRedInk subscription for TCHS",
+    "Renewal of Atriuum library management software",
+    "Student accident and catastrophic accident insurance for 2026-27",
+    "Renewal of property and liability insurance through MSBA",
+    "Google AI for Education licenses and Jamf School iPad management software",
+    "Purchase of three Motorola radios for the Career and Technical Center",
+    "Memorandum of understanding with Pearl River Valley Opportunity Head Start for Belmont and Burnsville",
+    "Contract with a keynote speaker for the opening-day staff presentation",
+    "Memorandum of understanding with Region IV Mental Health for school-based mental health services",
+    "Next regular meeting set for July 9, 2026"
+  ],
+  "quote": null,
+  "reviewed": false
+}

@@ -1,0 +1,87 @@
+---
+import '../styles/global.css';
+import site from '../data/site.json';
+import JsonLd from '../components/JsonLd.astro';
+import { fmtDate } from '../lib/format';
+
+interface Props {
+  title: string;
+  description: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  ogType?: 'website' | 'article';
+  wide?: boolean;
+  robots?: string;
+}
+const { title, description, jsonLd, ogType = 'website', wide = false, robots } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const fullTitle = Astro.url.pathname === '/' ? `${site.name} — Tishomingo County School District` : `${title} | ${site.name}`;
+const ogImage = new URL('/og.png', Astro.site).href;
+const nav = [
+  ['/board', 'Board'],
+  ['/votes', 'Votes'],
+  ['/meetings', 'Meetings'],
+  ['/finances', 'Finances'],
+  ['/benchmarks', 'Benchmarks'],
+  ['/spending', 'Spending'],
+  ['/salaries', 'Salaries'],
+  ['/policies', 'Policies'],
+  ['/notices', 'Notices'],
+  ['/records', 'Missing records'],
+  ['/search', 'Search'],
+];
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {robots && <meta name="robots" content={robots} />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="alternate" type="application/rss+xml" title={`${site.name} — meetings`} href="/rss.xml" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {jsonLd && <JsonLd data={jsonLd} />}
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:p-2 focus:bg-white">Skip to content</a>
+    <header class="site-header">
+      <div class="frame py-3 flex flex-wrap items-center gap-x-8 gap-y-2">
+        <a href="/" class="no-underline flex items-center gap-3">
+          <svg width="34" height="34" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#fff"/><path d="M8 10h16M8 16h16M8 22h10" stroke="#11314f" stroke-width="2.6" stroke-linecap="round"/></svg>
+          <span>
+            <span class="font-serif text-xl font-semibold leading-tight block">{site.name}</span>
+            <span class="block text-xs text-[#b9cbdd]">Tishomingo County School District, Mississippi</span>
+          </span>
+        </a>
+        <nav aria-label="Main" class="site-nav">
+          <ul class="flex flex-wrap gap-x-1 gap-y-1">
+            {nav.map(([href, label]) => (
+              <li><a href={href} aria-current={path === href || path.startsWith(href + '/') ? 'page' : undefined}>{label}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="frame py-8 sm:py-10 flex-1" data-pagefind-body>
+      <slot />
+    </main>
+    <footer class="border-t border-rule bg-white text-sm text-muted">
+      <div class="frame py-6 space-y-3"><div class="measure space-y-3">
+        <p>Maintained by {site.maintainer}, a Tishomingo County parent, as an ongoing public record, updated quarterly. This site endorses no candidate and takes no position in any race. <a href="/about">About and disclosure</a> · Corrections: <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a></p>
+        <p>Public records only. Every figure links to its source. Newspaper reporting is the copyrighted work of the Tishomingo County News; this site states the facts reported, with short attributed quotes and a link to the issue. <a href="/about">About this site</a> · <a href="/sources">Sources</a> · <a href="/documents">Documents</a> · <a href="/changelog">Changelog</a> · Last updated {fmtDate(site.lastUpdated)} · <a href="/rss.xml">RSS</a></p>
+      </div></div>
+    </footer>
+    <div id="viz-tip" role="status" aria-hidden="true"></div>
+    <script src="/js/tables.js" defer></script>
+  </body>
+</html>

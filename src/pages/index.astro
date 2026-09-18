@@ -1,0 +1,132 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+import fin from '../data/finances.json';
+import sal from '../data/salaries-summary.json';
+import findings from '../data/findings.json';
+import { reports } from '../lib/meetings';
+import { fmtDate, moneyShort, money, int, newspaperUrl } from '../lib/format';
+import Spark from '../components/Spark.astro';
+import Columns from '../components/Columns.astro';
+import BarList from '../components/BarList.astro';
+import cps from '../data/cost-per-student.json';
+import { districtRows, avg, n, auditLink } from '../lib/benchmarks';
+import { allMeetings } from '../lib/meetings';
+import votes from '../data/votes.json';
+import { getCollection } from 'astro:content';
+
+const gw = (k: string) => fin.governmentWide.find((r) => r.item.startsWith(k))!;
+const gfBal = fin.generalFund.find((r) => r.item.startsWith('General Fund balance'))!;
+const pay = sal.years[sal.years.length - 1];
+const fy25 = findings.find((f) => f.fy === 'FY2025')!;
+const repeats = fy25.findings.filter((f) => f.repeat === 'Yes').length;
+const latest = reports[reports.length - 1];
+
+const FYS = ['FY2022', 'FY2023', 'FY2024', 'FY2025'] as const;
+const row = (rows: typeof fin.allFunds, k: string) => rows.find((r) => r.item.startsWith(k))!;
+const rev = row(fin.allFunds, 'Total revenues'), exp = row(fin.allFunds, 'Total expenditures');
+const held = allMeetings().filter((m) => m.date <= site.dataPulled);
+const noticeCount = (await getCollection('notices')).length;
+const spark: Record<string, number[]> = {
+  Enrollment: [2788, 2795, 2637],
+  'Spending per student': cps.map((c) => c.total),
+  'General Fund balance': FYS.map((y) => gfBal[y]!),
+  Payroll: sal.years.map((y) => y.total),
+};
+const tiles = [
+  { label: 'Enrollment', value: '2,637', detail: 'Aug. 7, 2026; down 158 from Aug. 5, 2025', href: '/meetings/2026-08-10', src: 'Superintendent’s report, TCN Aug. 13, 2026, p. 8' },
+  { label: 'Spending per student', value: money(gw('Cost per student').FY2025), detail: 'All governmental funds, FY2025', href: '/finances', src: 'FY2025 audit' },
+  { label: 'General Fund balance', value: moneyShort(gfBal.FY2025!), detail: 'June 30, 2025', href: '/finances', src: 'FY2025 audit' },
+  { label: 'Payroll', value: moneyShort(pay.total), detail: `${pay.year}, ${int(pay.positions)} positions`, href: '/salaries', src: 'Mississippi Dept. of Education via OpenTheBooks' },
+  { label: 'Millage', value: '47 mills', detail: 'Requested for 2026–27, as reported at the July 21, 2026 budget hearing', href: '/finances/budget', src: 'Budget hearing, TCN July 30, 2026, p. 4' },
+  { label: 'Audit opinion, FY2025', value: fy25.opinion, detail: `${fy25.findings.length} state-law findings, ${repeats} repeated from prior years`, href: '/finances/audits', src: 'FY2025 audit, filed Feb. 20, 2026' },
+];
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'WebSite', name: site.name, url: site.url,
+  description: site.tagline,
+  potentialAction: { '@type': 'SearchAction', target: `${site.url}/search?q={query}`, 'query-input': 'required name=query' },
+  about: { '@type': 'GovernmentOrganization', name: site.district.legalName, url: site.district.website,
+    address: { '@type': 'PostalAddress', streetAddress: '1620 Paul Edmondson Drive', addressLocality: 'Iuka', addressRegion: 'MS', postalCode: '38852' } },
+};
+---
+<Base title={site.name} description="Audits, budgets, board votes, meetings, salaries, vendor payments, policies and legal notices of the Tishomingo County School District, Mississippi, each linked to its source." jsonLd={jsonLd}>
+  <section class="split wide-left items-center">
+    <div>
+      <p class="eyebrow">Public records · Iuka, Mississippi</p>
+      <h1 class="mt-2 font-semibold leading-[1.05] text-[clamp(2.2rem,1.2rem+3.2vw,4.2rem)]">The public record of the Tishomingo County School District</h1>
+      <p class="mt-5 text-lg text-muted measure">Audited financial statements, board votes as reported, meeting calendars, legal notices, policies, payroll and vendor payments, gathered in one place. Every number links to the document it came from. No commentary.</p>
+      <form action="/search" method="get" role="search" class="mt-6 flex gap-2 max-w-2xl" data-pagefind-ignore>
+        <label for="q" class="sr-only">Search the record</label>
+        <input id="q" name="q" type="search" placeholder="Search names, vendors, policies, notices, audit text…" class="flex-1 border border-rule rounded-lg px-4 py-3 bg-white text-base" />
+        <button class="btn">Search</button>
+      </form>
+    </div>
+    <ul class="grid grid-cols-2 gap-3 text-sm" aria-label="What is on this site">
+      <li class="card"><span class="block text-2xl font-semibold">{held.length}</span>board meetings listed; {held.filter((m) => m.report).length} reported by the paper</li>
+      <li class="card"><span class="block text-2xl font-semibold">{new Set(votes.map((v) => v.item)).size}</span>items where a member’s vote was printed</li>
+      <li class="card"><span class="block text-2xl font-semibold">4,159</span>salary rows, 2017–2025</li>
+      <li class="card"><span class="block text-2xl font-semibold">{noticeCount}</span>district legal notices in full</li>
+    </ul>
+  </section>
+
+  <section class="mt-12" aria-labelledby="numbers">
+    <h2 id="numbers" class="text-2xl font-semibold">Six numbers</h2>
+    <ul class="grid-auto mt-4" style="--min:19rem">
+      {tiles.map((t) => (
+        <li class="card stat">
+          <a href={t.href} class="stat-link">
+            <span class="stat-label">{t.label}</span>
+            <span class="stat-value block">{t.value}</span>
+            <span class="stat-detail block">{t.detail}</span>
+          </a>
+          {spark[t.label] && <Spark values={spark[t.label]} />}
+          <p class="source mt-2">Source: {t.src}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="mt-12 split" aria-label="At a glance">
+    <div>
+      <Columns title="Revenue and spending, all governmental funds" labels={[...FYS]} format={(v) => moneyShort(v)}
+        series={[{ name: 'Revenue', values: FYS.map((y) => rev[y]) }, { name: 'Spending', values: FYS.map((y) => exp[y]) }]}
+        caption="Fiscal years end June 30. Source: FY2025 audit, four-year schedule. Full tables on the Finances page." />
+      <p class="mt-2 text-sm"><a href="/finances">See four years of audited statements →</a></p>
+    </div>
+    <div>
+      <BarList title="Cost per student, Tishomingo County and six neighbors" highlight="Tishomingo County" format={(v) => money(v)}
+        items={[...districtRows].sort((a, b) => n(b['Cost per student, total'])! - n(a['Cost per student, total'])!).map((r) => ({ label: String(r.District), value: n(r['Cost per student, total'])!, href: auditLink(String(r.District)) }))}
+        reference={{ label: 'Peer average', value: n(avg['Cost per student, total'])! }}
+        caption="From each district’s latest audit (FY2025; Itawamba FY2023)." />
+      <p class="mt-2 text-sm"><a href="/benchmarks">See all benchmarks →</a></p>
+    </div>
+  </section>
+
+  {latest && (
+    <section class="mt-12 card" aria-labelledby="latest" style="border-left:4px solid var(--color-gold)">
+      <p class="eyebrow">Latest reported meeting</p>
+      <h2 id="latest" class="text-2xl font-semibold mt-1"><a href={`/meetings/${latest.date}`}>{latest.type}, {fmtDate(latest.date, true)}</a></h2>
+      <p class="mt-2 measure">{latest.summary}</p>
+      <p class="source mt-2">Source: <a href={newspaperUrl}>Tishomingo County News, {fmtDate(latest.sources[0].issue)}</a></p>
+    </section>
+  )}
+
+  <section class="mt-12 grid-auto" style="--min:17rem">
+    {[
+      ['/board', 'Board', 'Five trustees, their districts and the Nov. 3, 2026 election.'],
+      ['/votes', 'Votes', 'Every vote, recusal and absence the newspaper printed.'],
+      ['/meetings', 'Meetings', 'Every meeting since 2024 and what was reported.'],
+      ['/finances', 'Finances', 'Four years of audited statements, findings and budget hearings.'],
+      ['/benchmarks', 'Benchmarks', 'Compared with six neighboring districts.'],
+      ['/spending', 'Spending', 'Vendor payment totals for 2023 and 2024.'],
+      ['/salaries', 'Salaries', 'Payroll by year, 2017–2025.'],
+      ['/policies', 'Policies', 'All 320 board policies with revision dates.'],
+      ['/notices', 'Notices', 'District legal notices, reproduced in full.'],
+      ['/documents', 'Documents', 'Read and download every source PDF.'],
+      ['/records', 'Missing records', 'What is not public, and the request log.'],
+      ['/about', 'About', 'Principles, method, disclosure and corrections.'],
+    ].map(([href, t, d]) => (
+      <a href={href} class="card no-underline text-ink hover:border-accent block"><span class="font-serif text-lg font-semibold text-accent">{t} →</span><span class="block text-sm mt-1 text-muted">{d}</span></a>
+    ))}
+  </section>
+</Base>

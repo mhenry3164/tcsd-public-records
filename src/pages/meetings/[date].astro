@@ -1,0 +1,123 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cite from '../../components/Cite.astro';
+import BarList from '../../components/BarList.astro';
+import members from '../../data/members.json';
+import site from '../../data/site.json';
+import { reports, type Report } from '../../lib/meetings';
+import { fmtDate, money, newspaperUrl, citeText } from '../../lib/format';
+
+export function getStaticPaths() {
+  return reports.map((r) => ({ params: { date: r.date }, props: { r } }));
+}
+const { r } = Astro.props as { r: Report };
+const idx = reports.findIndex((x) => x.date === r.date);
+const prev = reports[idx - 1], next = reports[idx + 1];
+const slug = (name: string) => members.find((m) => m.name === name)?.slug;
+const p = r.personnel;
+const personnelParts = [
+  [p.hires, 'hire'], [p.resignations, 'resignation'], [p.retirements, 'retirement'], [p.transfers, 'transfer'], [p.other, 'other action'],
+].filter(([n]) => (n as number) > 0).map(([n, w]) => `${n} ${w}${n === 1 ? '' : 's'}`);
+const moneyTotal = r.money.reduce((a, m) => a + (m.amount ?? 0), 0);
+const title = `${r.type}, ${fmtDate(r.date, true)}`;
+const first = r.sources[0];
+const jsonLd = { '@context': 'https://schema.org', '@type': 'Article', headline: `Tishomingo County School Board: ${title}`,
+  description: r.summary, datePublished: first.issue, about: { '@type': 'Event', name: `Tishomingo County School Board ${r.type}`, startDate: r.date.length === 10 ? r.date : undefined,
+  location: { '@type': 'Place', name: 'Tishomingo County School District Office', address: site.district.address } },
+  citation: r.sources.map((s) => citeText(s)) };
+---
+<Base title={title} description={`Tishomingo County School Board ${r.type.toLowerCase()}, ${fmtDate(r.date, true)}: ${r.summary}`.slice(0, 300)} jsonLd={jsonLd} ogType="article">
+  <p class="text-sm"><a href="/meetings">← All meetings</a></p>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold mt-2">{title}</h1>
+  <p class="mt-3 text-lg">{r.summary}</p>
+  {r.dateNote && <p class="note mt-3"><strong>Date:</strong> {r.dateNote}</p>}
+  <p class="note mt-3">This page lists what the Tishomingo County News reported. The official minutes are not public; see <a href="/records">Missing records</a>. Employees other than the superintendent are counted, not named.</p>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Attendance</h2>
+    <p class="mt-2">{r.attendance ?? 'Not stated in the report.'}{r.calledToOrderBy && <> Called to order by {r.calledToOrderBy}.</>}</p>
+    {r.publicComment && <p class="mt-1">Public comment: {r.publicComment}</p>}
+    {r.minutesApproved.length > 0 && <p class="mt-1 text-sm text-muted">Minutes approved: {r.minutesApproved.join('; ')}.</p>}
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Recorded votes</h2>
+    {r.votes.length ? (
+      <div class="table-wrap mt-3"><table class="data">
+        <thead><tr><th>Item</th><th>Member</th><th>Action</th><th>Outcome</th><th>Source</th></tr></thead>
+        <tbody>{r.votes.map((v) => <tr><td>{v.item}</td><td>{slug(v.member) ? <a href={`/board/${slug(v.member)}`}>{v.member}</a> : v.member}</td><td>{v.action}</td><td>{v.outcome}</td><td><Cite src={v.source} /></td></tr>)}</tbody>
+      </table></div>
+    ) : <p class="mt-2">The report records outcomes only; no member’s vote was named.</p>}
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Personnel actions</h2>
+    <p class="mt-2">{personnelParts.length ? personnelParts.join(', ') + '.' : 'None reported, or no count given.'}</p>
+    {p.note && <p class="mt-1 text-sm text-muted">{p.note}</p>}
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Money items</h2>
+    {r.money.filter((m) => m.amount).length >= 4 && (
+      <div class="mt-3"><BarList title="Largest dollar items" format={(v) => money(v, { cents: !Number.isInteger(v) })} items={[...r.money].filter((m) => m.amount).sort((a, b) => b.amount! - a.amount!).slice(0, 8).map((m) => ({ label: m.item, value: m.amount!, note: m.vendor ?? undefined }))} /></div>
+    )}
+    {r.money.length ? (
+      <div class="table-wrap mt-3"><table class="data" data-sortable>
+        <thead><tr><th>Item</th><th>Vendor</th><th class="num">Amount</th><th>Source</th></tr></thead>
+        <tbody>
+          {r.money.map((m) => <tr><td>{m.item}</td><td>{m.vendor ?? '—'}</td><td class="num" data-v={String(m.amount ?? '')}>{m.amount !== null ? money(m.amount, { cents: !Number.isInteger(m.amount) }) : m.amountText}</td><td><Cite src={m.source} /></td></tr>)}
+          {r.money.length > 1 && <tr class="total"><td colspan="2">Total of listed amounts</td><td class="num">{money(moneyTotal, { cents: !Number.isInteger(moneyTotal) })}</td><td></td></tr>}
+        </tbody>
+      </table></div>
+    ) : <p class="mt-2">No dollar amounts reported.</p>}
+    {r.donations.count > 0 && <p class="mt-2">Donations accepted: {r.donations.count}{r.donations.total ? `, totaling ${money(r.donations.total, { cents: !Number.isInteger(r.donations.total) })}` : ''}.{r.donations.note && <span class="text-muted"> {r.donations.note}</span>}</p>}
+  </section>
+
+  {r.policy.length > 0 && (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">Policy items</h2>
+      <ul class="mt-2 list-disc pl-6 space-y-1">{r.policy.map((x) => <li>{x.item} <span class="source"><Cite src={x.source} /></span></li>)}</ul>
+    </section>
+  )}
+
+  {r.superintendent.length > 0 && (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">Superintendent’s report</h2>
+      <ul class="mt-2 list-disc pl-6 space-y-1">{r.superintendent.map((x) => <li>{x}</li>)}</ul>
+    </section>
+  )}
+
+  {r.executiveSession.length > 0 && (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">Executive session</h2>
+      <p class="mt-2">Topics as the paper listed them: {r.executiveSession.join('; ')}.</p>
+    </section>
+  )}
+
+  {r.otherActions.length > 0 && (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">Other actions</h2>
+      <ul class="mt-2 list-disc pl-6 space-y-1">{r.otherActions.map((x) => <li>{x}</li>)}</ul>
+    </section>
+  )}
+
+  {r.quote && (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">Quote</h2>
+      <blockquote class="mt-2 border-l-4 border-rule pl-4">
+        <p class="font-serif text-lg">“{r.quote.text}”</p>
+        <footer class="source mt-1">— {r.quote.speaker}. <Cite src={r.quote.source} /></footer>
+      </blockquote>
+    </section>
+  )}
+
+  <section class="mt-10 border-t border-rule pt-4">
+    <p>Read the full report in the <a href={newspaperUrl}>{site.newspaper.name}</a>: {r.sources.map((s, i) => <>{i > 0 && '; '}{fmtDate(s.issue, true)} issue, page {s.page}</>)}.</p>
+    <p class="mt-1 text-sm text-muted">Headline: “{r.headline}”</p>
+  </section>
+
+  <nav class="mt-8 flex justify-between text-sm" aria-label="Adjacent meetings">
+    <span>{prev && <a href={`/meetings/${prev.date}`}>← {fmtDate(prev.date)}</a>}</span>
+    <span>{next && <a href={`/meetings/${next.date}`}>{fmtDate(next.date)} →</a>}</span>
+  </nav>
+</Base>

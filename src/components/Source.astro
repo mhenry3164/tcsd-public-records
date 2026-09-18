@@ -1,0 +1,7 @@
+---
+import { citeText, newspaperUrl, type SourceRef } from '../lib/format';
+interface Props { src: SourceRef | SourceRef[]; label?: string }
+const { src, label = 'Source' } = Astro.props;
+const list = Array.isArray(src) ? src : [src];
+---
+<p class="source">{label}: {list.map((s, i) => (<>{i > 0 && '; '}<a href={newspaperUrl} rel="noopener">{citeText(s)}</a></>))}</p>

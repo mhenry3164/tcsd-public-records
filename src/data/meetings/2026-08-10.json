@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-10",
+  "type": "Regular Meeting",
+  "dateNote": null,
+  "sources": [
+    {
+      "issue": "2026-08-13",
+      "page": 8
+    }
+  ],
+  "headline": "School Board Approves New Initiatives as TCSD Enrollment Falls by 158 Students",
+  "summary": "The board approved personnel, field trips, fundraisers, facility-use requests, donations, three student transfers, school safety and crisis plans and several contracts and subscriptions, including professional services from Buse Educational Services for Belmont High School and TCHS. The superintendent reported enrollment of 2,637 on Aug. 7, 2026, down 158 from 2,795 on Aug. 5, 2025.",
+  "attendance": "with all board members present",
+  "calledToOrderBy": "Jessica Seaton",
+  "minutesApproved": [
+    "Regular meeting, July 9, 2026",
+    "Executive session, July 9, 2026",
+    "Annual Public Budget Hearing, July 21, 2026",
+    "Special called meeting, July 21, 2026",
+    "Executive session, July 21, 2026",
+    "Special called meeting, July 30, 2026"
+  ],
+  "publicComment": null,
+  "votes": [],
+  "personnel": {
+    "hires": 13,
+    "resignations": 0,
+    "retirements": 0,
+    "transfers": 0,
+    "other": 5,
+    "note": "Hires include 7 substitutes (teachers, cafeteria, nurse, bus driver), a counselor (80% retiree), a custodian, a cafeteria worker, 2 route bus drivers and a special education assistant teacher; other = 3 employees approved to work with Special Olympics athletes outside the school day at their hourly rate and 2 volunteers."
+  },
+  "money": [
+    {
+      "item": "TVA Stem Robotics Award for a Career & Technical Center class (accepted)",
+      "vendor": "TVA",
+      "amount": 5000,
+      "amountText": "$5,000",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "2-year subscription for the district's domain",
+      "vendor": "SHOTS Computers",
+      "amount": 45,
+      "amountText": "$45.00",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Surveying services at Iuka Middle School for drainage issues",
+      "vendor": "Moore Hall & Wages Engineering & Surveying, LLC",
+      "amount": 4500,
+      "amountText": "$4,500",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Annual inspection of fire alarm system, Burnsville School",
+      "vendor": "E-Fire Inc.",
+      "amount": 1105.5,
+      "amountText": "$1,105.50",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Professional development / data coaching for administrators and teacher groups, 2026/2027",
+      "vendor": "Kids First",
+      "amount": 8850,
+      "amountText": "$8,850",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Explain Everything, 60 users, 1-year subscription",
+      "vendor": null,
+      "amount": 2400,
+      "amountText": "$2,400",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Accelerated Reader 1-year subscription, Iuka Elementary",
+      "vendor": "Renaissance",
+      "amount": 2357.6,
+      "amountText": "$2,357.60",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Annual inspection of fire alarm system, Iuka Elementary",
+      "vendor": "E-Fire Inc.",
+      "amount": 572.75,
+      "amountText": "$572.75",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Annual monitoring of fire alarm system, Iuka Elementary",
+      "vendor": "E-Fire Inc.",
+      "amount": 600,
+      "amountText": "$600",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "LJ Create Working with STEM 1-year subscriptions for STEM labs at Belmont, TCHS and TCCTC",
+      "vendor": "Magee Enterprises, Inc.",
+      "amount": 4500,
+      "amountText": "$4,500 for each site",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Solid Works 1-year subscription, TCCTC",
+      "vendor": "Magee Enterprises, Inc.",
+      "amount": 1500,
+      "amountText": "$1,500",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Lumos Learning subscription for IMS ATSI remediation (School Improvement Funds)",
+      "vendor": "Lumos Learning",
+      "amount": 2252.96,
+      "amountText": "$2,252.96",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    },
+    {
+      "item": "Professional services days for high school academics and counseling at Belmont High School and TCHS, 2026/2027",
+      "vendor": "Buse Educational Services, LLC",
+      "amount": 29000,
+      "amountText": "$29,000",
+      "source": {
+        "issue": "2026-08-13",
+        "page": 8
+      }
+    }
+  ],
+  "donations": {
+    "count": 3,
+    "total": 5000,
+    "note": "Includes $2,500 ($500/month) from Paradise UMC to TES for 2026/2027."
+  },
+  "policy": [],
+  "superintendent": [
+    "Belmont and TCHS campuses have lost a total of 4 AC units since school started due to filters not being cleaned properly; the district is reviewing options, and one unit is under warranty.",
+    "One STOPit report was made at Tishomingo School.",
+    "Enrollment was 2,637 on Aug. 7, 2026, compared with 2,795 on Aug. 5, 2025, a loss of 158 students; IES had the largest loss (43) and Tishomingo School decreased by 6.",
+    "Spring testing results roll out in September, with school letter grades expected in October.",
+    "The district is beginning a PEER Helper program for students in grades 3-12, with implementation planned for the spring.",
+    "The Vector Solutions reporting system, replacing StopIt, is almost ready to be implemented.",
+    "No school Sept. 7 for Labor Day; next regular meeting Sept. 14, 2026."
+  ],
+  "executiveSession": [
+    "'to discuss a matter' (topic not stated)"
+  ],
+  "otherActions": [
+    "13 field trip requests approved (several list multiple destinations or dates)",
+    "13 fundraisers approved (some retroactive)",
+    "3 use-of-facilities requests approved",
+    "3 student transfers approved",
+    "Financials reviewed and approved",
+    "School Occupational Safety and Crisis Plans for IMS, TCHS, TES and Belmont",
+    "TCSD Job Description Handbook, Substitute Teacher Handbook and Professional Development Plan",
+    "Video streaming agreement with Jack Ivy Broadcasting for 2026/2027 (amount not printed)"
+  ],
+  "quote": null,
+  "reviewed": false
+}

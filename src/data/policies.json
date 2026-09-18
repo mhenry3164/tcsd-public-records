@@ -1,0 +1,2882 @@
+[
+ {
+  "section": "A. School District Organization",
+  "code": "AA",
+  "title": "School District Legal Status",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Gra5xXDOm37IFSoD9Bzz6g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AAA",
+  "title": "School District Liability Exemptions",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=iplususCsTxaL3ZOegryrBv3A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AB",
+  "title": "School Board Legal Status",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BbUGKgxNUyCplusQGIyjs3yOA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABA",
+  "title": "Authority",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=dSLXslshRWclplusgf0NKtHDClEQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABB",
+  "title": "Board Powers and Duties",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=rYFKIHAxhbFW7fWeLvg0cA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABBA",
+  "title": "General Home Rule Authority",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=d3RQZXLgGDdnCXbENplusbwhA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABC",
+  "title": "Board Member Legal Status",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=u42uVFDmN8TYoiplus3BJPxlQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABCA",
+  "title": "Number of Board Members",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=YJSnK7fGyBL4VOIplusVskahw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABCB",
+  "title": "Board Members Qualifications",
+  "type": "P",
+  "revised": "2000-06-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=9JNZG5XOOGKsY4p7QGeUnA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABCC",
+  "title": "Board Member Term of Office",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=l3cV4aID6FNPouJ3NZwIplusA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABCD",
+  "title": "Method of Election",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=YSGVR4yvqjcpowgtbW20vQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABCDA",
+  "title": "Board Member Unexpired Term Fulfillment",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=jNjuQzzxjUCal0XsteRYplusw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABCE",
+  "title": "Oath of Office",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=28F39U8LAEpluszoiyaQ2tNbA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ABD",
+  "title": "Superintendent Legal Status",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=yfvYJ3q347Z45V9slshMRWcMg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AC",
+  "title": "School District Organization Plan",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=w8RpINkJwywIMnH2Ub6r2w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ADA",
+  "title": "School Census",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=AtHeQ8sLTOFNsuI3xc8S0g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "ADB",
+  "title": "Average Daily Attendance",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wZljiRa4dIy4slsh6i8039lAg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AE",
+  "title": "School Year (Academic Year)",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=xu47v1D2TjIBbf7NXhL7dw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AEA",
+  "title": "School Calendar",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=8ww5gFGEXCFnhXpr0Bsc4g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AEAA",
+  "title": "Vacations",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ukKSAZrIKcAULmkVBgb9ew==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AEAB",
+  "title": "Holidays",
+  "type": "P",
+  "revised": "2026-03-05",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ElrgTfed0Dn96Z8bAlCDeg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AEBA",
+  "title": "Extended School Year / Summer School",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UKGEPxfzGqLvICfGgKncwA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AF",
+  "title": "School Day",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=g9wX85u7bTEHcr59cWzXLQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "A. School District Organization",
+  "code": "AFC",
+  "title": "Authority for Emergency Closings",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=qNTRJQENDCGZMgo3m2s3WA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=Nv0l17DudLOYg9watplus9ahw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BA",
+  "title": "Board Operations Goals and Objectives Mission Statement",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=TflKhwzXslsh7R1uBVQSoslshtDA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BAAA",
+  "title": "Mission Driven Decision Making",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=75V5n7ATHTxRoighDGkOHQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBAA",
+  "title": "Method of Election of Board Officers",
+  "type": "P",
+  "revised": "1999-01-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusJV8NQJnsAWq647GkHMUmw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBABA",
+  "title": "Duties of Board President",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=7GbEplusWPHLqHE66r6u0VHuQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBABC",
+  "title": "Duties of Board Secretary",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ipAf0K9kq67XAgeG5WEOVg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBB",
+  "title": "School Board Members - Individual Board Members Authority and Responsibilities",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JVvkxLO5OdYplusoslshRXG6eslshKg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBBB",
+  "title": "Orientation of New Board Members",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UJkuAegCaQcjzeE99Aa4cg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBBC",
+  "title": "Board Member Development (Training) Opportunity",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=w6mKofVKwZhplusxYmUpBxMgQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBBCA",
+  "title": "Hardship Extension for School Board Member Training",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=eeGZI6atxQmTaDpEkNJQdw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBBCB",
+  "title": "School Board Member Visits to Schools",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusBGMVeFEFwlimMsiSwfgTw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBBD",
+  "title": "Bonded Members",
+  "type": "P",
+  "revised": "2001-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=bLaNOF73aK7SsjpoEqEqPw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBBE",
+  "title": "Board Member Compensation and Expenses",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=mpyBcTC4WKN0nMelfLY9Qg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBC",
+  "title": "Governance Standards",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=s6nsGWvHIT3Hv09HgUjwOw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBCA",
+  "title": "Role of the Board",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UY9MDS1epIQBssP9XpluszslshKg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBD",
+  "title": "Board-School Superintendent Relations",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=05TjUplusPvXGVz48FywvlgnQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBE",
+  "title": "School Board Attorney",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=tBeBPkNU3V4B2pF4pXNdsw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBF",
+  "title": "Advisory Committees to the Board",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UA972yTav7WO2szMDzyIXg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBG",
+  "title": "Consultants to the Board",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=FntKJEW8H97WAf1jcg5FYA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBH",
+  "title": "Awards",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=VXLWcMA6ZS8NvIP3H0slshdWQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BBI",
+  "title": "Board/Staff Relations",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=MlCLEemFVjIxov07U9cqNA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BC",
+  "title": "Board Meetings",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=DvmFUDWXEyKd3PuJnFV0Zg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCAB",
+  "title": "Regular Meeting",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=RvVfBScET8KsoxBslshc2Z1OQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCAC",
+  "title": "Special Meetings of the Board",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=oUdbF3dq82yDfYfJFoNTwQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCAD",
+  "title": "Teleconference or Video Board Meeting",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=CzHtu6aVxfTduQe2bmzDzw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCADA",
+  "title": "Taping of Conferences and Hearings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=yk0TNz1Y9PeDqwGfVLsZ3g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCAE",
+  "title": "Public Hearings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Mt2KaQd65ndYb9i3tAyHhw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCAF",
+  "title": "Public Comments at Board Meetings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=VnD19lYWJfZQN98vwFdslshUw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBA",
+  "title": "Time and Place of Board Meetings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Rv1BcHxFZNIDFRVWMJrSWA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBC",
+  "title": "Board Meeting Preparation",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=DHd2VB56iA1qb0ykfLOnjg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBCA",
+  "title": "School Board Member Access to District Data",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=RyDEdfLy6UynODjpslsh7okslshQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBD",
+  "title": "Board Meeting Agenda",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=FDzlMggGhOO4k8k2kaPhLA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBE",
+  "title": "Distribution of Board Meeting Materials",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=nP939A8iDJxZPTthglqx6A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBF",
+  "title": "Rules of Order of Board Meetings",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=nEcVQmpoKj4Gkhf3n0UkNg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBFA",
+  "title": "Quorum for Board Meetings",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=vyDeU4h5lwE9lVbyk7wdIw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBFB",
+  "title": "Suspension of Rules at Board Meetings",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BRO1brbSplusCOaM9Zh2SNmpg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBG",
+  "title": "Voting Method at Board Meetings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slsh7DL0Ooss4LVLUHVw9v3gQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBH",
+  "title": "Minutes of Board Meetings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=25shWQ3SKe4a24pw3Vslshf8A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBHA",
+  "title": "Recording Board Action in Official Minutes",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ItOgA82eTmj6rqU43NMgZw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBI",
+  "title": "Public Participation at Board Meetings",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusqZmbdRW4CfGna9gABU1ww==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBJ",
+  "title": "Board Meeting News Coverage",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=HPtXvFX4gslshxVRcS8rZmeDQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBK",
+  "title": "Executive Sessions",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=nZ56bV3oBgaWDcWlUkI2oA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BCBL",
+  "title": "Consent Agenda",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Ix1TPn6gde6NjuSBzH3TMA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BD",
+  "title": "Board Policy Development",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=F7Y7SdpluscufH4Crg2oV4jJg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BDA",
+  "title": "Board Policy Implications of NCLB",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UZWHH0SwlbXb7LnrslshtOkplusg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BDB",
+  "title": "Board Policy Drafting",
+  "type": "P",
+  "revised": "2003-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=xLC4ExIpEYERFTAplusriU2nQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BDC",
+  "title": "Board Policy Adoption",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=q9ccslshLxCjJ0ckrCd5OumcQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BDD",
+  "title": "Board Policy Dissemination",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=lVHyhy78n6PslshptN46PbFZA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BDE",
+  "title": "Review of Board Policy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=VPQtYqHFCdF0YT7bBd9Ftg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "B. School Board Operations",
+  "code": "BDF",
+  "title": "Review of Administrative Rules",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=h0zgxcyKpbplusUoqpdslshRmcQg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=FLIvly1a230LTslshi25yNEHA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CA",
+  "title": "General School Administration Goals and Objectives",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=naZfWg37gyOT7b0bAvLung==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CB",
+  "title": "Ethics",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=zEl8kNJc2DKn1Jfk4kSrwA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CBG",
+  "title": "Administrative and Supervisory Personnel Positions",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ikqy4rNlLwpGSi1slsho4HdJg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CC",
+  "title": "Organization Charts",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=FvMZmT8qdBplusijN8VHiRVRA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CD",
+  "title": "Line and Staff Relations",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=glmnJEPR1Ku6beCvvfE1sg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CE",
+  "title": "School Superintendent",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=1yoJGwJ6ryIupXwq7rUZcw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEA",
+  "title": "Superintendent Qualifications",
+  "type": "P",
+  "revised": "2019-06-17",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=G0vGacpBDeFcNGjjcbnifA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEB",
+  "title": "Duties of Superintendent",
+  "type": "P",
+  "revised": "2004-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=pp8ktqfR8Oa0tSaDXL3AGw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEC",
+  "title": "Appointed Superintendent - Recruitment",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=86QzwEcej2TriZWQG1tzVg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CED",
+  "title": "Appointed Superintendent - Appointment",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=KAhu8hy7oSrZBQz7W1B0OA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEE",
+  "title": "Superintendent Compensation and Benefits",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BzMh2op4iTF3a6VmAdGjQw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEF",
+  "title": "Superintendent Expenses",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=vV2GLRm4pNc71CiJfI8xaw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEG",
+  "title": "Superintendent Professional Development Opportunities",
+  "type": "P",
+  "revised": "2006-05-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=vgslshM4PeT2plusVJ6It9ciMrfg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEH",
+  "title": "Superintendent Consulting",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=7M7Bplusge3y2T7Ogwbt4mTeQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEI",
+  "title": "Superintendent Evaluation",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=EPslshxdnS9AZK6prD1qRiGyQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEJ",
+  "title": "Appointed Superintendent Separation",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ZCz1QHQW1GwDLudXG3Uslsh8w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEK",
+  "title": "Superintendent Resignation",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=vKLplusL60plusQWslsh47iYJz3eslshsQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEL",
+  "title": "Superintendent Retirement",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=gsplusslshozrh56O8D4Hh4sNJ5Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CEM",
+  "title": "Superintendent - Bond",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=aBmcVwGOb0hHpnEslshy59XOw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CG",
+  "title": "Administrative Personnel",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=aeUDL9LHo967WGsOQplusiQKg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGA",
+  "title": "Administrative Personnel Compensation Guides and Contracts",
+  "type": "P",
+  "revised": "2026-06-30",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=hqTwe67Vdj4pv9dnvAsplusEQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGD",
+  "title": "Administrative Personnel Hiring",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=IMmoLqg5DrcDrplusk1oiYPLg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGE",
+  "title": "Administrative Personnel Assignment",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=PjprX2ivxjPFAV502bZ5Sw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGJ",
+  "title": "Administrative Personnel Promotions",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=fhCslshlhtA3dTyrFlXPgj4kw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGL",
+  "title": "Administrative Personnel Reassignment",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JecglaadsegUIQe5thdlig==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGM",
+  "title": "Administrative Personnel Separation",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=3VwwnE3jhPmWulslsh98ehLeg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGN",
+  "title": "Administrative Personnel Resignation",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=kcPxM3TTA7GwNGas4FEydw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGO",
+  "title": "Administrative Personnel Retirement",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=MPICgiCpyOW6hrq85Fbviw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGPB",
+  "title": "Administrative Personnel Time Schedules",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=yOVhS22v1DXHXAxIvplusHosw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGPD",
+  "title": "Administrative Personnel Expenses",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Jsslshtl4o6H4xGtz9OjjyXbg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CGPF",
+  "title": "Administrative Personnel Professional Leaves and Absences",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slshIwNWcFJ2GdPTI0bm6myDw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CK",
+  "title": "Administrative Personnel Professional Development",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=KqBdGUSqKWplusWZn6BBdKVsg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CL",
+  "title": "Administrative Personnel Councils",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=nwaPfGTKqpN123EuYBlqbA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CMA",
+  "title": "Administrative Rules",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=RkZhylc96K930ohhUO1FSw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CN",
+  "title": "Administrative Records",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ZNawZplusp62iGXdo3zzcnTplusw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CNA",
+  "title": "Access to Public Records",
+  "type": "P",
+  "revised": "2025-07-21",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wT4Vk3nKP1rYdKX5qRdMDA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CO",
+  "title": "Administrative Reports",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=5gPnNSDsJpfvNvl6Xguemg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "C. General School Administration",
+  "code": "CPL",
+  "title": "School Counselors",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=6BDxufdPzqH6tmMOnPv0tA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=slshEWxu3ROX8Xy8FCkuzrJ5A==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DA",
+  "title": "Fiscal Management Goals and Objectives",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JcVzsB9VOEGDplusH1t2CCBFA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DC",
+  "title": "Annual Operating Budget",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=WMyqWuZPDUAyfw0E4xmrZQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DCB",
+  "title": "Fiscal Year / Scholastic Year",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=QrNpxpYeL1UZVZCjjSvUSA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DCH",
+  "title": "Periodic Budget Reconciliation",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=FQznyubmSvQslshBLMeCcH9Hw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DEEA",
+  "title": "Timekeeping - Time and Effort",
+  "type": "P",
+  "revised": "2004-11-15",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=esrUKYDOxn0UmqipslshDKuxg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DFA",
+  "title": "Local Tax Revenues",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=yweFWBQC5OqslshvlP3Pf3L4w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DFCAA",
+  "title": "Federal Loans and Grants",
+  "type": "P",
+  "revised": "2017-09-27",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wjzb3j6MAHRuPRcKhmWtnw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DFCAAA",
+  "title": "Restrictions on Use of Federal Funds",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slshKMdcx1sGf3Fa5nELtH7rQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DFD",
+  "title": "Bond Sales",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=4vslshnA4LSEslshxGgTLbWgTeYw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DFL",
+  "title": "Investment Earnings",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=TrMWPuWTvsNFE6xYgF3gpA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DG",
+  "title": "Depository of Funds",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=tUcuaSnvbDpluspQVC2s5gzEA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DGA",
+  "title": "Fund Balance (GASB 54)",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=XtePpluszigrIypXRzplusARXRplusQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DGBA",
+  "title": "Non-Sufficient Funds Check Collections",
+  "type": "P",
+  "revised": "2001-08-14",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=vQplusOyHbpQfLO6M27pluscdQdQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DH",
+  "title": "Bonded Employees and Board Members",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=mRyC4OemGWTUuPIPAbNIJA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DIAB",
+  "title": "Internal Control of Cash Receipts",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=oOdP265XVuv2Iybl0CZzdw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DIB",
+  "title": "Financial Reports and Statements",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=pluswKlhj6plushOyHslshy0FrfK4qA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DID",
+  "title": "Audits",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=0avYhOirxaA3637rBWlplus1g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DIDA",
+  "title": "Disposal of Financial Records",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=mFfFyfuFwwplusXXYiG84STzQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJ",
+  "title": "Expenditure of Funds",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=mZsQr7Eq4385wol1xdjkNw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJAA",
+  "title": "Authorized Signatures",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=v7aZ6Oj18slsh5vVKEQCRPJWA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJC",
+  "title": "Payroll Procedure",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusa0BUl3yTj9ggWT1Jty1fg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJDAA",
+  "title": "Travel Reimbursements",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=IwCOv32UO7Y9KElawgaeOQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJEC",
+  "title": "Federal Purchasing and Procurement",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=qz9B7WJpluscfMEgtigryZH1Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJED",
+  "title": "Bids and Quotations",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Va9VIEQHTgxA3e4tHFAvpg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJEDD",
+  "title": "Bid Protest Policy",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=YfwksF3OIGGSbyIhfl6O2w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJEGD",
+  "title": "State Contracts",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Ie6J4Byjkzyc6b2kAplusXCEA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJEI",
+  "title": "Vendor Relations",
+  "type": "P",
+  "revised": "2011-06-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ECXslsh9XDpfF7uTxc7lqZXNA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJEIB",
+  "title": "Acceptance of Gifts From Vendors or Suppliers",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=4NPXopSLJxBFd5g6y3JPKA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJER",
+  "title": "Purchasing - Purchase Order Requirements",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusMZLslshfU4FLOxvFcCj1nziw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DJI",
+  "title": "Use of District Credit Cards",
+  "type": "P",
+  "revised": "2021-09-17",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wzGK8ItgLXn8Pdo04dJ5tQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DK",
+  "title": "Student Activities Fund Management",
+  "type": "P",
+  "revised": "2024-10-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JKplusetAMGKv1SttBZ2povNg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DKAB",
+  "title": "Fundraising Tax Exemption for School Affiliated Organizations",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wJcPOo0t7fd3uuoOWd9slshUA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DM",
+  "title": "Fixed Assets Policy",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=76oHxyvWtu0plusk8156VWgkw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DO",
+  "title": "School Properties Disposal Procedure",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=27Dco7jftdIbQXecyKSnXA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "D. Fiscal Management",
+  "code": "DPB",
+  "title": "Gifts and Bequests to School District / Donated Assets",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=77rfuwKRxhDXeosB6vtL0g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=UbQL1xGtQpuhwEoCYu2lOw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EB",
+  "title": "Building and Grounds Management",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=1yWPnUFMnCRJbwRplusMzlLkw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBAD",
+  "title": "Tobacco Free District",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=SMl6tgKdIFoUNCcves2HmQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBA",
+  "title": "School Safety Plan",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=83KBhhRXisEAedlA0nplusplusfg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBAA",
+  "title": "Staff Identification Badges",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=PmcGK0FJDW7VsffJbPplusTAw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBAB",
+  "title": "Sex Offender",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=VyHr11qjY91DeNScVvmbyw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBABB",
+  "title": "Prohibition Against Aiding and Abetting Sex Offenders in Obtaining Employment",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=w2KJ1lzu02NY22NToeajAw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBAD",
+  "title": "School Occupational Safety and Crisis Response Plan",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=HydCbQsswPkcuCKmslsh7oplusXg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBAG",
+  "title": "Cardiac Emergency Response Plan",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BYXvB93oapZVzelUwxKYaQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBC",
+  "title": "Emergency Drills",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ozeBSwrc8AYbZHo9zQ11UQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBBD",
+  "title": "Emergency Closings",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ILP0YBvM93pbplusv8ZDgnSplusA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBC",
+  "title": "Security",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=0XGe5dvuslshVqNhezzQ0poBQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBGA",
+  "title": "Public School Grounds Maintenance/School Bus Turnaround",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=NAkk3Ue0SsVbvzNtau0MtA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBHA",
+  "title": "Use of School Property",
+  "type": "P",
+  "revised": "1995-05-09",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=8cSyFa2XlTXLg7oLrgQdiA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EBI",
+  "title": "Long Range Maintenance of Buildings or Grounds",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=KzTRodrqOZO3e4T2GsUmPA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "ECBA",
+  "title": "Vandalism",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=1oCYe1b9XOqobNlvYPYSeA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "ED",
+  "title": "Bus Drivers",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=sdPVRKG2r6plusFgA0DplusywH8A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDA",
+  "title": "Student Transportation",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Z8ciCo9zqKmcLslsh6U6jRhCA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDAAA",
+  "title": "School District Identification on School Buses",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=H6BVX4Da49plus9JOAif0vujQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDAE",
+  "title": "Use of Private Vehicles for School Purposes",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JmwQF3uplusplusR1f2f9l3lxTPQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDAF",
+  "title": "School Bus Turnaround",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=OPezA7R4W0QnnwwCTLaYsQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDAGA",
+  "title": "Use of District Owned Vehicles",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=dPaML7O7hwaUBU033plusu3pg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDC",
+  "title": "Bus Safety Program",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=dn69OCQ24zRTCziaSoqJXQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDD",
+  "title": "Student Transportation Management Scheduling and Routing",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=hDJX4McvNhPplusszRplus6HOWlA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDDA",
+  "title": "Special Use of School Buses",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=4icfWnO7GvBWDWnSolsCWQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EDF",
+  "title": "Transportation Records",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=nVENI3kpEsMjanZuslshJKgcw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EFA",
+  "title": "Data Breach Prevention (Cyber Security)",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=q724Qo33CS2XVaIYkeKAUQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EFC",
+  "title": "Use of Artificial Intelligence",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=CWaZI4jEDhUp0doNbraqyg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EL",
+  "title": "Delivery of Gifts to Students/Staff",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=GfGTX3HIlpWdoBE1plusrV59Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EM",
+  "title": "Hazardous Materials",
+  "type": "P",
+  "revised": "2015-06-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=te0ydwucWAM6oplusC0AxPSwg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EO",
+  "title": "Service Animals in School",
+  "type": "P",
+  "revised": "2015-07-09",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=jnfQ7SGfIJk8zzXBmyZ0slshQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "E. Business Management",
+  "code": "EP",
+  "title": "Drones (Unmanned Aircraft Systems)",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=YEjqOslshmcWXGmgplushVgKGAXA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=dl98vahpaBjgELwMl2yfzA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "F. Facility Expansion",
+  "code": "FFF",
+  "title": "Facility Expansion State Loans and Grants",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=4KK1z2CWJwdsXhQcqwPWqw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=b8kjkqUaN06aiBcCXpDnCw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAA",
+  "title": "Professional Educator Code of Conduct",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusnsThB8LLMYEj8Y0ZiKpow==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAAA",
+  "title": "Equal Opportunity Employment",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=H7OaLPvJzmGsI1RNTr4ccQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAB",
+  "title": "Employee Conduct",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=fbplusOFEiW9e3oSjGZzgwplusOg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GABB",
+  "title": "Staff/Student Non-fraternization",
+  "type": "P",
+  "revised": "2025-05-12",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=HDQwplusR0vJtd1C8depFA4DA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GABE",
+  "title": "Title I Comparability -Equivalency of Staff",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=NUqmopzI4r1BslshzZgSz3sKQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAD",
+  "title": "Professional Staff Development",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=HguqCbLlXPI7hdMXuRObMw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GADAC",
+  "title": "Suicide Prevention Education In-Service Training",
+  "type": "P",
+  "revised": "2017-11-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=J11slshEMuTiswN3Ea5PJyGBA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GADE",
+  "title": "Sick Leave",
+  "type": "P",
+  "revised": "2025-07-31",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=85W8hVgI2slshrerkOSbFmSPA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GADF",
+  "title": "Donated Leave",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=xw47bgoRLM3TKB91kHbIjA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GADGB",
+  "title": "Staff Leave Policy Guidelines",
+  "type": "P",
+  "revised": "2025-04-14",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ZnccT1zGKGyslshnsYHvJqCXA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GADH",
+  "title": "Jury Duty",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=DcGXCam3OqnWcYyYZ9p83w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GADJ",
+  "title": "Personal Leave",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plusoqy8fKO7I1SgJ349X3plus4A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAEA",
+  "title": "Staff Protection",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=KXnbSldxOYst12ZE5wl7QA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAER",
+  "title": "Licensed Staff Complaints and Grievances",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slshlFQGfyYxd4HSVVADpd0DQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAHB",
+  "title": "Political Activity of Staff Members",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=fg5lXUD2uG3Ff1nCCT4a0w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GAR",
+  "title": "Professional Personnel Records",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ZmbKAwxnc2o57lveAslshXNpQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBA",
+  "title": "Professional Personnel Compensation Guides and Contracts",
+  "type": "P",
+  "revised": "2026-06-30",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=L5ZOvqJxp4W0eJv1FzSFkw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBAAA",
+  "title": "Classified/Support Staff Salary Schedules",
+  "type": "P",
+  "revised": "2002-09-02",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=5M8xoAw9egBRxIFslshfbWe4w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBBA",
+  "title": "Professional Personnel Qualifications",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=7SRziKirwrIIVzvsVtjX0A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBC",
+  "title": "Recruitment and Selection",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=jjGDAJLXorslshQSdBREx5AWA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBCA",
+  "title": "Announcement of Vacancies",
+  "type": "P",
+  "revised": "2013-08-14",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BzYplusMJJmr1JZa5xLATp7pQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBCAA",
+  "title": "Recruitment and Retention",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=SNDtsoLxslsh9owZiYW97plusglQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBDAA",
+  "title": "Criminal Background Checks/Fingerprinting",
+  "type": "P",
+  "revised": "2015-07-09",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=fp4Ng7YC4mc4EnnsvBSeplusw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBDB",
+  "title": "Retired Employee Employment",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=pQENcDAcMgW2U5W3GzxmNw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBE",
+  "title": "Professional Personnel Assignment",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=yDsonxbDGMojPtwul5ONTQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBF",
+  "title": "Professional Personnel Orientation",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=MEq14yq0pAEQ3w7ZOVnGag==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBI",
+  "title": "Evaluation of Employees",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=SaEQtaXGNOpQqbMcZFR0Cw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBK",
+  "title": "Professional Personnel Suspension / Dismissal",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=uuhplustQs7NHplusYJAP1T4bGUA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBKAB",
+  "title": "Staff Reduction In Force",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slsh0jplusgKUOMM0kMXNslshjWAJplusA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBKAR",
+  "title": "Professional Personnel Reduction in Force",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=KtU9giP7b21m0e51U52VXQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBO",
+  "title": "Professional Personnel Resignations",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=i5v7TT7reDoyfjtQPhfWBg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBOA",
+  "title": "Professional Personnel Release from Contract",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wezwTHoxMlfkMFmU5sQW6Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBR",
+  "title": "Sexual Harassment",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=P97IvQpITGKYslshd0cywuXhQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBRC",
+  "title": "Professional Personnel Work Load",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BN1Shx6IegcMbRFhKIvVLQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBRHC",
+  "title": "Return To Work Policy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=PV5k8vSXreeGTtMvX21ccg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBRIA",
+  "title": "Family and Medical Leave Act",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=s0q5UetlcljtnQ4xC1SzyA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBRL",
+  "title": "Drug Free Schools and Workplace",
+  "type": "P",
+  "revised": "2026-02-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UwuybX0plusMVplusnKYCyeqIvfw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GBRM",
+  "title": "Smoking and Other Uses of Tobacco",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=plus00YVm4GATypNVFgdPPZYg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GCDC",
+  "title": "Classified/At-Will Employee Separation",
+  "type": "P",
+  "revised": "2007-08-20",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=MP6BnRo3ilzEmudN6819SQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GCN",
+  "title": "Separation/Resignations",
+  "type": "P",
+  "revised": "2025-04-14",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=z897mPRkLKAfETWZJP4R6Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GCQ",
+  "title": "Retirement",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=bT81QVxMEvdlnmYK7rH6jA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "G. Personnel",
+  "code": "GCRAA",
+  "title": "Fair Labor Standards Policy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Q8gslshvT9Y24UGlgIzmIYapg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=yH5CtcrH538rrI0VwdB78g==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IA",
+  "title": "Distance Learning",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=HCtui4825wWwV6o1mWTFFA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IAAA",
+  "title": "Distance/Online Learning",
+  "type": "P",
+  "revised": "2020-08-10",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=XnJyEs597sNclG5LEqqYfA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IAAB",
+  "title": "Staff Conduct on Virtual Meetings",
+  "type": "P",
+  "revised": "2020-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=t0UUVSEkIV5lAagyHqrP4Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IAB",
+  "title": "Philosophy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=zgnQWr69XT7Btwa6emplusM0A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IB",
+  "title": "Instructional Goals",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=OwJ3RPMEiCLKTK1UGbsa1w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IC",
+  "title": "Curriculum Development",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=4zmjVHYo2MCMh9cFFOBMXA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ICB",
+  "title": "Curriculum Development Planning",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=3EuVuncqDDMy55AV7sYvcg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ICFA",
+  "title": "Textbook Policy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=op0IyolslshI1nfpPTKq9AH2g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ICG",
+  "title": "Sex-Related Education",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=3sGFp5GqTiqmLAVfZhVhQA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ICGB",
+  "title": "Abstinence Plus Sex Education High School",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=tplusviTOIhkvv2Qjif4arcVg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ICHI",
+  "title": "Literacy Based Promotion",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=7URGGLeT1bw8nnhplusr3qfAw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ICI",
+  "title": "Health and Physical Education",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=XNowuQhS5O6fvvMgplus05eplusQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "ID",
+  "title": "Instructional Program Management",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=QGAslshprptCsplusKeZnPFplusplusEIg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDAEA",
+  "title": "Early Release for Seniors",
+  "type": "P",
+  "revised": "2026-07-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=oze4lbzQq9emEF0RE21YiQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDAF",
+  "title": "Exemption Policy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=dEEmdJm7154pqYVYuGf0RQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDAG",
+  "title": "Dual Enrollment",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=8lvjTQe1zpWl4AAR5VoQfg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDCA",
+  "title": "Extended School Year/Summer School",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=bJslshn3p8slshCLbryapPLxUrZw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDCH",
+  "title": "Correspondence Courses",
+  "type": "P",
+  "revised": "2015-08-11",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=bhKHNQO7yUoBUmGmSpqCEA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDDE",
+  "title": "Driver Training",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=KxFhN6QRHIuuUnLslshFhtZJQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDDF",
+  "title": "Special Education Programs",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=htvhICHRkj7QTJ6bpZqOaw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDDH",
+  "title": "Section 504 -- Americans With Disabilities Act -- Non Discrimination",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=GplusKOw1KpEnEsfQ0Bch5OTw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDDHA",
+  "title": "Section 504 -- Americans With Disabilities Act Procedures (Employees and School Visitors)",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=sZUesXXuNdmZrWoXDAPpng==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDDHE",
+  "title": "Service Animal Policy",
+  "type": "P",
+  "revised": "2015-09-30",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=OkNahpdZRgDj5MtunH0r9A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDDIAB",
+  "title": "Advanced Placement Classes/Credits",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=6slshjidhCaeKDI9OCGTHQ5MA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IDE",
+  "title": "Gifted Education Program",
+  "type": "P",
+  "revised": "2007-09-06",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=3R43GeDlWHb0CFIV1A4NIw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IEA",
+  "title": "Intervention Process",
+  "type": "P",
+  "revised": "2008-07-14",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=qiXnD8zv3VhRI4wL3CUzdw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IEB",
+  "title": "Speech - Language Screening",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=6n9ONapSNp8lt5agikRX7w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IEBA",
+  "title": "Dyslexia Policy",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Am1DvWoByEG6iw0UvNfypQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IEDB",
+  "title": "Classification of Students",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JRotGKbPWP7PNrtkwHebOg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IFBA",
+  "title": "Assistant Teachers",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=2TGplus4gsplusYXlOnIm5JDbyRg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IFBD",
+  "title": "School Libraries",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=nRYU0IplusGTGplusVWFZQWwXcPA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IFG",
+  "title": "Early Graduation",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ac5cZe8G94IDheeVzKGYCA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IG",
+  "title": "Prayer in the Schools",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=6ewC75yIqEGyoG8sOVHWcw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IGAA",
+  "title": "Student Religious Liberties",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=sqslshM6I0RzyplusjysLslshuia36Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHA",
+  "title": "Grading System",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=dBocQ5GDq83mkQZIl8JbpQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHAD",
+  "title": "Policy Statement on Grading -- Elementary and Secondary Schools",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UBN6ilBbaYplus5Q0NG2U1aeQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHCA",
+  "title": "Valedictorian and Salutatorian",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ELCvkGUEAOmF5ZmzXMk5fA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHD",
+  "title": "Honor Roll",
+  "type": "P",
+  "revised": "2014-02-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=umTdam0KML2WQlves1slsheDQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHE",
+  "title": "Promotion and Retention",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=CNKy2c0K88vTlvDIFCofvA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHEA",
+  "title": "Class Ranking",
+  "type": "P",
+  "revised": "2006-06-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=XDiIO4emQa9hAVlEJIitWQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHF",
+  "title": "Graduation Requirements",
+  "type": "P",
+  "revised": "2026-07-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=qNplusJLzE0XSaOCv6EhmS2Pw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHFA",
+  "title": "Special Education Graduation",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UR0RjPHduDUnclgSMYj0FQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IHFAAA",
+  "title": "Career Pathways Graduation Option",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=JtT3Vdj8LGIplus1XyInFGCig==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "II",
+  "title": "Testing Program",
+  "type": "P",
+  "revised": "2024-12-10",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=pluslHLplus9Kile6wdtqZt1YLpQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IIA",
+  "title": "Testing and Student Surveys",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=0OZlhW44kVs5Ms72MzV8hw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IIAAA",
+  "title": "Opting-Out of State Testing",
+  "type": "P",
+  "revised": "2017-01-13",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=sGM3axb43eU0oplusIWWfGauA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "I. Instructional Program",
+  "code": "IJ",
+  "title": "Technology and Instruction / Electronic Information Resources",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=AslshmOVnMmkDpmHhYNxTlTqg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=fyXPVLgX67SNkHuOA0VyGA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JAA",
+  "title": "Equal Educational Opportunities",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=iHrmWZM35wemVAxidxVchw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JAB",
+  "title": "Equal Access Student Organizations",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=FJbjdQsHCOUm0gPVzCmjlQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JB",
+  "title": "Students Complaints of Sexual Discrimination / Harassment -- Title IX",
+  "type": "P",
+  "revised": "2011-06-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=uF4kdihTuKKMUxfk7a0yBg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBA",
+  "title": "Compulsory School Attendance/School Age",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=jpDhNkqz24zxRqsxFsPhBw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBAC",
+  "title": "Truancy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=MYS8in3aw16RslshuoCy4hZeQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBB",
+  "title": "Entrance Age",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=lsteirsplusF9Da3ue3slshx8KMQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBC",
+  "title": "School Admission",
+  "type": "P",
+  "revised": "2026-07-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=50ICR70JdPVm8VdKeDYXvA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBCC",
+  "title": "Student Tuition for Out-of-District Students",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wDpUzzFD0QdqWoxuWPqaOQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBCCA",
+  "title": "Assignment of Pupils",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=5vcicjI2nNuejWa4Wl9MpQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBCCC",
+  "title": "Student Schedules and Course Loads",
+  "type": "P",
+  "revised": "2002-10-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=BDMbH8u3SnFzpe8dRXYAOw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBCD",
+  "title": "Transfers and Withdrawals of Students",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=E3VvjQUrZzPzFtao3JfraA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBCDE",
+  "title": "Student Transfer from Non-Accredited Programs",
+  "type": "P",
+  "revised": "2025-07-31",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=w93JsWDuYrwpluswkslshA6aawKg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBD",
+  "title": "Attendance",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=NDKbHLoPSGvBPeRdH0PrAg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JBDA",
+  "title": "Check Out Procedures",
+  "type": "P",
+  "revised": "2026-07-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=thKgzXuM8bP28DcOTJTMVg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCA",
+  "title": "Student Conduct",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=8GcY8KKRplusW3qlwh0495wgw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCAA",
+  "title": "Due Process",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=eJ16WJMiHHevGOUG5nqj6A==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBA",
+  "title": "Student Restraint & Seclusion",
+  "type": "P",
+  "revised": "2016-04-18",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slshPJ2bFJplusRMZiUXSSObwjxQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBB",
+  "title": "Gang Activity",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=R8gFfFOm32PeVu5RbdRyiw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBD",
+  "title": "Vandalism/ Destruction of Property",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=w1VQAVUPUyYcuslsh8T7nddFw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBE",
+  "title": "Unlawful or Violent Acts",
+  "type": "P",
+  "revised": "2024-11-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=OrF20ATplusR8x0P1GbbYuNdg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBEA",
+  "title": "Harassment",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=2BCGW18kOGlJCX0aZ5ZuSQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBF",
+  "title": "Reporting of Unlawful or Violent Acts",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=WLDlbiXAGwSJopqhfkxavA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCBH",
+  "title": "Gun-Free Schools",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=ydCbh56uKHgGH0Te7fxslsheg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCD",
+  "title": "Alternative School Program",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=j6UdXDB6U0A1VPSKp8mFgA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDA",
+  "title": "School Searches",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=wfbhTK3gFKzYzF9O4skiFA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDAA",
+  "title": "Use of Tobacco and Smoking Devices",
+  "type": "P",
+  "revised": "2025-07-21",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Udf3WOeJIs4IbUL5cc8sBw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDAAA",
+  "title": "Questioning and Apprehension of Students",
+  "type": "P",
+  "revised": "2006-06-06",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=8ZRYvQTiR87fhTzSPHPQAw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDABA",
+  "title": "Student Drug and Alcohol Testing",
+  "type": "P",
+  "revised": "2002-08-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=otXWxpI2g4p4VoQpYBAQCQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDAC",
+  "title": "Drugs and Alcohol (Possession or Reasonable Suspicion)",
+  "type": "P",
+  "revised": "2025-07-21",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=q4ythfoqFdpvY1QlNmfK7w==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDAD",
+  "title": "Bus Conduct",
+  "type": "P",
+  "revised": "2025-01-13",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Liwu7MNqxokmR9VIeQGKsw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDAE",
+  "title": "Weapons",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=qYbwuzHETM20HpbSJp64pg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDB",
+  "title": "Dress Code for Students",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=NAW2iCyIT6NO8x7yfOdugA==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JCDBB",
+  "title": "School Bookbags",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=rPxKLPVEhHWSuwpJnaqGng==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JD",
+  "title": "Student Discipline",
+  "type": "P",
+  "revised": "2024-11-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=0xZMfDsb57iplusLzRwtBb0Dw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDA",
+  "title": "Discipline Plan",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=T3lGUYLceCLMWGsZczPXBg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDB",
+  "title": "Corporal Punishment",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=UYdrmHwtNsnjGEfHcnAt2g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDC",
+  "title": "Detention of Students",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=lHFcwXcsyAUBfcVdP7NalQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDD",
+  "title": "Suspension",
+  "type": "P",
+  "revised": "2000-06-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=oS6ZRyplusCiOur74rTho3oLg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDDA",
+  "title": "Bullying",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=Q97KOM54scXG7qpn1u7EnQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDE",
+  "title": "Expulsion",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=qvcQyKxRHpluseJSyPhYhM5dw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDG",
+  "title": "Readmission and Denial of Admission",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=CFUaWw3Jcp5wszcNdj7CXg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JDGA",
+  "title": "Appeals",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=xfb5slshOPEV3lDtTNgdxAUTQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JE",
+  "title": "Cell Phone/Electronic Devices",
+  "type": "P",
+  "revised": "2026-07-09",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=euL9Gf23XiXlvlIylsbd1Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JF",
+  "title": "Academic Achievement",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=X8IksDu4slshpBpZOslshZTRqDZQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "J. Students",
+  "code": "JFABB",
+  "title": "International/Foreign Exchange Students",
+  "type": "P",
+  "revised": "2007-02-12",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=u1iAtivdtP7LoCZWqP5SMw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=hSGrPqF4gplus5plusbZ62PcQufA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "K. General Public Relations",
+  "code": "KCB",
+  "title": "Community Involvement in Decision Making",
+  "type": "P",
+  "revised": "2025-10-16",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=hRhcKVcsAORth9pluswclRTVg==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=sc8bjy4DPyDA4KHTJ9PnCA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "K. General Public Relations",
+  "code": "KDCA",
+  "title": "Solicitations By Staff Members",
+  "type": "P",
+  "revised": "2005-11-10",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=slshMARplusNMwpqwjL56fUQ2vPw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=sc8bjy4DPyDA4KHTJ9PnCA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "K. General Public Relations",
+  "code": "KHE",
+  "title": "Gifts to Schools",
+  "type": "P",
+  "revised": "2012-04-09",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=xc2twhYbeWaHcDcvNmN42Q==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=sc8bjy4DPyDA4KHTJ9PnCA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "K. General Public Relations",
+  "code": "KJA",
+  "title": "School Volunteers Policy",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=f5tCDMZHmplusEH7kmCQoMLeQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=sc8bjy4DPyDA4KHTJ9PnCA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "K. General Public Relations",
+  "code": "KM",
+  "title": "Visitors to the Schools",
+  "type": "P",
+  "revised": "2014-07-01",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=LAQWg7Y9xhbcGkq1SO9eslshQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=sc8bjy4DPyDA4KHTJ9PnCA==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "L. Organizational Relations",
+  "code": "LA",
+  "title": "Parental Engagement",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=8slshq9plusg0IaLDUZxfhv8mjsQ==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=JlplusuJplusyHVooXlUcVebSyhw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "L. Organizational Relations",
+  "code": "LAA",
+  "title": "Title I Family and Community Engagement",
+  "type": "P",
+  "revised": "2026-06-11",
+  "recent": true,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=mJp7nbHbsaZutuieDJj9uw==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=JlplusuJplusyHVooXlUcVebSyhw==&PG=6&IRP=0&isPndg=false"
+ },
+ {
+  "section": "L. Organizational Relations",
+  "code": "LAB",
+  "title": "Regulations for Title I Parent Engagement",
+  "type": "P",
+  "revised": "2016-07-26",
+  "recent": false,
+  "url": "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36031793&revid=rez1IAiNQ1F3UhtbZAFc2g==&ptid=9slshUHzTHxaaYMVf6zKpJz3Q==&secid=JlplusuJplusyHVooXlUcVebSyhw==&PG=6&IRP=0&isPndg=false"
+ }
+]

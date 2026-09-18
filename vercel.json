@@ -1,0 +1,11 @@
+{
+  "headers": [
+    {
+      "source": "/(audits|peer-audits|records|budget)/(.*)\\.pdf",
+      "headers": [
+        { "key": "Content-Disposition", "value": "inline" },
+        { "key": "Cache-Control", "value": "public, max-age=86400" }
+      ]
+    }
+  ]
+}

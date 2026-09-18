@@ -1,0 +1,11 @@
+---
+// Client-side row filter for a table rendered in full as static HTML.
+interface Props { target: string; label: string; placeholder?: string }
+const { target, label, placeholder = 'Type to filter' } = Astro.props;
+---
+<div class="my-3 flex flex-wrap items-center gap-3" data-pagefind-ignore>
+  <label class="text-sm font-medium" for={`f-${target}`}>{label}</label>
+  <input id={`f-${target}`} type="search" data-filter={target} placeholder={placeholder}
+    class="border border-rule rounded px-3 py-1.5 w-full sm:w-72 bg-white" autocomplete="off" />
+  <span class="text-sm text-muted" data-count={target} aria-live="polite"></span>
+</div>

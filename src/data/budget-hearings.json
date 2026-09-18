@@ -1,0 +1,30 @@
+[
+  {
+    "schoolYear": "2026–27",
+    "hearingDate": "2026-07-21",
+    "source": {"issue": "2026-07-30", "page": 4},
+    "facts": [
+      {"label": "Students served", "value": "About 2,626"},
+      {"label": "Full-time staff", "value": "475"},
+      {"label": "Part-time staff", "value": "78"},
+      {"label": "Requested millage", "value": "47 mills (unchanged), covering district maintenance, debt service and school operations"},
+      {"label": "Federal relief (ESSER)", "value": "Expiring; devices bought with ESSER funds now the district's to replace and maintain"},
+      {"label": "Retirement costs", "value": "Employer contributions to the Public Employees' Retirement System (PERS) increasing"},
+      {"label": "State formula", "value": "Mississippi Student Funding Formula (MSFF), which replaced MAEP"}
+    ]
+  },
+  {
+    "schoolYear": "2025–26",
+    "hearingDate": "2025-07-21",
+    "source": {"issue": "2025-07-24", "page": 2},
+    "facts": [
+      {"label": "Enrollment (2024–25)", "value": "2,788 students"},
+      {"label": "Projected employees", "value": "About 477 full-time staff"},
+      {"label": "Buildings", "value": "96 buildings, about 696,000 square feet"},
+      {"label": "Transportation", "value": "48 bus routes, over 465,000 miles a year"},
+      {"label": "Meals served (2024–25)", "value": "Over 140,000 breakfasts and 450,000 lunches"},
+      {"label": "Adult meal prices", "value": "Breakfast $2.25 → $2.40; lunch $4.00 → $4.10"},
+      {"label": "Federal funding", "value": "The state instructed districts to prepare for reduced federal funding"}
+    ]
+  }
+]

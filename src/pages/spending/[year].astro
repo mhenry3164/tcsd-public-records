@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import Filter from '../../components/Filter.astro';
+import summary from '../../data/vendors-summary.json';
+import site from '../../data/site.json';
+import { money } from '../../lib/format';
+
+const files = import.meta.glob<{ vendor: string; amount: number }[]>('../../data/vendors-*.json', { eager: true, import: 'default' });
+export function getStaticPaths() {
+  return summary.years.map((y) => ({ params: { year: String(y.year) }, props: { y } }));
+}
+const { y } = Astro.props;
+const rows = files[`../../data/vendors-${y.year}.json`];
+const jsonLd = { '@context': 'https://schema.org', '@type': 'Dataset', name: `Tishomingo County School District vendor payments, ${y.year}`,
+  description: `Annual total paid to each of ${y.vendors} vendors in ${y.year}.`, temporalCoverage: String(y.year), isAccessibleForFree: true,
+  distribution: { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${site.url}/data/tcsd_checkbook_vendors.csv` } };
+---
+<Base title={`Vendor payments, ${y.year}`} description={`All ${y.vendors.toLocaleString('en-US')} vendors paid by the Tishomingo County School District in ${y.year}, total ${money(y.total)}, with annual amounts per vendor.`} jsonLd={jsonLd}>
+  <p class="text-sm"><a href="/spending">← Spending</a> · {summary.years.filter((o) => o.year !== y.year).map((o) => <a href={`/spending/${o.year}`}>{o.year}</a>)}</p>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold mt-2">Vendor payments, {y.year}</h1>
+  <p class="mt-2">{y.vendors.toLocaleString('en-US')} vendors, {money(y.total, { cents: true })} total. Annual totals per vendor, not individual checks.</p>
+  <Filter target="vendors" label="Find a vendor" />
+  <div class="table-wrap">
+    <table class="data" id="vendors" data-sortable>
+      <thead><tr><th class="num">Rank</th><th>Vendor</th><th class="num">Paid in {y.year}</th><th class="num">Share of year</th></tr></thead>
+      <tbody>{rows.map((r, i) => <tr><td class="num">{i + 1}</td><td>{r.vendor}</td><td class="num">{money(r.amount, { cents: true })}</td><td class="num">{((r.amount / y.total) * 100).toFixed(2)}%</td></tr>)}</tbody>
+    </table>
+  </div>
+  <p class="source mt-2">Source: <a href={site.district.openthebooksCheckbook}>OpenTheBooks.com, checkbook tab</a>, from district records. <a href="/data/tcsd_checkbook_vendors.csv" download>Download CSV</a>.</p>
+</Base>

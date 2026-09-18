@@ -1,0 +1,378 @@
+{
+ "generalFund": [
+  {
+   "item": "Revenues: Local sources",
+   "FY2025": 11515535,
+   "FY2024": 10781390,
+   "FY2023": 10252916,
+   "FY2022": 9530598
+  },
+  {
+   "item": "Revenues: State sources",
+   "FY2025": 19180484,
+   "FY2024": 18860786,
+   "FY2023": 17878153,
+   "FY2022": 15698588
+  },
+  {
+   "item": "Revenues: Federal sources",
+   "FY2025": 1497188,
+   "FY2024": 1161628,
+   "FY2023": 931330,
+   "FY2022": 954018
+  },
+  {
+   "item": "Total revenues",
+   "FY2025": 32193207,
+   "FY2024": 30803804,
+   "FY2023": 29062399,
+   "FY2022": 26183204
+  },
+  {
+   "item": "Expenditures: Instruction",
+   "FY2025": 18418238,
+   "FY2024": 18247558,
+   "FY2023": 17444277,
+   "FY2022": 16352329
+  },
+  {
+   "item": "Expenditures: Support services",
+   "FY2025": 13016750,
+   "FY2024": 11136118,
+   "FY2023": 10843383,
+   "FY2022": 10011028
+  },
+  {
+   "item": "Expenditures: Noninstructional services",
+   "FY2025": 207341,
+   "FY2024": 158292,
+   "FY2023": 164189,
+   "FY2022": 136469
+  },
+  {
+   "item": "Expenditures: Facilities acquisition & construction",
+   "FY2025": 145383,
+   "FY2024": 2748153,
+   "FY2023": 2732309,
+   "FY2022": 437306
+  },
+  {
+   "item": "Expenditures: Debt service principal",
+   "FY2025": 181958,
+   "FY2024": 96925,
+   "FY2023": 19202,
+   "FY2022": 0
+  },
+  {
+   "item": "Expenditures: Debt service interest",
+   "FY2025": 16983,
+   "FY2024": 18791,
+   "FY2023": 1693,
+   "FY2022": 0
+  },
+  {
+   "item": "Total expenditures",
+   "FY2025": 31986653,
+   "FY2024": 32405837,
+   "FY2023": 31205053,
+   "FY2022": 26937132
+  },
+  {
+   "item": "Revenues over (under) expenditures",
+   "FY2025": 206554,
+   "FY2024": -1602033,
+   "FY2023": -2142654,
+   "FY2022": -753928
+  },
+  {
+   "item": "General Fund balance, end of year",
+   "FY2025": 13948442,
+   "FY2024": 13737971,
+   "FY2023": 15130055,
+   "FY2022": 16880039
+  }
+ ],
+ "allFunds": [
+  {
+   "item": "Revenues: Local sources",
+   "FY2025": 12687895,
+   "FY2024": 11837552,
+   "FY2023": 11181248,
+   "FY2022": 10142772
+  },
+  {
+   "item": "Revenues: State sources",
+   "FY2025": 21319007,
+   "FY2024": 20866267,
+   "FY2023": 19889038,
+   "FY2022": 17527921
+  },
+  {
+   "item": "Revenues: Federal sources",
+   "FY2025": 5107188,
+   "FY2024": 5316102,
+   "FY2023": 6081428,
+   "FY2022": 12096886
+  },
+  {
+   "item": "Total revenues",
+   "FY2025": 39114090,
+   "FY2024": 38019921,
+   "FY2023": 37151714,
+   "FY2022": 39767579
+  },
+  {
+   "item": "Expenditures: Instruction",
+   "FY2025": 21333396,
+   "FY2024": 21483141,
+   "FY2023": 21535419,
+   "FY2022": 19546668
+  },
+  {
+   "item": "Expenditures: Support services",
+   "FY2025": 14438774,
+   "FY2024": 12500409,
+   "FY2023": 12475256,
+   "FY2022": 12500254
+  },
+  {
+   "item": "Expenditures: Noninstructional services",
+   "FY2025": 2162566,
+   "FY2024": 2238701,
+   "FY2023": 2351847,
+   "FY2022": 2097517
+  },
+  {
+   "item": "Expenditures: Facilities acquisition & construction",
+   "FY2025": 185887,
+   "FY2024": 3457649,
+   "FY2023": 2732309,
+   "FY2022": 437306
+  },
+  {
+   "item": "Expenditures: Debt service principal",
+   "FY2025": 4474897,
+   "FY2024": 445508,
+   "FY2023": 308867,
+   "FY2022": 195000
+  },
+  {
+   "item": "Expenditures: Debt service interest",
+   "FY2025": 111062,
+   "FY2024": 98934,
+   "FY2023": 87712,
+   "FY2022": 67415
+  },
+  {
+   "item": "Expenditures: Other",
+   "FY2025": 750,
+   "FY2024": 0,
+   "FY2023": 1250,
+   "FY2022": 166770
+  },
+  {
+   "item": "Total expenditures",
+   "FY2025": 42707332,
+   "FY2024": 40224342,
+   "FY2023": 39492660,
+   "FY2022": 35010930
+  },
+  {
+   "item": "Revenues over (under) expenditures",
+   "FY2025": -3593242,
+   "FY2024": -2204421,
+   "FY2023": -2340946,
+   "FY2022": 4756649
+  },
+  {
+   "item": "Total fund balance, end of year",
+   "FY2025": 14233138,
+   "FY2024": 17604408,
+   "FY2023": 18804530,
+   "FY2022": 20734237
+  }
+ ],
+ "governmentWide": [
+  {
+   "item": "Total revenues (government-wide)",
+   "FY2025": 39115377,
+   "FY2024": 38340219,
+   "note": null
+  },
+  {
+   "item": "Total expenses (government-wide, incl. pension expense)",
+   "FY2025": 47660965,
+   "FY2024": 42930389,
+   "note": "Pension expense is an accounting charge for PERS, not cash paid"
+  },
+  {
+   "item": "Pension expense (PERS accrual)",
+   "FY2025": 12344738,
+   "FY2024": 9764808,
+   "note": null
+  },
+  {
+   "item": "Property (and gaming) taxes",
+   "FY2025": 10157191,
+   "FY2024": 10064699,
+   "note": "Local tax revenue"
+  },
+  {
+   "item": "Investment earnings",
+   "FY2025": 820198,
+   "FY2024": 75333,
+   "note": "Big jump in interest income"
+  },
+  {
+   "item": "Net pension liability (district share of PERS)",
+   "FY2025": 74901223,
+   "FY2024": 68994598,
+   "note": "Long-term; set by state PERS system"
+  },
+  {
+   "item": "Long-term debt outstanding (excl. pension/OPEB)",
+   "FY2025": 2787492,
+   "FY2024": 6345889,
+   "note": "Paid off $3M QSCB bonds and $1.14M three-mill notes in FY2025"
+  },
+  {
+   "item": "Energy efficiency loan balance (1.29%, matures 2033)",
+   "FY2025": 927997,
+   "FY2024": 1005936,
+   "note": "Original $1,169,184 issued Nov 2021"
+  },
+  {
+   "item": "Compensated absences payable",
+   "FY2025": 946965,
+   "FY2024": 235282,
+   "note": "GASB 101 change in accounting principle added $680,819"
+  },
+  {
+   "item": "Capital assets, net",
+   "FY2025": 24641170,
+   "FY2024": 25401975,
+   "note": null
+  },
+  {
+   "item": "Unassigned General Fund balance",
+   "FY2025": 12904572,
+   "FY2024": null,
+   "note": "91% of all fund balance; roughly 4.8 months of General Fund spending"
+  },
+  {
+   "item": "Students (ADA, month 9)",
+   "FY2025": 2785,
+   "FY2024": 2857,
+   "note": "FY2023: 2,821; FY2022: 2,841"
+  },
+  {
+   "item": "Cost per student, all governmental funds",
+   "FY2025": 15335,
+   "FY2024": 14079,
+   "note": "FY2023: $14,000; FY2022: $12,324"
+  },
+  {
+   "item": "Instruction cost per student",
+   "FY2025": 8949,
+   "FY2024": null,
+   "note": "FY2025 schedule of instructional/admin expenditures"
+  },
+  {
+   "item": "General administration cost per student",
+   "FY2025": 399,
+   "FY2024": null,
+   "note": null
+  },
+  {
+   "item": "School administration cost per student",
+   "FY2025": 837,
+   "FY2024": null,
+   "note": null
+  },
+  {
+   "item": "Federal awards expended (SEFA)",
+   "FY2025": 3612912,
+   "FY2024": null,
+   "note": "Largest: school lunch/breakfast $1.50M, Title I $807K, special ed $848K; ESSER nearly gone ($48K)"
+  }
+ ],
+ "budgetVsActual": [
+  {
+   "item": "Local revenue",
+   "original": 10504916,
+   "final": 11518087,
+   "actual": 11515535,
+   "variance": -2552
+  },
+  {
+   "item": "State revenue",
+   "original": 19073665,
+   "final": 19180484,
+   "actual": 19180484,
+   "variance": 0
+  },
+  {
+   "item": "Federal revenue",
+   "original": 1594633,
+   "final": 1497188,
+   "actual": 1497188,
+   "variance": 0
+  },
+  {
+   "item": "Total revenues",
+   "original": 31173214,
+   "final": 32195759,
+   "actual": 32193207,
+   "variance": -2552
+  },
+  {
+   "item": "Instruction",
+   "original": 18891658,
+   "final": 18420707,
+   "actual": 18418238,
+   "variance": -2469
+  },
+  {
+   "item": "Support services",
+   "original": 12742418,
+   "final": 13002192,
+   "actual": 13016750,
+   "variance": 14558
+  },
+  {
+   "item": "Noninstructional",
+   "original": 117400,
+   "final": 207425,
+   "actual": 207341,
+   "variance": -84
+  },
+  {
+   "item": "Facilities",
+   "original": 302347,
+   "final": 224167,
+   "actual": 145383,
+   "variance": -78784
+  },
+  {
+   "item": "Debt service (principal + interest)",
+   "original": 0,
+   "final": 0,
+   "actual": 198941,
+   "variance": 198941
+  },
+  {
+   "item": "Total expenditures",
+   "original": 32053823,
+   "final": 31854491,
+   "actual": 31986653,
+   "variance": 132162
+  },
+  {
+   "item": "Ending fund balance",
+   "original": 12578868,
+   "final": 13948441,
+   "actual": 13948442,
+   "variance": 1
+  }
+ ]
+}

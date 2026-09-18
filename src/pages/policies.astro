@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import Filter from '../components/Filter.astro';
+import policies from '../data/policies.json';
+import site from '../data/site.json';
+import { fmtDate } from '../lib/format';
+import BarList from '../components/BarList.astro';
+import Columns from '../components/Columns.astro';
+const revYears = [...new Set(policies.filter((p) => p.revised).map((p) => p.revised!.slice(0, 4)))].sort().filter((y) => +y >= 2016);
+const sections = [...new Set(policies.map((p) => p.section))].sort();
+const recent = policies.filter((p) => p.recent).length;
+const jsonLd = { '@context': 'https://schema.org', '@type': 'Dataset', name: 'Tishomingo County School District board policy index',
+  description: '320 board policies with section, code, title and last-revised date, linked to the district policy manual.', isAccessibleForFree: true,
+  distribution: { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${site.url}/data/tcsd_policy_index.csv` } };
+---
+<Base title="Board policies" description={`Index of all ${policies.length} Tishomingo County School District board policies with last-revised dates; ${recent} revised since Sept. 2024. Each links to the full text in the district's Simbli manual.`} jsonLd={jsonLd}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Board policies</h1>
+  <p class="mt-3 measure">{policies.length} policies in the district’s manual, hosted on <a href={site.district.simbli}>Simbli</a>. {recent} were revised on or after Sept. 1, 2024 (marked <span class="badge">Revised since Sept. 2024</span>). Two policies referenced often on this site: <strong>BCBH</strong> (minutes must record each member’s vote) and <strong>CNA</strong> (public records requests).</p>
+  <div class="grid-auto mt-6" style="--min:30rem">
+    <BarList title="Policies by section" format={(v) => String(v)} items={sections.map((s) => ({ label: s, value: policies.filter((p) => p.section === s).length, note: `${policies.filter((p) => p.section === s && p.recent).length} revised since Sept. 2024` })).sort((a, b) => b.value - a.value)} />
+    <Columns title="Policies by year of last revision" labels={revYears} format={(v) => String(v)} series={[{ name: 'Policies', values: revYears.map((y) => policies.filter((p) => p.revised?.startsWith(y)).length) }]}
+      caption="Each policy is counted once, in the year of its most recent revision." />
+  </div>
+  <div class="mt-6 flex flex-wrap items-center gap-3" data-pagefind-ignore>
+    <label for="sec" class="text-sm font-medium">Section</label>
+    <select id="sec" data-filter-col="policies" class="border border-rule rounded px-2 py-1.5 bg-white">
+      <option value="">All sections</option>
+      {sections.map((s) => <option value={s}>{s}</option>)}
+    </select>
+  </div>
+  <Filter target="policies" label="Filter by code or title" />
+  <div class="table-wrap">
+    <table class="data" id="policies" data-sortable>
+      <thead><tr><th>Code</th><th>Title</th><th>Section</th><th>Type</th><th>Last revised</th></tr></thead>
+      <tbody>{policies.map((p) => (
+        <tr data-group={p.section} id={`policy-${p.code}`}>
+          <td class="whitespace-nowrap font-medium"><a href={p.url} rel="noopener">{p.code}</a></td>
+          <td>{p.title}{p.recent && <> <span class="badge">Revised since Sept. 2024</span></>}</td>
+          <td>{p.section}</td><td>{p.type === 'P' ? 'Policy' : p.type === 'R' ? 'Regulation' : p.type}</td>
+          <td class="whitespace-nowrap" data-v={p.revised ?? ''}>{p.revised ? fmtDate(p.revised) : '—'}</td>
+        </tr>
+      ))}</tbody>
+    </table>
+  </div>
+  <p class="source mt-2">Source: <a href={site.district.simbli}>district policy manual on Simbli</a>, index pulled {fmtDate(site.dataPulled)}. <a href="/data/tcsd_policy_index.csv" download>Download CSV</a>.</p>
+</Base>

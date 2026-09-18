@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+import { fmtDate, isoDate, newspaperUrl } from '../../lib/format';
+import site from '../../data/site.json';
+export async function getStaticPaths() {
+  const notices = await getCollection('notices');
+  return notices.map((n) => ({ params: { id: n.id }, props: { n } }));
+}
+const { n } = Astro.props;
+const { Content } = await render(n);
+const d = n.data;
+const jsonLd = { '@context': 'https://schema.org', '@type': 'Article', headline: d.title, datePublished: isoDate(d.date), description: d.summary,
+  publisher: { '@type': 'GovernmentOrganization', name: site.district.legalName }, isPartOf: { '@type': 'Periodical', name: site.newspaper.name } };
+---
+<Base title={d.title} description={d.summary} jsonLd={jsonLd} ogType="article">
+  <p class="text-sm"><a href="/notices">← Legal notices</a></p>
+  <h1 class="text-2xl sm:text-3xl font-semibold mt-2">{d.title}</h1>
+  <p class="mt-2">{d.summary}</p>
+  <dl class="mt-4 grid grid-cols-[max-content_1fr] gap-x-4 gap-y-1 text-sm">
+    <dt class="text-muted">Published</dt>
+    <dd>{d.runs.map((r, i) => <>{i > 0 && '; '}<a href={newspaperUrl}>{fmtDate(r.issue)}, p. {r.page}</a></>)} — {site.newspaper.name}</dd>
+    {d.signedBy && <><dt class="text-muted">Signed</dt><dd>{d.signedBy}</dd></>}
+    <dt class="text-muted">Type</dt><dd>{d.kind}</dd>
+  </dl>
+  {d.textQuality === 'partial' && <p class="note mt-4">Part of this notice could not be read from the newspaper scan. Gaps are marked.</p>}
+  <article class="prose prose-neutral max-w-none mt-6 bg-white border border-rule rounded p-5">
+    <Content />
+  </article>
+  <p class="source mt-3">Transcribed from the printed notice. Line breaks and hyphenation from the scan were joined; wording, spelling and figures are as printed.</p>
+</Base>

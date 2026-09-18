@@ -1,0 +1,28 @@
+---
+// Horizontal comparison bars in plain HTML/CSS: fluid width, no JS needed, readable by search engines.
+// One entity can be emphasized (accent); the rest are neutral. Optional reference line (e.g. peer average).
+interface Item { label: string; value: number; href?: string; note?: string }
+interface Props {
+  items: Item[]; format: (v: number) => string; highlight?: string;
+  reference?: { label: string; value: number }; title?: string; caption?: string; max?: number;
+}
+const { items, format, highlight, reference, title, caption } = Astro.props;
+const max = Astro.props.max ?? Math.max(...items.map((i) => i.value), reference?.value ?? 0) * 1.02;
+const pct = (v: number) => `${Math.max(0, (v / max) * 100).toFixed(2)}%`;
+---
+<figure class="viz barlist" aria-label={title}>
+  {title && <figcaption class="viz-title">{title}</figcaption>}
+  {reference && <p class="viz-legend"><span><i class="ref-key"></i>{reference.label}: {format(reference.value)}</span></p>}
+  <div class="barlist-body" style={reference ? `--ref:${pct(reference.value)}` : undefined}>
+    <ol class:list={[reference && 'has-ref']}>
+      {items.map((i) => (
+        <li class:list={[i.label === highlight && 'is-hi']} data-tip={`${i.label}: ${format(i.value)}${i.note ? ` — ${i.note}` : ''}`}>
+          <span class="bl-label">{i.href ? <a href={i.href}>{i.label}</a> : i.label}</span>
+          <span class="bl-track"><span class="bl-bar" style={`width:${pct(i.value)}`}></span></span>
+          <span class="bl-value">{format(i.value)}</span>
+        </li>
+      ))}
+    </ol>
+  </div>
+  {caption && <p class="viz-caption">{caption}</p>}
+</figure>

@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import findings from '../../data/findings.json';
+import audits from '../../data/audits.json';
+import { fmtDate } from '../../lib/format';
+import StackBars from '../../components/StackBars.astro';
+import BarList from '../../components/BarList.astro';
+const monthsLate = (f: { fy: string; reportDate: string }) => { const e = new Date(`${f.fy.slice(2)}-06-30`), r = new Date(f.reportDate); return Math.round((+r - +e) / (1000 * 60 * 60 * 24 * 30.44)); };
+import { docHref, tcsdAuditId } from '../../lib/documents';
+const meta = (fy: string) => audits.find((a) => a.fy === fy)!;
+const yearEnd = (fy: string) => `${fy.slice(2)}-06-30`;
+---
+<Base title="Audit opinions and findings" description="Audit opinions and findings for the Tishomingo County School District, FY2022–FY2025, including repeat state-law findings and how late each audit was filed.">
+  <p class="text-sm"><a href="/finances">← Finances</a></p>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold mt-2">Audit opinions and findings</h1>
+  <p class="mt-3 measure">Each year’s audit includes the auditor’s opinion on the financial statements, a report on compliance with state laws and regulations, and a Schedule of Findings and Questioned Costs. Findings are summarized below; follow the links for the full text.</p>
+
+  <div class="table-wrap mt-6">
+    <table class="data">
+      <caption>Opinions and filing dates</caption>
+      <thead><tr><th>Fiscal year</th><th>Year ended</th><th>Audit report date</th><th>Filed</th><th>Opinion</th><th>Material weakness</th><th class="num">Findings</th><th class="num">Repeat</th></tr></thead>
+      <tbody>{findings.map((f) => (
+        <tr><td><a href={`#${f.fy}`}>{f.fy}</a></td><td>{fmtDate(yearEnd(f.fy))}</td><td>{fmtDate(f.reportDate)}</td><td>{f.lateness}</td><td>{f.opinion}</td><td>{f.materialWeakness}</td>
+          <td class="num">{f.findings.length}</td><td class="num">{f.findings.filter((x) => x.repeat === 'Yes').length}</td></tr>
+      ))}</tbody>
+    </table>
+  </div>
+  <p class="source mt-1">Source: each year’s audit (links below). Filing timing: audit report date compared with the June 30 year end.</p>
+
+  <div class="grid-auto mt-8" style="--min:30rem">
+    <StackBars title="Findings by year" parts={['Repeated from a prior year', 'New or not stated']} format={(v) => String(v)}
+      rows={findings.map((f) => { const rep = f.findings.filter((x) => x.repeat === 'Yes').length; return { label: f.fy, parts: [rep, f.findings.length - rep] }; })} />
+    <BarList title="Months from year end to audit report" format={(v) => `${v} months`} items={findings.map((f) => ({ label: f.fy, value: monthsLate(f) }))}
+      caption="Computed from each report date and the June 30 year end." />
+  </div>
+
+  {findings.map((f) => {
+    const a = meta(f.fy);
+    return (
+      <section class="mt-10" id={f.fy}>
+        <h2 class="text-xl font-semibold">{f.fy} <span class="text-base font-normal text-muted">· report dated {fmtDate(f.reportDate)}</span></h2>
+        <p class="mt-1">Opinion: <strong>{f.opinion}</strong>. Material weakness: {f.materialWeakness}.</p>
+        <div class="table-wrap mt-3">
+          <table class="data">
+            <thead><tr><th>Finding</th><th>Repeat from prior year?</th></tr></thead>
+            <tbody>{f.findings.map((x) => <tr><td>{x.finding}</td><td>{x.repeat ?? 'Not stated'}</td></tr>)}</tbody>
+          </table>
+        </div>
+        <p class="source mt-1">Source: <a href={docHref(tcsdAuditId(f.fy), a.pages.findings)}>{f.fy} audit, Schedule of Findings and Questioned Costs (PDF p. {a.pages.findings})</a>; <a href={docHref(tcsdAuditId(f.fy), a.pages.stateLaw)}>state-law compliance report (PDF p. {a.pages.stateLaw})</a>; <a href={a.osa} rel="noopener">State Auditor filing</a>.</p>
+      </section>
+    );
+  })}
+</Base>

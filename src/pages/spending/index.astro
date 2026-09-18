@@ -1,0 +1,42 @@
+---
+import Base from '../../layouts/Base.astro';
+import BarList from '../../components/BarList.astro';
+import Filter from '../../components/Filter.astro';
+import summary from '../../data/vendors-summary.json';
+import site from '../../data/site.json';
+import { money } from '../../lib/format';
+const years = summary.years.map((y) => y.year);
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'Dataset', name: 'Tishomingo County School District vendor payments, annual totals 2023–2024',
+  description: 'Total paid to each vendor by the district per year, as published by OpenTheBooks.com from district records.',
+  creator: { '@type': 'Organization', name: 'OpenTheBooks.com' }, isAccessibleForFree: true, temporalCoverage: '2023/2024',
+  distribution: { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${site.url}/data/tcsd_checkbook_vendors.csv` },
+};
+---
+<Base title="Spending by vendor" description="Tishomingo County School District payments to vendors, annual totals for 2023 and 2024, with the top 25 vendors and a searchable full list." jsonLd={jsonLd}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Spending by vendor</h1>
+  <p class="note mt-4 measure"><strong>What this is:</strong> the total the district paid each vendor in a year, for 2023 and 2024 only, as published by <a href={site.district.openthebooksCheckbook}>OpenTheBooks.com</a> from district records. It is not a check register: individual payments, dates and purposes are not included. The monthly claims dockets the board approves are not public. See <a href="/records">Missing records</a>.</p>
+
+  <div class="table-wrap mt-6 max-w-xl">
+    <table class="data">
+      <thead><tr><th>Year</th><th class="num">Vendors paid</th><th class="num">Total paid</th><th></th></tr></thead>
+      <tbody>{summary.years.map((y) => <tr><td>{y.year}</td><td class="num">{y.vendors.toLocaleString('en-US')}</td><td class="num">{money(y.total)}</td><td><a href={`/spending/${y.year}`}>Full list</a></td></tr>)}</tbody>
+    </table>
+  </div>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Top 25 vendors, 2023 and 2024 combined</h2>
+    <div class="my-4"><BarList title="Top 15 vendors, 2023 and 2024 combined" format={(v) => money(v)} items={summary.top.slice(0, 15).map((t) => ({ label: t.vendor, value: t.total }))}
+      caption={`The top vendor received ${((summary.top[0].total / summary.years.reduce((a, y) => a + y.total, 0)) * 100).toFixed(1)}% of all payments across the two years.`} /></div>
+    <Filter target="top" label="Filter vendors" />
+    <div class="table-wrap">
+      <table class="data" id="top" data-sortable>
+        <thead><tr><th class="num">Rank</th><th>Vendor</th>{years.map((y) => <th class="num">{y}</th>)}<th class="num">Combined</th></tr></thead>
+        <tbody>{summary.top.map((t, i) => (
+          <tr><td class="num">{i + 1}</td><td>{t.vendor}</td>{years.map((y) => <td class="num">{money((t.years as Record<string, number>)[String(y)] ?? null, { cents: true })}</td>)}<td class="num">{money(t.total, { cents: true })}</td></tr>
+        ))}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Source: <a href={site.district.openthebooksCheckbook}>OpenTheBooks.com, checkbook tab</a>. <a href="/data/tcsd_checkbook_vendors.csv" download>Download CSV</a> (all {summary.years.reduce((a, y) => a + y.vendors, 0).toLocaleString('en-US')} rows).</p>
+  </section>
+</Base>

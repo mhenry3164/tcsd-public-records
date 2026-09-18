@@ -1,0 +1,52 @@
+---
+// Time-series columns (one or two series) as inline SVG. Scales with its container via viewBox.
+interface Series { name: string; values: (number | null)[]; color?: string }
+interface Props { labels: (string | number)[]; series: Series[]; format: (v: number) => string; axisFormat?: (v: number) => string; title?: string; caption?: string; height?: number; zero?: boolean }
+const { labels, series, format, title, caption, height = 250, zero = true } = Astro.props;
+const axisFormat = Astro.props.axisFormat ?? format;
+const COLORS = ['var(--viz-1)', 'var(--viz-2)', 'var(--viz-3)', 'var(--viz-4)'];
+const W = 560, H = height, L = 52, R = 12, T = 22, B = 30;
+const all = series.flatMap((s) => s.values.filter((v): v is number => v !== null));
+const hi = Math.max(...all, 0), lo = Math.min(...all, 0);
+// "Nice" ticks
+const span = (hi - (zero ? Math.min(lo, 0) : lo)) || 1;
+const raw = span / 4, mag = 10 ** Math.floor(Math.log10(raw));
+const step = [1, 2, 2.5, 5, 10].map((m) => m * mag).find((s) => s >= raw)!;
+const yMin = zero ? Math.floor(Math.min(lo, 0) / step) * step : Math.floor(lo / step) * step;
+const yMax = Math.ceil(hi / step) * step;
+const ticks: number[] = []; for (let v = yMin; v <= yMax + step / 2; v += step) ticks.push(v);
+const y = (v: number) => T + (H - T - B) * (1 - (v - yMin) / (yMax - yMin));
+const band = (W - L - R) / labels.length;
+const bw = Math.min(24, (band * 0.7) / series.length);
+const labelEvery = labels.length > 5;
+const showLabel = (si: number, i: number, v: number) => series.length === 1 && (!labelEvery || i === 0 || i === labels.length - 1 || v === hi);
+const bar = (x: number, v: number) => {
+  const y0 = y(Math.max(0, yMin)), y1 = y(v), r = Math.min(4, bw / 2, Math.abs(y1 - y0));
+  return v >= 0
+    ? `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + bw - r}Q${x + bw},${y1} ${x + bw},${y1 + r}V${y0}Z`
+    : `M${x},${y0}V${y1 - r}Q${x},${y1} ${x + r},${y1}H${x + bw - r}Q${x + bw},${y1} ${x + bw},${y1 - r}V${y0}Z`;
+};
+---
+<figure class="viz columns">
+  {title && <figcaption class="viz-title">{title}</figcaption>}
+  {series.length > 1 && <ul class="viz-legend">{series.map((s, si) => <li><i style={`background:${s.color ?? COLORS[si]}`}></i>{s.name}</li>)}</ul>}
+  <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${title ?? 'Chart'}. The same figures are in the table on this page.`} preserveAspectRatio="xMidYMid meet">
+    {ticks.map((t) => (<><line x1={L} x2={W - R} y1={y(t)} y2={y(t)} class={t === 0 ? 'viz-axis' : 'viz-grid'} /><text x={L - 8} y={y(t) + 4} text-anchor="end" class="viz-tick">{axisFormat(t)}</text></>))}
+    {labels.map((lab, i) => {
+      const cx = L + band * i + band / 2, x0 = cx - (bw * series.length + 2 * (series.length - 1)) / 2;
+      return (
+        <g>
+          {series.map((s, si) => s.values[i] !== null && (
+            <g class="viz-mark" data-tip={`${lab}${series.length > 1 ? ` · ${s.name}` : ''}: ${format(s.values[i]!)}`}>
+              <rect x={x0 + si * (bw + 2) - 4} y={T} width={bw + 8} height={H - T - B} fill="transparent" />
+              <path d={bar(x0 + si * (bw + 2), s.values[i]!)} fill={s.color ?? COLORS[si]} />
+              {showLabel(si, i, s.values[i]!) && <text x={x0 + bw / 2} y={y(Math.max(s.values[i]!, 0)) - 6} text-anchor="middle" class="viz-val">{format(s.values[i]!)}</text>}
+            </g>
+          ))}
+          <text x={cx} y={H - 10} text-anchor="middle" class="viz-tick">{lab}</text>
+        </g>
+      );
+    })}
+  </svg>
+  {caption && <p class="viz-caption">{caption}</p>}
+</figure>

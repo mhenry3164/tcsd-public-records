@@ -1,0 +1,10 @@
+---
+// Link to a page of a TCSD audit in the document viewer.
+import audits from '../data/audits.json';
+import { docHref, tcsdAuditId } from '../lib/documents';
+interface Props { fy: string; part: string; label?: string }
+const { fy, part, label } = Astro.props;
+const a = audits.find((x) => x.fy === fy)!;
+const page = (a.pages as Record<string, number>)[part];
+---
+<a href={docHref(tcsdAuditId(fy), page)}>{label ?? `${fy} audit`}{page ? `, PDF p. ${page}` : ''}</a>

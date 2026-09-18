@@ -1,0 +1,42 @@
+{
+  "date": "2025-06-16",
+  "type": "Special Called Meeting",
+  "dateNote": "The June 19, 2025 report says 'a special called Monday morning meeting'; the June 26, 2025 issue gives Monday, June 16, 2025. Matches calendar.",
+  "sources": [
+    {
+      "issue": "2025-06-19",
+      "page": 1
+    },
+    {
+      "issue": "2025-06-26",
+      "page": 6
+    }
+  ],
+  "headline": "Tishomingo County School District Hires Basketball and Volleyball Coaches",
+  "summary": "At a special called meeting the board approved the hiring of a new head girls' basketball coach at Tishomingo County High School. It also approved the TCHS administration's recommendation to promote the assistant volleyball coach to head volleyball coach for 2025-2026.",
+  "attendance": null,
+  "calledToOrderBy": null,
+  "minutesApproved": [],
+  "publicComment": null,
+  "votes": [],
+  "personnel": {
+    "hires": 2,
+    "resignations": 0,
+    "retirements": 0,
+    "transfers": 0,
+    "other": 0,
+    "note": "Two TCHS head coaching positions: girls' basketball (new hire) and volleyball (promotion of the assistant coach), following the previous coach's resignation."
+  },
+  "money": [],
+  "donations": {
+    "count": 0,
+    "total": 0,
+    "note": null
+  },
+  "policy": [],
+  "superintendent": [],
+  "executiveSession": [],
+  "otherActions": [],
+  "quote": null,
+  "reviewed": false
+}

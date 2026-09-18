@@ -1,0 +1,28 @@
+{
+  "name": "TCSD Public Record",
+  "tagline": "Public records of the Tishomingo County School District, Mississippi. Every fact links to its source.",
+  "url": "https://tcsd-public-record.vercel.app",
+  "maintainer": "Matthew Henry",
+  "correctionsEmail": "corrections@example.com",
+  "coverageStart": "2024-01-04",
+  "coverageEnd": "2026-09-17",
+  "dataPulled": "2026-09-18",
+  "newspaper": {
+    "name": "Tishomingo County News",
+    "eEditionUrl": "https://tishconews.org/last-e-edition/"
+  },
+  "district": {
+    "name": "Tishomingo County School District",
+    "legalName": "Tishomingo County Special Municipal Separate School District",
+    "address": "1620 Paul Edmondson Drive, Iuka, MS 38852",
+    "phone": "662-423-3206",
+    "website": "https://www.tcsk12.com",
+    "boardPage": "https://www.tcsk12.com/page/board-members",
+    "oagendas": "https://oagendas.com/meeting/tcsk",
+    "simbli": "https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36031793",
+    "openthebooks": "https://www.openthebooks.com/members/employer-detail/?Id=27618&tab=1",
+    "openthebooksCheckbook": "https://www.openthebooks.com/members/employer-detail/?Id=27618&tab=3"
+  },
+  "lastUpdated": "2026-09-18",
+  "updateSchedule": "Quarterly: January, April, July and October. Audit pages are also updated each February, when new audits are filed with the State Auditor."
+}

@@ -1,0 +1,408 @@
+[
+ {
+  "slug": "jessica-seaton",
+  "name": "Jessica Seaton",
+  "district": 2,
+  "role": "Board President",
+  "current": true,
+  "onBallot2026": false,
+  "electedNote": null,
+  "record": [
+   {
+    "date": "2024-02-15",
+    "text": "Voted against extending the superintendent’s contract and a $10,000 raise; the motion passed 3–2. Her letter, signed as Board Vice President, cites Mississippi Code 37-9-25 and states the raise was not on the agenda.",
+    "source": {
+     "issue": "2024-02-22",
+     "page": 3
+    }
+   },
+   {
+    "date": "2024-07-18",
+    "text": "Recused from voting and further discussion on out-of-state student transfers.",
+    "source": {
+     "issue": "2024-07-25",
+     "page": 4
+    }
+   },
+   {
+    "date": "2024-11-11",
+    "text": "Requested a comparison of the district's assistant (paraprofessional) pay scale with other districts. The paper reported starting pay of $11.36 an hour for an assistant with a high-school diploma and no experience.",
+    "source": {
+     "issue": "2024-11-14",
+     "page": 4
+    }
+   },
+   {
+    "date": "2026-03-17",
+    "text": "On the cell-phone policy, the paper reported that Seaton acknowledged gray areas had formed and students had been allowed phones during break and lunch; policy states phones are not allowed at any point in the school day.",
+    "source": {
+     "issue": "2026-03-19",
+     "page": 7
+    }
+   },
+   {
+    "date": "2026-04-16",
+    "text": "Signed a district legal notice (fuel bids) as President.",
+    "source": {
+     "issue": "2026-04-16",
+     "page": 10
+    }
+   },
+   {
+    "date": "2026-08-10",
+    "text": "Called the regular meeting to order.",
+    "source": {
+     "issue": "2026-08-13",
+     "page": 8
+    }
+   },
+   {
+    "date": "2026-09-14",
+    "text": "Updated the board on Strategic Plan goals.",
+    "source": {
+     "issue": "2026-09-17",
+     "page": 5
+    }
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "slug": "lyndon-cain",
+  "name": "Lyndon Cain",
+  "district": 1,
+  "role": "Board Vice President",
+  "current": true,
+  "onBallot2026": true,
+  "electedNote": "District 1 is on the November 3, 2026 general election ballot. As of August 11, 2026 the paper had not reported whether Cain filed qualifying papers.",
+  "electedSource": {
+   "issue": "2026-08-13",
+   "page": 1
+  },
+  "record": [
+   {
+    "date": "2024-02-15",
+    "text": "Seconded the motion to extend the superintendent’s contract and approve a $10,000 raise; passed 3–2. (Per a letter by board member Jessica Seaton.)",
+    "source": {
+     "issue": "2024-02-22",
+     "page": 3
+    }
+   },
+   {
+    "date": "2026-03-17",
+    "text": "Not present for the vote approving two 2026–27 hires (one at Iuka Elementary, one at Iuka Middle).",
+    "source": {
+     "issue": "2026-03-19",
+     "page": 1
+    }
+   },
+   {
+    "date": "2026-05-11",
+    "text": "Seconded the motion allowing eighth-grade athletes to practice with high-school teams, with the district responsible for transportation.",
+    "source": {
+     "issue": "2026-05-14",
+     "page": 9
+    }
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "slug": "jody-mcclung",
+  "name": "Jody McClung",
+  "district": 4,
+  "role": "Board Secretary",
+  "current": true,
+  "onBallot2026": false,
+  "electedNote": "Elected November 5, 2024 with 51.96% of the vote to Kayla McNatt's 47.80% (unofficial results as printed). Sworn in December 20, 2024; took office January 1, 2025.",
+  "electedSource": {
+   "issue": "2024-11-07",
+   "page": 1
+  },
+  "record": [
+   {
+    "date": "2024-12-20",
+    "text": "Sworn in as District 4 board member by Circuit Clerk Rebecca Oaks.",
+    "source": {
+     "issue": "2024-12-26",
+     "page": 3
+    }
+   },
+   {
+    "date": "2026-03-17",
+    "text": "On the cell-phone policy, the paper reported McClung stated that if there is a board policy it needs to be enforced.",
+    "source": {
+     "issue": "2026-03-19",
+     "page": 7
+    }
+   },
+   {
+    "date": "2026-05-11",
+    "text": "Opposed the motion allowing eighth-grade athletes to practice with high-school teams, with the district responsible for transportation. The motion passed.",
+    "source": {
+     "issue": "2026-05-14",
+     "page": 9
+    }
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "slug": "mikey-shea",
+  "name": "Mikey Shea",
+  "district": 3,
+  "role": "Board Member",
+  "current": true,
+  "onBallot2026": false,
+  "electedNote": "Elected November 5, 2024 with 64.38% of the vote to Tommy Newsom's 34.90% (unofficial results as printed). Sworn in December 20, 2024; took office January 1, 2025.",
+  "electedSource": {
+   "issue": "2024-11-07",
+   "page": 1
+  },
+  "record": [
+   {
+    "date": "2024-10-17",
+    "text": "Candidate statement published: retired MDOT law-enforcement officer (37 years), Army National Guard (20 years), TCHS basketball statistician (23 years).",
+    "source": {
+     "issue": "2024-10-17",
+     "page": 5
+    }
+   },
+   {
+    "date": "2024-12-20",
+    "text": "Sworn in as District 3 board member by Circuit Clerk Rebecca Oaks.",
+    "source": {
+     "issue": "2024-12-26",
+     "page": 3
+    }
+   },
+   {
+    "date": "2025-11-13",
+    "text": "Guest speaker at the Iuka Middle School Veterans Day program.",
+    "source": {
+     "issue": "2025-11-13",
+     "page": 1
+    }
+   }
+  ],
+  "quotes": [
+   {
+    "text": "All of my decisions will be based on facts, not personal agendas.",
+    "context": "Candidate statement, October 2024",
+    "source": {
+     "issue": "2024-10-17",
+     "page": 5
+    }
+   }
+  ]
+ },
+ {
+  "slug": "stacy-stepp",
+  "name": "Stacy Stepp",
+  "district": 5,
+  "role": "Board Member",
+  "current": true,
+  "onBallot2026": true,
+  "electedNote": "District 5 is on the November 3, 2026 general election ballot. The paper reported Stepp, the incumbent, had submitted qualifying paperwork as of August 11, 2026.",
+  "electedSource": {
+   "issue": "2026-08-13",
+   "page": 1
+  },
+  "record": [
+   {
+    "date": "2024-02-15",
+    "text": "Voted against extending the superintendent’s contract and a $10,000 raise; the motion passed 3–2. (Per a letter by board member Jessica Seaton.)",
+    "source": {
+     "issue": "2024-02-22",
+     "page": 3
+    }
+   },
+   {
+    "date": "2024-07-18",
+    "text": "At the budget hearing, asked why Educator Expense Fund cards take so long to reach teachers, and asked about breakfast and lunch prices and what free meals for all students would take.",
+    "source": {
+     "issue": "2024-07-25",
+     "page": 1
+    }
+   },
+   {
+    "date": "2024-07-18",
+    "text": "Raised the Jack Ivy Broadcasting livestream contract (Ivy pays the district $4,000) and wanted Ivy allowed to broadcast for free; no motion was made to change it and the contract was approved. Requested that Ivy be allowed to livestream the Belmont–TCHS volleyball match at TCHS; the paper reported this passed.",
+    "source": {
+     "issue": "2024-07-25",
+     "page": 4
+    }
+   },
+   {
+    "date": "2024-08",
+    "text": "Spoke for the board on the School Resource Officer pay raise; said the board had compared pay at other districts and local law enforcement. Funding from the general fund.",
+    "source": {
+     "issue": "2024-09-05",
+     "page": 4
+    }
+   },
+   {
+    "date": "2024-11-11",
+    "text": "Seconded the motion changing the policy on free game admission for staff and one family member.",
+    "source": {
+     "issue": "2024-11-14",
+     "page": 4
+    }
+   },
+   {
+    "date": "2024-11-11",
+    "text": "Asked when cafeteria staff last received a raise and requested the cost of a $2-per-hour raise for the next meeting.",
+    "source": {
+     "issue": "2024-11-14",
+     "page": 4
+    }
+   },
+   {
+    "date": "2024-11-11",
+    "text": "Raised bus-driver random drug testing (52 buses, about 70 drivers, 15–20 tested twice a year); stated a goal of testing 100% of drivers within one to two years.",
+    "source": {
+     "issue": "2024-11-14",
+     "page": 4
+    }
+   },
+   {
+    "date": "2026-03-17",
+    "text": "Recused from the vote approving one 2026–27 teacher hire at Belmont Elementary.",
+    "source": {
+     "issue": "2026-03-19",
+     "page": 1
+    }
+   },
+   {
+    "date": "2026-03-17",
+    "text": "Raised enforcement of the cell-phone policy; the paper reported Stepp said inconsistent enforcement between students is not acceptable.",
+    "source": {
+     "issue": "2026-03-19",
+     "page": 7
+    }
+   },
+   {
+    "date": "2026-05-11",
+    "text": "Made the motion allowing eighth-grade athletes to practice with high-school teams, amended so the district is responsible for transportation. The motion passed.",
+    "source": {
+     "issue": "2026-05-14",
+     "page": 9
+    }
+   },
+   {
+    "date": "2026-07-09",
+    "text": "Attended the regular meeting by phone.",
+    "source": {
+     "issue": "2026-07-16",
+     "page": 5
+    }
+   },
+   {
+    "date": "2026-08-11",
+    "text": "Reported by the paper as having submitted qualifying paperwork for District 5.",
+    "source": {
+     "issue": "2026-08-13",
+     "page": 1
+    }
+   }
+  ],
+  "quotes": [
+   {
+    "text": "We did some investigating to see what other school districts and local law enforcement offices, city and county, were paying and found that we were quite short of being competitive with those institutions.",
+    "context": "On the School Resource Officer pay raise",
+    "source": {
+     "issue": "2024-09-05",
+     "page": 4
+    }
+   },
+   {
+    "text": "Financially, I don't see any significant impact to our budget.",
+    "context": "On the School Resource Officer pay raise",
+    "source": {
+     "issue": "2024-09-05",
+     "page": 4
+    }
+   }
+  ]
+ },
+ {
+  "slug": "jim-perkins",
+  "name": "Dr. Jim Perkins",
+  "district": 3,
+  "role": "Former Board Member",
+  "current": false,
+  "onBallot2026": false,
+  "electedNote": "District 3 board member through 2024; the seat was on the Nov. 5, 2024 ballot and was won by Mikey Shea.",
+  "record": [
+   {
+    "date": "2024-02-15",
+    "text": "Made the motion to extend the superintendent’s contract and approve a $10,000 raise; passed 3–2. (Per a letter by board member Jessica Seaton.)",
+    "source": {
+     "issue": "2024-02-22",
+     "page": 3
+    }
+   },
+   {
+    "date": "2024-11-11",
+    "text": "Made the motion changing the policy on free game admission for staff and one family member.",
+    "source": {
+     "issue": "2024-11-14",
+     "page": 4
+    }
+   }
+  ],
+  "quotes": [],
+  "electedSource": {
+   "issue": "2024-02-22",
+   "page": 3
+  }
+ },
+ {
+  "slug": "jeff-daniel",
+  "name": "Jeff Daniel",
+  "district": 4,
+  "role": "Former Board President",
+  "current": false,
+  "onBallot2026": false,
+  "electedNote": "District 4 board member and board president in 2024; the paper reported 12 years of service as of July 2024. The seat was on the Nov. 5, 2024 ballot and was won by Jody McClung. (Printed as both “Daniel” and “Daniels”; he signed notices “Jeff Daniel.”)",
+  "electedSource": {
+   "issue": "2024-07-25",
+   "page": 1
+  },
+  "record": [
+   {
+    "date": "2024-02-15",
+    "text": "Voted in favor of extending the superintendent’s contract and a $10,000 raise; passed 3–2. (Per a letter by board member Jessica Seaton.)",
+    "source": {
+     "issue": "2024-02-22",
+     "page": 3
+    }
+   },
+   {
+    "date": "2024-02-15",
+    "text": "Signed the district’s invitation for depository bids as President.",
+    "source": {
+     "issue": "2024-02-29",
+     "page": 5
+    }
+   },
+   {
+    "date": "2024-07-18",
+    "text": "Called the annual budget hearing to order as Board President; the paper reported he said it was the largest crowd he had seen in 12 years on the board.",
+    "source": {
+     "issue": "2024-07-25",
+     "page": 1
+    }
+   },
+   {
+    "date": "2024-07-18",
+    "text": "Called the July regular meeting to order.",
+    "source": {
+     "issue": "2024-07-25",
+     "page": 4
+    }
+   }
+  ],
+  "quotes": []
+ }
+]

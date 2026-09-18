@@ -1,0 +1,118 @@
+---
+import Base from '../../layouts/Base.astro';
+import AuditCite from '../../components/AuditCite.astro';
+import Columns from '../../components/Columns.astro';
+import StackBars from '../../components/StackBars.astro';
+import { moneyShort } from '../../lib/format';
+import fin from '../../data/finances.json';
+import site from '../../data/site.json';
+import { money, pct } from '../../lib/format';
+
+const FY = ['FY2022', 'FY2023', 'FY2024', 'FY2025'] as const;
+type Row = (typeof fin.generalFund)[number];
+const isTotal = (item: string) => /^(Total|Revenues over|General Fund balance|Total fund balance)/.test(item);
+const af = (k: string) => fin.allFunds.find((r) => r.item.startsWith(k))!;
+const gfBal = fin.generalFund.find((r) => r.item.startsWith('General Fund balance'))!;
+import perStudent from '../../data/cost-per-student.json';
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'Dataset', name: 'Tishomingo County School District audited financial statements, FY2022–FY2025',
+  description: 'General Fund and all governmental funds revenues, expenditures and fund balances from the district’s audited financial statements.',
+  creator: { '@type': 'GovernmentOrganization', name: site.district.legalName },
+  temporalCoverage: '2021-07-01/2025-06-30', isAccessibleForFree: true, license: 'https://creativecommons.org/publicdomain/mark/1.0/',
+  distribution: ['FY2022', 'FY2023', 'FY2024', 'FY2025'].map((fy) => ({ '@type': 'DataDownload', encodingFormat: 'application/pdf', contentUrl: `${site.url}/audits/TCSD_Audit_${fy}.pdf` })),
+};
+---
+<Base title="Finances" description="Four years of audited financial statements for the Tishomingo County School District: General Fund and all governmental funds, FY2025 budget vs. actual, cost per student, pension liability and debt." jsonLd={jsonLd}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Finances</h1>
+  <p class="mt-3 measure">From the district’s audited financial statements, filed with the Mississippi Office of the State Auditor. Fiscal years end June 30. The four-year tables are the “Last Four Years” schedules in the FY2025 audit (<AuditCite fy="FY2025" part="fourYearGeneralFund" label="General Fund" />, <AuditCite fy="FY2025" part="fourYearAllFunds" label="all funds" />). See also <a href="/finances/audits">audit opinions and findings</a> and <a href="/finances/budget">budget hearings and notices</a>.</p>
+
+  {[['General Fund (main operating fund)', fin.generalFund, 'fourYearGeneralFund'], ['All governmental funds (includes federal programs, food service, debt service, capital projects)', fin.allFunds, 'fourYearAllFunds']].map(([title, rows, part]) => (
+    <section class="mt-8">
+      <div class="table-wrap">
+        <table class="data">
+          <caption>{title as string}</caption>
+          <thead><tr><th>Line item</th>{FY.map((y) => <th class="num">{y}</th>)}<th class="num">Change FY22→FY25</th></tr></thead>
+          <tbody>
+            {(rows as Row[]).map((r) => (
+              <tr class={isTotal(r.item) ? 'total' : ''}><td>{r.item}</td>{FY.map((y) => <td class="num">{money(r[y])}</td>)}<td class="num">{pct(r.FY2022, r.FY2025)}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="source mt-1">Source: <AuditCite fy="FY2025" part={part as string} /> (FY2022–FY2024 restated there from prior audits).</p>
+    </section>
+  ))}
+
+  <section class="mt-10">
+    <h2 class="text-2xl font-semibold">The four years in charts</h2>
+    <div class="grid-auto mt-4" style="--min:30rem">
+      <Columns title="Revenue and spending, all governmental funds" labels={[...FY]} format={(v) => moneyShort(v)}
+        series={[{ name: 'Revenue', values: FY.map((y) => af('Total revenues')[y]) }, { name: 'Spending', values: FY.map((y) => af('Total expenditures')[y]) }]}
+        caption="Spending exceeded revenue in FY2023, FY2024 and FY2025. FY2025 spending includes $4.5 million of debt principal paid." />
+      <Columns title="Revenue over (under) spending, all governmental funds" labels={[...FY]} format={(v) => moneyShort(v)}
+        series={[{ name: 'Revenue over (under) spending', values: FY.map((y) => af('Revenues over')[y]) }]} />
+      <Columns title="General Fund balance at year end" labels={[...FY]} format={(v) => moneyShort(v)}
+        series={[{ name: 'General Fund balance', values: FY.map((y) => gfBal[y]) }]} />
+      <StackBars title="Where the money comes from, all governmental funds" parts={['Local', 'State', 'Federal']} normalize format={(v) => moneyShort(v)}
+        rows={FY.map((y) => ({ label: y, parts: [af('Revenues: Local')[y]!, af('Revenues: State')[y]!, af('Revenues: Federal')[y]!] }))}
+        caption="Share of total revenue. Federal revenue fell from $12.1 million in FY2022 to $5.1 million in FY2025 as pandemic relief ended." />
+      <StackBars title="Where the money goes, all governmental funds" parts={['Instruction', 'Support services', 'Noninstructional', 'Facilities, debt and other']} format={(v) => moneyShort(v)}
+        rows={FY.map((y) => ({ label: y, parts: [af('Expenditures: Instruction')[y]!, af('Expenditures: Support')[y]!, af('Expenditures: Noninstructional')[y]!,
+          af('Expenditures: Facilities')[y]! + af('Expenditures: Debt service principal')[y]! + af('Expenditures: Debt service interest')[y]! + af('Expenditures: Other')[y]!] }))} />
+    </div>
+    <p class="source mt-2">Same figures as the tables above. Hover or tap a bar for the amount.</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">FY2025 General Fund: budget vs. actual</h2>
+    <div class="table-wrap mt-3">
+      <table class="data">
+        <thead><tr><th>Line item</th><th class="num">Original budget</th><th class="num">Final budget</th><th class="num">Actual</th><th class="num">Actual vs. final</th></tr></thead>
+        <tbody>{fin.budgetVsActual.map((r) => (
+          <tr class={/^(Total|Ending)/.test(r.item) ? 'total' : ''}><td>{r.item}</td><td class="num">{money(r.original)}</td><td class="num">{money(r.final)}</td><td class="num">{money(r.actual)}</td><td class="num">{money(r.variance)}</td></tr>
+        ))}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Source: <AuditCite fy="FY2025" part="budgetVsActual" label="FY2025 audit, Budgetary Comparison Schedule" />.</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Cost per student</h2>
+    <div class="grid-auto mt-4 mb-4" style="--min:30rem">
+      <StackBars title="Cost per student by category" parts={['Instruction', 'General administration', 'School administration', 'Other']} format={(v) => money(v)}
+        rows={perStudent.map((p) => ({ label: p.fy, parts: [p.instruction, p.generalAdmin, p.schoolAdmin, p.other] }))}
+        caption="“Other” includes transportation, food service, plant operations, facilities and debt payments." />
+      <Columns title="Students (average daily attendance)" labels={perStudent.map((p) => p.fy)} format={(v) => v.toLocaleString('en-US')}
+        series={[{ name: 'Students', values: perStudent.map((p) => p.students) }]} />
+    </div>
+    <div class="table-wrap">
+      <table class="data">
+        <thead><tr><th>Fiscal year</th><th class="num">Students</th><th class="num">Total per student</th><th class="num">Instruction</th><th class="num">General admin.</th><th class="num">School admin.</th><th class="num">Other</th><th>Source</th></tr></thead>
+        <tbody>{perStudent.map((p) => <tr><td>{p.fy}</td><td class="num">{p.students.toLocaleString('en-US')}</td><td class="num">{money(p.total)}</td><td class="num">{money(p.instruction)}</td><td class="num">{money(p.generalAdmin)}</td><td class="num">{money(p.schoolAdmin)}</td><td class="num">{money(p.other)}</td><td><AuditCite fy={p.fy} part="instructionalSchedule" /></td></tr>)}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Source: each year’s Schedule of Instructional, Administrative and Other Expenditures – Governmental Funds. Students = the audit’s “total number of students” (average daily attendance, month 9).</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Government-wide and balance-sheet items</h2>
+    <div class="table-wrap mt-3">
+      <table class="data">
+        <thead><tr><th>Item</th><th class="num">FY2025</th><th class="num">FY2024</th><th class="num">Change</th><th>Note</th></tr></thead>
+        <tbody>{fin.governmentWide.map((r) => {
+          const isMoney = !/Students/.test(r.item);
+          const f = (v: number | null) => (isMoney ? money(v) : v?.toLocaleString('en-US') ?? '—');
+          return <tr><td>{r.item}</td><td class="num">{f(r.FY2025)}</td><td class="num">{f(r.FY2024)}</td><td class="num">{pct(r.FY2024, r.FY2025)}</td><td class="text-muted">{r.note}</td></tr>;
+        })}</tbody>
+      </table>
+    </div>
+    <p class="source mt-1">Source: <AuditCite fy="FY2025" part="mda" label="FY2025 audit, MD&A and notes" />. Federal awards: <AuditCite fy="FY2025" part="sefa" label="Schedule of Expenditures of Federal Awards" />.</p>
+  </section>
+
+  <section class="mt-10">
+    <h2 class="text-xl font-semibold">Audit files</h2>
+    <ul class="mt-2 list-disc pl-6">
+      {['FY2025', 'FY2024', 'FY2023', 'FY2022'].map((fy) => <li><a href={`/documents/audits/tcsd-${fy.toLowerCase()}`}>{fy} audited financial statements</a> — read in the page, with a plain-language summary · <a href={`/audits/TCSD_Audit_${fy}.pdf`} download>Download PDF</a></li>)}
+    </ul>
+  </section>
+</Base>

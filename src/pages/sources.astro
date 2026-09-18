@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import sources from '../data/sources.json';
+---
+<Base title="Sources" description="Every source used on the TCSD Public Record, with links: State Auditor filings, OpenTheBooks, the district policy manual, OAgendas and the Tishomingo County News.">
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Sources</h1>
+  <p class="mt-3 text-muted">Every figure on this site comes from one of these. Where a copy is hosted here, both links are given.</p>
+  {sources.map((g) => (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">{g.group}</h2>
+      <ul class="mt-3 space-y-2">
+        {g.items.map((s) => (
+          <li><a href={s.url} rel="noopener">{s.label}</a>{s.local && <> · <a href={s.local}>{s.local.startsWith("/documents") ? "view on this site" : "copy on this site"}</a></>}</li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

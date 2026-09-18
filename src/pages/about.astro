@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+import { fmtDate } from '../lib/format';
+---
+<Base title="About this site" description="What the TCSD Public Record is, where its data comes from, who maintains it, and how to request a correction.">
+  <article class="prose prose-neutral max-w-none">
+    <h1>About this site</h1>
+    <p>{site.name} collects the public records of the {site.district.legalName} (the Tishomingo County School District) in Iuka, Mississippi, and presents them as plain, searchable pages. It covers newspaper reporting from {fmtDate(site.coverageStart)} through {fmtDate(site.coverageEnd)}; data files were pulled on {fmtDate(site.dataPulled)}.</p>
+
+    <h2>Principles</h2>
+    <ol>
+      <li><strong>Public record only.</strong> Financial statements, audits, legal notices, policies, meeting calendars, and votes as reported. No social-media content, no opinion.</li>
+      <li><strong>Every number has a source link.</strong> Audit page, OpenTheBooks page, Simbli policy, or newspaper issue and page.</li>
+      <li><strong>Disclosure.</strong> Maintained by {site.maintainer}, a Tishomingo County parent with one child in the district now and one starting next year. It was built because the same questions came up last election cycle and the records were hard to find. It is kept as an ongoing public record, updated quarterly, and is not a campaign project. The site endorses no candidate and takes no position in any race. No candidate has been consulted about it or contributed to it. Corrections: <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a>.</li>
+      <li><strong>What we don’t have, we say.</strong> A standing page lists the records the district has not made public (minutes, agendas, packets, the adopted budget document, the check register) and the status of records requests. <a href="/records">See Missing records.</a></li>
+      <li><strong>Copyright.</strong> Legal notices are district documents published under state law and are reproduced in full. Newspaper meeting reports are the Tishomingo County News’s copyrighted journalism; this site publishes only the facts they report, short attributed quotes, and a link to the issue.</li>
+      <li><strong>Privacy.</strong> Salary data is Mississippi Department of Education public data as published by OpenTheBooks.com; the site reproduces it unchanged. Anyone may request a correction with a source.</li>
+    </ol>
+
+    <h2>Method</h2>
+    <ul>
+      <li><strong>Newspaper.</strong> Every weekly issue of the <a href={site.newspaper.eEditionUrl}>Tishomingo County News</a> in the coverage window was read for mentions of the board or district, including image-only pages (read with OCR). One issue, Feb. 27, 2025, is not in the newspaper’s online archive and was not reviewed. Meeting pages list what the paper reported: attendance when stated, votes when members were named, money items, policy items, and counts of personnel actions. Employees other than the superintendent are not named on meeting pages.</li>
+      <li><strong>Votes.</strong> The paper usually reports only that an item “was approved.” A member’s vote appears on this site only when the paper printed it. Nothing is inferred. One set of votes (Feb. 15, 2024) comes from a board member’s letter printed in the paper and is labeled that way.</li>
+      <li><strong>Audits.</strong> Figures are transcribed from the audited financial statements filed with the Mississippi Office of the State Auditor. Links go to the page in the hosted PDF.</li>
+      <li><strong>Payroll and vendors.</strong> Reproduced unchanged from OpenTheBooks.com. Vendor figures are annual totals per vendor, not individual checks.</li>
+      <li><strong>Meeting calendar.</strong> From the district’s OAgendas page, which lists every meeting but keeps agendas, packets and minutes private.</li>
+    </ul>
+
+    <h2>Update schedule</h2>
+    <p>{site.updateSchedule} Last updated {fmtDate(site.lastUpdated)}. See the <a href="/changelog">changelog</a> for what changed.</p>
+
+    <h2>Corrections</h2>
+    <p>If anything here is wrong, email <a href={`mailto:${site.correctionsEmail}`}>{site.correctionsEmail}</a> with the page and a source. Corrections are made promptly and noted on the page.</p>
+  </article>
+</Base>

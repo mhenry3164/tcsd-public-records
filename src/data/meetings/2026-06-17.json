@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-17",
+  "type": "Special Called Meeting",
+  "dateNote": null,
+  "sources": [
+    {
+      "issue": "2026-06-18",
+      "page": 8
+    }
+  ],
+  "headline": "Special Called Board Meeting Held June 17, 2026",
+  "summary": "At a special called morning meeting the board approved five hires, five resignations, a retroactive field trip and textbook deletions. It also approved the lowest quote from EMA Educational Materials Specialist, Inc. for the district's Pathways Assessment renewal.",
+  "attendance": null,
+  "calledToOrderBy": null,
+  "minutesApproved": [],
+  "publicComment": null,
+  "votes": [],
+  "personnel": {
+    "hires": 5,
+    "resignations": 5,
+    "retirements": 0,
+    "transfers": 0,
+    "other": 0,
+    "note": "Hires include 2 ATSI tutors, a counselor, a substitute bus driver and an assistant soccer coach; two of those hired also resigned prior positions."
+  },
+  "money": [
+    {
+      "item": "Pathways Assessment Renewal, 2026/2027 (lowest quote)",
+      "vendor": "EMA Educational Materials Specialist, Inc.",
+      "amount": 69664.5,
+      "amountText": "$69,664.50",
+      "source": {
+        "issue": "2026-06-18",
+        "page": 8
+      }
+    }
+  ],
+  "donations": {
+    "count": 0,
+    "total": 0,
+    "note": null
+  },
+  "policy": [],
+  "superintendent": [],
+  "executiveSession": [],
+  "otherActions": [
+    "1 field trip approved (retroactive)",
+    "Textbook deletions approved"
+  ],
+  "quote": null,
+  "reviewed": false
+}

@@ -1,0 +1,27 @@
+---
+// Stacked horizontal bars (parts of a whole per row). Segments separated by a 2px surface gap; legend always shown.
+interface Row { label: string; parts: number[]; href?: string }
+interface Props { rows: Row[]; parts: string[]; format: (v: number) => string; normalize?: boolean; highlight?: string; title?: string; caption?: string }
+const { rows, parts, format, normalize = false, highlight, title, caption } = Astro.props;
+const COLORS = ['var(--viz-1)', 'var(--viz-2)', 'var(--viz-3)', 'var(--viz-4)'];
+const totals = rows.map((r) => r.parts.reduce((a, b) => a + b, 0));
+const max = Math.max(...totals);
+---
+<figure class="viz stack">
+  {title && <figcaption class="viz-title">{title}</figcaption>}
+  <ul class="viz-legend">{parts.map((p, i) => <li><i style={`background:${COLORS[i]}`}></i>{p}</li>)}</ul>
+  <ol>
+    {rows.map((r, ri) => (
+      <li class:list={[r.label === highlight && 'is-hi']}>
+        <span class="bl-label">{r.href ? <a href={r.href}>{r.label}</a> : r.label}</span>
+        <span class="st-track" style={`width:${normalize ? 100 : (totals[ri] / max) * 100}%`}>
+          {r.parts.map((v, i) => v > 0 && (
+            <span class="st-seg" style={`flex:${v};background:${COLORS[i]}`} data-tip={`${r.label} · ${parts[i]}: ${format(v)} (${((v / totals[ri]) * 100).toFixed(1)}%)`}></span>
+          ))}
+        </span>
+        <span class="bl-value">{normalize ? '' : format(totals[ri])}</span>
+      </li>
+    ))}
+  </ol>
+  {caption && <p class="viz-caption">{caption}</p>}
+</figure>

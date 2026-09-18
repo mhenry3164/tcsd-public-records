@@ -1,0 +1,214 @@
+{
+ "years": [
+  {
+   "year": 2023,
+   "vendors": 1061,
+   "total": 13698901.64
+  },
+  {
+   "year": 2024,
+   "vendors": 1018,
+   "total": 11833550.61
+  }
+ ],
+ "top": [
+  {
+   "vendor": "Trane U S Inc",
+   "total": 6055014.12,
+   "years": {
+    "2024": 2285163.88,
+    "2023": 3769850.24
+   }
+  },
+  {
+   "vendor": "Briggs Inc",
+   "total": 1568882.88,
+   "years": {
+    "2024": 778845.93,
+    "2023": 790036.95
+   }
+  },
+  {
+   "vendor": "Magee Enterprises Inc",
+   "total": 1331994.0,
+   "years": {
+    "2024": 665997,
+    "2023": 665997
+   }
+  },
+  {
+   "vendor": "Advantage Roofing & Construction Of La",
+   "total": 1328584.5,
+   "years": {
+    "2024": 748632.3,
+    "2023": 579952.2
+   }
+  },
+  {
+   "vendor": "Tishomingo Co Electric Power",
+   "total": 1164416.38,
+   "years": {
+    "2024": 589985.48,
+    "2023": 574430.9
+   }
+  },
+  {
+   "vendor": "Apple Inc - Atlanta",
+   "total": 1124171.77,
+   "years": {
+    "2024": 85081.82,
+    "2023": 1039089.95
+   }
+  },
+  {
+   "vendor": "Msba Property Trust",
+   "total": 960758.36,
+   "years": {
+    "2024": 480379.18,
+    "2023": 480379.18
+   }
+  },
+  {
+   "vendor": "The Peoples Bank",
+   "total": 519500.0,
+   "years": {
+    "2024": 259750,
+    "2023": 259750
+   }
+  },
+  {
+   "vendor": "Paul Fisher Oil Co Inc",
+   "total": 472438.72,
+   "years": {
+    "2024": 228019.14,
+    "2023": 244419.58
+   }
+  },
+  {
+   "vendor": "Trustmark National Bank Loan Operations",
+   "total": 455476.0,
+   "years": {
+    "2024": 227738,
+    "2023": 227738
+   }
+  },
+  {
+   "vendor": "Em Contingency Group Llc",
+   "total": 421354.0,
+   "years": {
+    "2024": 367782.55,
+    "2023": 53571.45
+   }
+  },
+  {
+   "vendor": "Sam's Club",
+   "total": 274068.11,
+   "years": {
+    "2024": 133394.64,
+    "2023": 140673.47
+   }
+  },
+  {
+   "vendor": "Burroughs Diesel Inc",
+   "total": 268697.94,
+   "years": {
+    "2024": 135697.3,
+    "2023": 133000.64
+   }
+  },
+  {
+   "vendor": "Msba Workers' Compensation Trust",
+   "total": 214912.0,
+   "years": {
+    "2024": 101285,
+    "2023": 113627
+   }
+  },
+  {
+   "vendor": "Tupelo Aluminum Products",
+   "total": 209220.0,
+   "years": {
+    "2024": 112053,
+    "2023": 97167
+   }
+  },
+  {
+   "vendor": "Robert J Young Company",
+   "total": 194644.6,
+   "years": {
+    "2024": 99995,
+    "2023": 94649.6
+   }
+  },
+  {
+   "vendor": "Bank Of America N A",
+   "total": 188664.46,
+   "years": {
+    "2024": 94332.23,
+    "2023": 94332.23
+   }
+  },
+  {
+   "vendor": "Waters Truck & Tractor Company Inc",
+   "total": 174045.31,
+   "years": {
+    "2024": 80733.46,
+    "2023": 93311.85
+   }
+  },
+  {
+   "vendor": "Hiland Dairy Foods",
+   "total": 157968.75,
+   "years": {
+    "2023": 157968.75
+   }
+  },
+  {
+   "vendor": "Amazon Capital Services Inc",
+   "total": 153551.74,
+   "years": {
+    "2024": 72395.86,
+    "2023": 81155.88
+   }
+  },
+  {
+   "vendor": "Lann Chemical And Supply Co",
+   "total": 151570.23,
+   "years": {
+    "2024": 74889.37,
+    "2023": 76680.86
+   }
+  },
+  {
+   "vendor": "Msba Casualty Trust",
+   "total": 151026.0,
+   "years": {
+    "2024": 75513,
+    "2023": 75513
+   }
+  },
+  {
+   "vendor": "Hiland Dairy Foods Companyllc",
+   "total": 145276.71,
+   "years": {
+    "2024": 145276.71
+   }
+  },
+  {
+   "vendor": "S H O T S",
+   "total": 142792.76,
+   "years": {
+    "2024": 65834.88,
+    "2023": 76957.88
+   }
+  },
+  {
+   "vendor": "Bottling Group Llc",
+   "total": 133637.61,
+   "years": {
+    "2024": 62712.67,
+    "2023": 70924.94
+   }
+  }
+ ]
+}

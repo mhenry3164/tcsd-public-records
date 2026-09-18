@@ -1,0 +1,73 @@
+---
+import Base from '../../layouts/Base.astro';
+import Source from '../../components/Source.astro';
+import Cite from '../../components/Cite.astro';
+import members from '../../data/members.json';
+import votes from '../../data/votes.json';
+import { reports } from '../../lib/meetings';
+import { fmtDate, money } from '../../lib/format';
+
+export function getStaticPaths() {
+  return members.map((m) => ({ params: { member: m.slug }, props: { m } }));
+}
+const { m } = Astro.props;
+const surname = m.name.split(' ').slice(-1)[0];
+const myVotes = votes.filter((v) => v.member === m.name || v.member === 'All members');
+const attendance = m.record.filter((r) => /not present|absent|by phone|recused/i.test(r.text));
+const window = 'in the Tishomingo County News, Jan. 2024 – Sept. 2026';
+// Money items the member moved or seconded: only where the paper named them on a money item.
+const moneyVotes = reports.flatMap((r) => r.votes.filter((v) => v.member === m.name && /motion|second/.test(v.action))
+  .flatMap((v) => r.money.filter((x) => x.item === v.item).map((x) => ({ ...x, action: v.action, date: r.date }))));
+const title = `${m.name}${m.district ? `, District ${m.district}` : ''}`;
+const jsonLd = { '@context': 'https://schema.org', '@type': 'Person', name: m.name,
+  jobTitle: `${m.role}, Tishomingo County School Board`, memberOf: { '@type': 'GovernmentOrganization', name: 'Tishomingo County School Board' } };
+---
+<Base title={title} description={`${m.name}, ${m.role}${m.district ? `, District ${m.district}` : ''}, Tishomingo County School Board: recorded votes, attendance, and statements as reported, with sources.`} jsonLd={jsonLd}>
+  <p class="text-sm"><a href="/board">← School board</a></p>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold mt-2">{m.name}</h1>
+  <p class="mt-1 text-lg">{m.role}{m.district && <> · District {m.district}</>}</p>
+  {m.electedNote && <p class="mt-3">{m.electedNote}</p>}
+  {m.electedSource && <Source src={m.electedSource} />}
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Recorded votes</h2>
+    {myVotes.length ? (
+      <div class="table-wrap mt-3"><table class="data">
+        <thead><tr><th>Meeting</th><th>Item</th><th>Recorded as</th><th>Outcome</th><th>Source</th></tr></thead>
+        <tbody>{myVotes.map((v) => (
+          <tr><td class="whitespace-nowrap"><a href={`/meetings/${v.meeting}`}>{fmtDate(v.meeting)}</a></td>
+            <td>{v.item}</td><td>{v.member === 'All members' ? `All members: ${v.action}` : v.action}</td><td>{v.outcome}</td><td><Cite src={v.source} /></td></tr>
+        ))}</tbody>
+      </table></div>
+    ) : <p class="mt-2">No recorded votes {window}.</p>}
+    <p class="note mt-3">The paper names individual members’ votes only occasionally. Rows marked “All members” are unanimous outcomes the paper reported. <a href="/votes">About vote records</a>.</p>
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Attendance notes</h2>
+    {attendance.length ? <ul class="mt-2 list-disc pl-6">{attendance.map((r) => <li>{fmtDate(r.date)}: {r.text} <Cite src={r.source} /></li>)}</ul>
+      : <p class="mt-2">No recorded absences or recusals {window}.</p>}
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Actions and statements as reported</h2>
+    {m.record.length ? <ul class="mt-2 space-y-2">{m.record.map((r) => <li><span class="font-medium">{fmtDate(r.date)}.</span> {r.text} <span class="source"><Cite src={r.source} /></span></li>)}</ul>
+      : <p class="mt-2">No recorded actions {window}.</p>}
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">On the record</h2>
+    {m.quotes.length ? m.quotes.map((q) => (
+      <blockquote class="mt-3 border-l-4 border-rule pl-4">
+        <p class="font-serif text-lg">“{q.text}”</p>
+        <footer class="source mt-1">— {m.name}, {q.context}. <Cite src={q.source} /></footer>
+      </blockquote>
+    )) : <p class="mt-2">No direct quotes attributed to {surname} {window}.</p>}
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Money items moved or seconded</h2>
+    {moneyVotes.length ? <ul class="mt-2 list-disc pl-6">{moneyVotes.map((x) => <li>{fmtDate(x.date)}: {x.action} — {x.item}, {money(x.amount)} <Cite src={x.source} /></li>)}</ul>
+      : <p class="mt-2">No recorded motions or seconds on money items {window}.</p>}
+  </section>
+</Base>

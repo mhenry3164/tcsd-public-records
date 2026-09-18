@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import Source from '../../components/Source.astro';
+import members from '../../data/members.json';
+import site from '../../data/site.json';
+const current = members.filter((m) => m.current).sort((a, b) => (a.district ?? 9) - (b.district ?? 9));
+const former = members.filter((m) => !m.current);
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'GovernmentOrganization', name: `${site.district.legalName} Board of Trustees`,
+  url: site.district.boardPage, address: site.district.address, telephone: site.district.phone,
+  member: current.map((m) => ({ '@type': 'OrganizationRole', roleName: m.role, member: { '@type': 'Person', name: m.name } })),
+};
+---
+<Base title="School board" description="The five members of the Tishomingo County School Board, their districts and offices, and the November 3, 2026 election for Districts 1 and 5." jsonLd={jsonLd}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">School board</h1>
+  <p class="mt-3">Five trustees, one per supervisor district, govern the district and employ the superintendent. Regular meetings are held at the District Office, {site.district.address}.</p>
+
+  <div class="table-wrap mt-6">
+    <table class="data">
+      <caption>Board of Trustees, 2026</caption>
+      <thead><tr><th>District</th><th>Member</th><th>Office</th><th>2026 ballot</th></tr></thead>
+      <tbody>
+        {current.map((m) => (
+          <tr><td>{m.district}</td><td><a href={`/board/${m.slug}`}>{m.name}</a></td><td>{m.role}</td><td>{m.onBallot2026 ? 'Seat on Nov. 3, 2026 ballot' : '—'}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="source mt-2">Source: <a href={site.district.boardPage}>district website, board page</a>; offices as listed there.</p>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">November 3, 2026 election</h2>
+    <ul class="mt-3 list-disc pl-6 space-y-1">
+      <li>School board seats for <strong>District 1</strong> and <strong>District 5</strong> are on the general election ballot. A runoff, if required, is December 1, 2026.</li>
+      <li>Qualifying opened July 21, 2026 and closed at 5 p.m. Thursday, August 20, 2026.</li>
+      <li>As of August 11, 2026, three candidate applications had been requested from the Circuit Clerk. Stacy Stepp, the District 5 incumbent, had submitted qualifying paperwork; the other two had not.</li>
+      <li>Requirements: qualified elector of the district; high-school diploma or equivalent; resident of the district for at least two years before the election.</li>
+    </ul>
+    <Source src={[{ issue: '2026-01-22', page: 2 }, { issue: '2026-08-13', page: 1 }]} label="Sources" />
+    <p class="note mt-3">The final list of qualified candidates has not yet appeared in the newspaper coverage used here. Contact the Tishomingo County Circuit Clerk, 662-423-7026.</p>
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Former members named in coverage</h2>
+    <ul class="mt-2 list-disc pl-6">{former.map((m) => <li><a href={`/board/${m.slug}`}>{m.name}</a> — {m.electedNote}</li>)}</ul>
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-xl font-semibold">Superintendent</h2>
+    <p class="mt-2">Christie L. Holly is the superintendent, employed by the board. 2025 salary: $131,500 (<a href="/salaries/2025">payroll</a>). Named president-elect of the Mississippi Association of School Superintendents in July 2025 and president in July 2026.</p>
+    <Source src={[{ issue: '2025-07-24', page: 2 }, { issue: '2026-07-23', page: 7 }]} label="Sources" />
+  </section>
+</Base>

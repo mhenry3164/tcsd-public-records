@@ -1,0 +1,200 @@
+{
+  "date": "2025-05-12",
+  "type": "Regular Meeting",
+  "dateNote": null,
+  "sources": [
+    {
+      "issue": "2025-05-15",
+      "page": 1
+    },
+    {
+      "issue": "2025-05-15",
+      "page": 4
+    }
+  ],
+  "headline": "Tishomingo County School Board Meeting for May",
+  "summary": "The board approved personnel, field trips, fundraisers, donations and purchases including a three-year math curriculum, MSWIN bus radios and a Burnsville concession stand, and adopted a resolution declaring its intent to borrow up to $3,500,000 in notes for capital improvements and buses. It also approved pay scale increases for principals and assistant principals, added two K-8 instructional coach positions and revised the staff-student non-fraternization policy.",
+  "attendance": null,
+  "calledToOrderBy": null,
+  "minutesApproved": [],
+  "publicComment": null,
+  "votes": [],
+  "personnel": {
+    "hires": 35,
+    "resignations": 11,
+    "retirements": 0,
+    "transfers": 0,
+    "other": 7,
+    "note": "Hires include 10 summer workers at $10/hour, 2 substitute bus drivers, a cafeteria substitute and several coaching and bus-route assignments (people listed twice counted once); other = 3 license upgrades, 2 contract corrections and 2 volunteers."
+  },
+  "money": [
+    {
+      "item": "TCHS band 2025 Fall Marching Band show",
+      "vendor": "SouthCoast Music and Design",
+      "amount": 3500,
+      "amountText": "$3,500.00",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Library furniture, Belmont School",
+      "vendor": "Education Interiors Inc.",
+      "amount": 19067,
+      "amountText": "$19,067",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Library furniture, TCHS",
+      "vendor": "Education Interiors Inc.",
+      "amount": 17184,
+      "amountText": "$17,184",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Cast aluminum architectural prismatic letters for a district sports complex (lowest quote)",
+      "vendor": "Nickels",
+      "amount": 11872,
+      "amountText": "$11,872",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Mathematics curriculum, 3-year adoption, state contract",
+      "vendor": "Curriculum Associates",
+      "amount": 318616,
+      "amountText": "$318,616",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "IEP and Section 504 plan management software, 3 years (2025/26-2027/28), lowest quote",
+      "vendor": "SpedTrack",
+      "amount": 9570,
+      "amountText": "$9,570",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Resolution declaring intent to borrow money and issue notes for capital improvements and purchase of buses",
+      "vendor": null,
+      "amount": 3500000,
+      "amountText": "up to $3,500,000",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Pay scale increase for principals",
+      "vendor": null,
+      "amount": 7500,
+      "amountText": "$7,500",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Pay scale increase for assistant principals",
+      "vendor": null,
+      "amount": 5000,
+      "amountText": "$5,000",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "K-8 math and K-8 ELA instructional coach positions (teacher pay scale plus supplement), 2025/26",
+      "vendor": null,
+      "amount": 8000,
+      "amountText": "$8,000.00 supplement",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "MSWIN bus radios, Mississippi State Contract 21276",
+      "vendor": "Mississippi MSWIN",
+      "amount": 201061.41,
+      "amountText": "$201,061.41",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Tree removal around TCHS to allow for lights",
+      "vendor": "Patterson Farm and Dirt Work",
+      "amount": 4950,
+      "amountText": "$4,950",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    },
+    {
+      "item": "Construction of Burnsville football/baseball concession stand (lowest quote)",
+      "vendor": "Better Built Homes",
+      "amount": 74850,
+      "amountText": "$74,850",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    }
+  ],
+  "donations": {
+    "count": 9,
+    "total": 10789,
+    "note": null
+  },
+  "policy": [
+    {
+      "item": "Revised the GABB policy on staff-student non-fraternization.",
+      "source": {
+        "issue": "2025-05-15",
+        "page": 4
+      }
+    }
+  ],
+  "superintendent": [
+    "Superintendent Christie Holly reported that the company replacing the doors and press boxes is waiting for testing at the campuses to be completed before preparing the bid.",
+    "Dropout figures were reported: four students at TCHS (one left to be home schooled) and 17 at Belmont School (eight left to be home schooled)."
+  ],
+  "executiveSession": [
+    "student transfer"
+  ],
+  "otherActions": [
+    "Recognized Belmont boys and girls powerlifting state champions and runners-up and Belmont tennis state champions",
+    "20 field trip requests approved",
+    "3 fundraisers approved",
+    "2 use-of-facilities requests approved",
+    "2 student transfers approved; 1 set aside for closed session",
+    "USDE Title VI compliance letter approved",
+    "Participation in the Child Nutrition Statewide purchasing program for 2025/26",
+    "Resolution pledging Educational Enhancement funds for buildings and buses through the fiscal year ending June 20, 2026 (date as printed)",
+    "Advertising for sealed fuel bids for SY 2025/26",
+    "Vehicle agreement with the superintendent for 2025/26",
+    "Extended school year application for 2024/25",
+    "Dual credit agreement with addendum between the University of Mississippi and TCSD",
+    "Discussed rental agreements for district-owned properties in Belmont and Tishomingo; agreement language to be updated"
+  ],
+  "quote": null,
+  "reviewed": false
+}

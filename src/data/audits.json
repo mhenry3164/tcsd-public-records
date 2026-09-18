@@ -1,0 +1,58 @@
+[
+ {
+  "fy": "FY2025",
+  "file": "/audits/TCSD_Audit_FY2025.pdf",
+  "osa": "https://www.osa.ms.gov/node/19108",
+  "filed": "2026-02-20",
+  "pdfOffset": 3,
+  "pages": {
+   "auditorsReport": 5,
+   "mda": 9,
+   "budgetVsActual": 49,
+   "sefa": 60,
+   "instructionalSchedule": 62,
+   "fourYearGeneralFund": 64,
+   "fourYearAllFunds": 65,
+   "stateLaw": 73,
+   "findings": 78
+  }
+ },
+ {
+  "fy": "FY2024",
+  "file": "/audits/TCSD_Audit_FY2024.pdf",
+  "osa": "https://www.osa.ms.gov/node/18574",
+  "filed": "2025-07-31",
+  "pages": {
+   "auditorsReport": 5,
+   "mda": 9,
+   "stateLaw": 77,
+   "findings": 82,
+   "instructionalSchedule": 67
+  }
+ },
+ {
+  "fy": "FY2023",
+  "file": "/audits/TCSD_Audit_FY2023.pdf",
+  "osa": "https://www.osa.ms.gov/node/18384",
+  "filed": "2025-06-04",
+  "pages": {
+   "auditorsReport": 5,
+   "mda": 9,
+   "stateLaw": 75,
+   "findings": 81,
+   "instructionalSchedule": 64
+  }
+ },
+ {
+  "fy": "FY2022",
+  "file": "/audits/TCSD_Audit_FY2022.pdf",
+  "osa": "https://www.osa.ms.gov/node/17630",
+  "filed": "2024-09-25",
+  "pages": {
+   "auditorsReport": 4,
+   "stateLaw": 69,
+   "findings": 74,
+   "instructionalSchedule": 58
+  }
+ }
+]

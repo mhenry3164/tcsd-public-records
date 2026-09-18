@@ -1,0 +1,31 @@
+---
+import Base from '../layouts/Base.astro';
+import Cite from '../components/Cite.astro';
+import votes from '../data/votes.json';
+import members from '../data/members.json';
+import { fmtDate } from '../lib/format';
+import { reports } from '../lib/meetings';
+const split = [...new Set(votes.filter((v) => v.action === 'opposed').map((v) => v.meeting))];
+const slug = (name: string) => members.find((m) => m.name === name)?.slug;
+---
+<Base title="Recorded votes" description="Every Tishomingo County School Board vote, recusal and absence in which the Tishomingo County News named members, Jan. 2024 – Sept. 2026.">
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Recorded votes</h1>
+  <p class="note mt-4 measure">The newspaper printed a member’s vote only when a reporter chose to. The official minutes, which by district policy BCBH record each member’s vote, are not public. See <a href="/records">Missing records</a>.</p>
+  <p class="mt-4 measure">Across {reports.length} reported meetings from Jan. 2024 to Sept. 2026, members are named on {new Set(votes.map((v) => v.item)).size} items. Votes with a member opposed were recorded at {split.length} meetings ({split.map((d) => fmtDate(d)).join(' and ')}). Every other action in those reports is recorded only as approved.</p>
+  <p class="mt-2 measure text-sm">Rows marked <span class="badge flag">Letter</span> come from a board member’s own letter printed in the paper, not from a news report.</p>
+  <div class="table-wrap mt-6">
+    <table class="data" data-sortable>
+      <thead><tr><th>Meeting</th><th>Item</th><th>Member</th><th>Action</th><th>Outcome</th><th>Source</th></tr></thead>
+      <tbody>
+        {votes.map((v) => (
+          <tr>
+            <td class="whitespace-nowrap" data-v={v.meeting}><a href={`/meetings/${v.meeting}`}>{fmtDate(v.meeting)}</a></td>
+            <td>{v.item}{'sourceType' in v && v.sourceType === 'letter' && <> <span class="badge flag">Letter</span></>}{v.note && <span class="block source">{v.note}</span>}</td>
+            <td>{slug(v.member) ? <a href={`/board/${slug(v.member)}`}>{v.member}</a> : v.member}</td>
+            <td>{v.action}</td><td>{v.outcome}</td><td><Cite src={v.source} /></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

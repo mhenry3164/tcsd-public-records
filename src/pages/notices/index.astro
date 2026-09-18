@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fmtDate } from '../../lib/format';
+import BarList from '../../components/BarList.astro';
+const notices = (await getCollection('notices')).sort((a, b) => +b.data.date - +a.data.date);
+const kinds: Record<string, string> = { budget: 'Budget & taxes', bid: 'Bids', hearing: 'Hearings', borrowing: 'Borrowing', sale: 'Sales', program: 'Programs', other: 'Other' };
+const byYear = Object.entries(notices.reduce<Record<string, typeof notices>>((acc, n) => { (acc[n.data.date.getUTCFullYear()] ??= []).push(n); return acc; }, {})).sort((a, b) => +b[0] - +a[0]);
+---
+<Base title="Legal notices" description={`All ${notices.length} legal notices published by the Tishomingo County School District in the Tishomingo County News, Jan. 2024 – Sept. 2026: budget and tax-effort notices, bids, sales, borrowing and hearings, in full.`}>
+  <h1 class="text-[clamp(1.9rem,1.2rem+2vw,3rem)] leading-tight font-semibold">Legal notices</h1>
+  <p class="mt-3">Every legal notice the district published in the Tishomingo County News from Jan. 2024 through Sept. 2026, reproduced in full. Legal notices are district documents published under state law. Notices from the county, city or other bodies are not included.</p>
+  <p class="mt-3 text-sm">Budget and tax notices are marked <span class="badge flag">Budget & taxes</span>. {notices.length} notices.</p>
+  <div class="mt-6 max-w-2xl"><BarList title="Notices by type" format={(v) => String(v)} items={Object.entries(kinds).map(([k, l]) => ({ label: l, value: notices.filter((n) => n.data.kind === k).length })).filter((i) => i.value).sort((a, b) => b.value - a.value)} /></div>
+  {byYear.map(([year, list]) => (
+    <section class="mt-8">
+      <h2 class="text-xl font-semibold">{year}</h2>
+      <ul class="mt-3 divide-y divide-rule border-y border-rule">
+        {list.map((n) => (
+          <li class="py-3">
+            <p class="text-sm text-muted">{fmtDate(n.data.date)} · <span class:list={['badge', n.data.kind === 'budget' && 'flag']}>{kinds[n.data.kind]}</span></p>
+            <a href={`/notices/${n.id}`} class="font-medium">{n.data.title}</a>
+            <p class="text-sm mt-1">{n.data.summary}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

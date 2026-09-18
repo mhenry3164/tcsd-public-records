@@ -1,0 +1,2452 @@
+[
+ {
+  "name": "Holly Christie L",
+  "title": "Superintendent",
+  "wages": 131500
+ },
+ {
+  "name": "Robinson Melanie B",
+  "title": "Finance Director",
+  "wages": 99500
+ },
+ {
+  "name": "Palmer Jeffery A",
+  "title": "Principal - High School",
+  "wages": 97300
+ },
+ {
+  "name": "Nunley Clifton D",
+  "title": "Sped Director",
+  "wages": 92400
+ },
+ {
+  "name": "Jackson Michael D",
+  "title": "Teacher (240 Days) - Secondary",
+  "wages": 91871.91
+ },
+ {
+  "name": "Crane Katie C",
+  "title": "Federal Programs Director",
+  "wages": 91200
+ },
+ {
+  "name": "Mcclung Joshua R",
+  "title": "Transportation Director",
+  "wages": 91200
+ },
+ {
+  "name": "Lowrey Tiffany C",
+  "title": "Guidance Counselor (240 Days) - Sec",
+  "wages": 87240.5
+ },
+ {
+  "name": "Taylor John-Grady",
+  "title": "Career & Technical Center Director",
+  "wages": 86900
+ },
+ {
+  "name": "Deaton Andy J",
+  "title": "Principal - High School",
+  "wages": 83800
+ },
+ {
+  "name": "Bonds Rhonda S",
+  "title": "Guidance Counselor (240 Days) - Sec",
+  "wages": 82620.25
+ },
+ {
+  "name": "Nunley Brenton J",
+  "title": "Principal - Elementary School",
+  "wages": 81300
+ },
+ {
+  "name": "Middleton Brian C",
+  "title": "Teacher (213 Days) - Secondary",
+  "wages": 80684.76
+ },
+ {
+  "name": "Moss Monica L",
+  "title": "Assistant Hs Principal (240 Days)",
+  "wages": 78600
+ },
+ {
+  "name": "Randolph Christina S",
+  "title": "Principal Elem/Middle",
+  "wages": 78300
+ },
+ {
+  "name": "Smith Chrystal",
+  "title": "Principal Elem/Middle",
+  "wages": 77900
+ },
+ {
+  "name": "Higginbottom Christopher L",
+  "title": "Teacher (200 Days)",
+  "wages": 77794.11
+ },
+ {
+  "name": "Jones Jonathan D",
+  "title": "Principal Elem/Middle",
+  "wages": 76500
+ },
+ {
+  "name": "Smothers Chanta A",
+  "title": "Guidance Counselor (200 Days)-Cte",
+  "wages": 76306.14
+ },
+ {
+  "name": "Counce Kristy D",
+  "title": "Technology Director",
+  "wages": 75800
+ },
+ {
+  "name": "Mcduffy Nacole",
+  "title": "Psychometrist",
+  "wages": 75058.73
+ },
+ {
+  "name": "Quinn Cory B",
+  "title": "Teacher (240 Days) - Secondary",
+  "wages": 73722.03
+ },
+ {
+  "name": "Sheffield Mary Beth N",
+  "title": "Food Service Director",
+  "wages": 73500
+ },
+ {
+  "name": "Randolph Jason O",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 73450
+ },
+ {
+  "name": "James Steavan C",
+  "title": "Principal Elem/Middle",
+  "wages": 73400
+ },
+ {
+  "name": "Nunley Kenneth E",
+  "title": "Guidance Counselor (200 Days)-Elem",
+  "wages": 72807.52
+ },
+ {
+  "name": "Simmons Christopher S",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 72750
+ },
+ {
+  "name": "Stanfield Brenna C",
+  "title": "Assistant Principal Elem/Mid 240",
+  "wages": 72700
+ },
+ {
+  "name": "Hughes Barry K",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 72325
+ },
+ {
+  "name": "Vick Stephen L",
+  "title": "Bus Shop Lead Mechanic",
+  "wages": 71750
+ },
+ {
+  "name": "Walker Matthew E",
+  "title": "Maintenance Lead",
+  "wages": 71500
+ },
+ {
+  "name": "Maroon Mark L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 71275
+ },
+ {
+  "name": "Gaylor Heather M",
+  "title": "Guidance Counselor (200 Days)-Cte",
+  "wages": 71038.72
+ },
+ {
+  "name": "Degraw Nelda B",
+  "title": "Msis Director",
+  "wages": 70500
+ },
+ {
+  "name": "Hall Laura K",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 70300
+ },
+ {
+  "name": "Edge Lamonnia D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 70000
+ },
+ {
+  "name": "Tidwell Donnie J",
+  "title": "Custodian",
+  "wages": 69568.6
+ },
+ {
+  "name": "Gardner Benjamin G",
+  "title": "Principal - Alternative Sch",
+  "wages": 69500
+ },
+ {
+  "name": "Glover Zachary",
+  "title": "Assistant Hs Principal (240 Days)",
+  "wages": 69092.42
+ },
+ {
+  "name": "Phillips Mary E",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 69067.38
+ },
+ {
+  "name": "Fuller Norma P",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 69050
+ },
+ {
+  "name": "Burns Kendrick S",
+  "title": "Guidance Counselor (200 Days)-Elem",
+  "wages": 68770.05
+ },
+ {
+  "name": "Dipietro John A",
+  "title": "Chief-Campus Police Dept",
+  "wages": 68550
+ },
+ {
+  "name": "Parr Susan C",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 68505.89
+ },
+ {
+  "name": "Devenport Kimberly",
+  "title": "Speech Language Pathologist",
+  "wages": 68450
+ },
+ {
+  "name": "Smith Cecily A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 68200
+ },
+ {
+  "name": "Caldwell Matthew L",
+  "title": "Assistant Hs Principal (240 Days)",
+  "wages": 67700
+ },
+ {
+  "name": "Cohn Tammy M",
+  "title": "Teacher (187 Days) - Alternative",
+  "wages": 67600
+ },
+ {
+  "name": "Booker Heather A",
+  "title": "Assistant Principal Elem/Mid 240",
+  "wages": 67500
+ },
+ {
+  "name": "Evans Cora J",
+  "title": "Teacher (187 Days) - Librarian",
+  "wages": 67500
+ },
+ {
+  "name": "Robertson Noah",
+  "title": "Technology Specialist",
+  "wages": 66671.14
+ },
+ {
+  "name": "Daniel Emily J",
+  "title": "Assistant Principal K-4 Elementary",
+  "wages": 66600
+ },
+ {
+  "name": "Hindman Michael O",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 66561.53
+ },
+ {
+  "name": "Collum Kelly J",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 66400
+ },
+ {
+  "name": "Deaton Ronald K",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 66300
+ },
+ {
+  "name": "Middleton Becky",
+  "title": "Assistant Principal Elem/Mid 240",
+  "wages": 66100
+ },
+ {
+  "name": "Mcanally Deborah A",
+  "title": "Guidance Counselor (200 Days)-Elem",
+  "wages": 65705.89
+ },
+ {
+  "name": "Hughes Christy G",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 65700
+ },
+ {
+  "name": "Nash Kesha N",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 65175
+ },
+ {
+  "name": "Hines Elizabeth G",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 64894.39
+ },
+ {
+  "name": "Zemek Kristen L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 64800
+ },
+ {
+  "name": "Mcclung Laci N",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 64650
+ },
+ {
+  "name": "Glover Amy M",
+  "title": "Assistant Principal Elem/Mid 240",
+  "wages": 64500.75
+ },
+ {
+  "name": "Marlin Ciji C",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 64300
+ },
+ {
+  "name": "Scott Amee N",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 64125
+ },
+ {
+  "name": "Bray Beth D",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 63775
+ },
+ {
+  "name": "Burns Kristen B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 63775
+ },
+ {
+  "name": "Barnes Sherry D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 63250
+ },
+ {
+  "name": "Johnson Robin W",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 63250
+ },
+ {
+  "name": "Jones Michelle L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 63250
+ },
+ {
+  "name": "Denson Leah B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 63200
+ },
+ {
+  "name": "Burns Regina A",
+  "title": "Teacher (187 Days)- Interventionist",
+  "wages": 62725
+ },
+ {
+  "name": "Kuykendall Andrea F",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 62725
+ },
+ {
+  "name": "Taylor Stacey J",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 62725
+ },
+ {
+  "name": "Sparks Tyler C",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 62450
+ },
+ {
+  "name": "Wilson Misty L",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 62350
+ },
+ {
+  "name": "Barker Natalie",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 62200
+ },
+ {
+  "name": "Deaton Kendra M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 62200
+ },
+ {
+  "name": "Mahan Candace",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 62200
+ },
+ {
+  "name": "Wilmeth Kimberly C",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 62200
+ },
+ {
+  "name": "Strickland Andrew F",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 62050
+ },
+ {
+  "name": "Pearson Emily Y",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 61950
+ },
+ {
+  "name": "Humphries Stephanie L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 61825
+ },
+ {
+  "name": "Morris Melanie J",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 61825
+ },
+ {
+  "name": "Raper Penny M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 61825
+ },
+ {
+  "name": "Sykes Angela B",
+  "title": "Teacher (187 Days)- Interventionist",
+  "wages": 61825
+ },
+ {
+  "name": "Mcnair Donna C",
+  "title": "Teacher (187 Days) - Alternative",
+  "wages": 61800
+ },
+ {
+  "name": "Jones Jack A",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 61721.93
+ },
+ {
+  "name": "Rushing Michelle L",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 61600
+ },
+ {
+  "name": "Locke Lisa B",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 61294.11
+ },
+ {
+  "name": "Wilson Dustin M",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 61100
+ },
+ {
+  "name": "Ruple Stephanie A",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 60950
+ },
+ {
+  "name": "Long Jeffery S",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 60700
+ },
+ {
+  "name": "Cleveland Stephanie M",
+  "title": "Teacher (200 Days) - Kindergarten",
+  "wages": 60476.6
+ },
+ {
+  "name": "Deaton Heather S",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 60438.47
+ },
+ {
+  "name": "Parsons Justin W",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 60366.5
+ },
+ {
+  "name": "Thrasher Kerry G",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 60300
+ },
+ {
+  "name": "Dotson Amanda C",
+  "title": "Lead Teacher",
+  "wages": 60267.38
+ },
+ {
+  "name": "White Sara N",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 60250
+ },
+ {
+  "name": "Taylor Erica W",
+  "title": "Teacher (187 Days) - Librarian",
+  "wages": 60150
+ },
+ {
+  "name": "Coker Jason L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 59500
+ },
+ {
+  "name": "Castile Tara L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 59175
+ },
+ {
+  "name": "Harris Candace L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 59175
+ },
+ {
+  "name": "Jones Amy C",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 59175
+ },
+ {
+  "name": "Hutcheson Kristy",
+  "title": "Teacher (187 Days) - Librarian",
+  "wages": 58950
+ },
+ {
+  "name": "Mcdonald Levi C",
+  "title": "Network Technician",
+  "wages": 58940
+ },
+ {
+  "name": "Thornton Eric L",
+  "title": "Teacher (200 Days)",
+  "wages": 58799.5
+ },
+ {
+  "name": "Bonds Dana L",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 58582.83
+ },
+ {
+  "name": "Sparks Tina",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 58475
+ },
+ {
+  "name": "Lynch Adrain M",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 58350
+ },
+ {
+  "name": "Hollingsworth Tina L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 58200
+ },
+ {
+  "name": "Rawls Holly R",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 58125
+ },
+ {
+  "name": "Cox Chad A",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 57917.11
+ },
+ {
+  "name": "White Kendric A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 57900
+ },
+ {
+  "name": "Storment Stephanie A",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 57850
+ },
+ {
+  "name": "Guin Monyca J",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 57800
+ },
+ {
+  "name": "Monroe Tina M",
+  "title": "Teacher (187 Days)- Interventionist",
+  "wages": 57800
+ },
+ {
+  "name": "Moore Gina L",
+  "title": "Teacher (187 Days) - Librarian",
+  "wages": 57800
+ },
+ {
+  "name": "Maroon John M",
+  "title": "Teacher (187 Days) - Cte Spec Pops",
+  "wages": 57600
+ },
+ {
+  "name": "Nunley Dwan N",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 57600
+ },
+ {
+  "name": "Russell Chondra S",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 57600
+ },
+ {
+  "name": "Bohannon Carey S",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 57594.1
+ },
+ {
+  "name": "Jerden Teresa B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 57350
+ },
+ {
+  "name": "Bonds Molly K",
+  "title": "Speech Language Pathologist",
+  "wages": 56900
+ },
+ {
+  "name": "Cox Cherri D",
+  "title": "School Nurse - 4Yr Rn",
+  "wages": 56865
+ },
+ {
+  "name": "Harris Melody A",
+  "title": "School Nurse - 4Yr Rn",
+  "wages": 56865
+ },
+ {
+  "name": "Davis Tammy L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 56350
+ },
+ {
+  "name": "Gray Rebecca S",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 56350
+ },
+ {
+  "name": "Mccalmon Lorie",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 56350
+ },
+ {
+  "name": "Moore Kimberly S",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 56350
+ },
+ {
+  "name": "Nichols Holley M",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 56350
+ },
+ {
+  "name": "Palmer Debra L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 56350
+ },
+ {
+  "name": "Wright Samantha J",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 56350
+ },
+ {
+  "name": "Wooten Anna B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 56275
+ },
+ {
+  "name": "Marlin Scott W",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 56155.14
+ },
+ {
+  "name": "Lambert Shanda B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55825
+ },
+ {
+  "name": "Whitaker Alisha",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55825
+ },
+ {
+  "name": "Miller Abby E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55450
+ },
+ {
+  "name": "Marlin Austin S",
+  "title": "Teacher (200 Days)",
+  "wages": 55377.07
+ },
+ {
+  "name": "Graham Melissa",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55300
+ },
+ {
+  "name": "Larison Amy C",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55300
+ },
+ {
+  "name": "Lowrey Lindsey M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55300
+ },
+ {
+  "name": "Roberts Darrah D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55300
+ },
+ {
+  "name": "Rogers Amy J",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 55300
+ },
+ {
+  "name": "Trickey Jessica",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 55300
+ },
+ {
+  "name": "Stanley Jacob G",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 55267.91
+ },
+ {
+  "name": "Cleveland Philip R",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 55250
+ },
+ {
+  "name": "Parker Richard A",
+  "title": "Bus Driver (Hourly)",
+  "wages": 55241.6
+ },
+ {
+  "name": "Armstrong Meta J",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54950
+ },
+ {
+  "name": "Cartwright Heather H",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 54900
+ },
+ {
+  "name": "Credille Christy G",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 54900
+ },
+ {
+  "name": "Cain Benjamin",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 54804.81
+ },
+ {
+  "name": "Brooks Jeneen A",
+  "title": "Assistant Finance Director",
+  "wages": 54783.3
+ },
+ {
+  "name": "Cutshall Brittney N",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54775
+ },
+ {
+  "name": "Greene Ramona L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54775
+ },
+ {
+  "name": "Rogers Shelia W",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54775
+ },
+ {
+  "name": "Williams Andrea C",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54775
+ },
+ {
+  "name": "Howard Jason L",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 54749.25
+ },
+ {
+  "name": "Meeks Matthew T",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 54700
+ },
+ {
+  "name": "Merino Amanda",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 54600
+ },
+ {
+  "name": "Hammond Kelly A",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 54500
+ },
+ {
+  "name": "Riley Jo F",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 54500
+ },
+ {
+  "name": "Poling Laura A",
+  "title": "Guidance Counselor (200 Days)-Sec",
+  "wages": 54395.74
+ },
+ {
+  "name": "Ayers Chandler",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54375
+ },
+ {
+  "name": "Barron Robert D",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 54300
+ },
+ {
+  "name": "Higginbottom Ashley",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54250
+ },
+ {
+  "name": "Young Pauline R",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54250
+ },
+ {
+  "name": "Payne Deanne M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 54100
+ },
+ {
+  "name": "Brown Haley E",
+  "title": "Speech Language Pathologist",
+  "wages": 54075
+ },
+ {
+  "name": "Schallock Emily W",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 53978.57
+ },
+ {
+  "name": "Gray Bridget D",
+  "title": "School Nurse - 4Yr Rn",
+  "wages": 53615
+ },
+ {
+  "name": "Nunley Brooke G",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 53500
+ },
+ {
+  "name": "Jaynes Terry F",
+  "title": "Maintenance Worker - Lead Hvac",
+  "wages": 53497.6
+ },
+ {
+  "name": "White Billy R",
+  "title": "Maint Worker - General Contractor",
+  "wages": 53497.6
+ },
+ {
+  "name": "Dance William A",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 53400
+ },
+ {
+  "name": "Rakestraw Nathan T",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 53200
+ },
+ {
+  "name": "White Charles K",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 53200
+ },
+ {
+  "name": "Brown Scotty W",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 53000
+ },
+ {
+  "name": "Wilson Kayla D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 53000
+ },
+ {
+  "name": "Walker Melissa",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 52925
+ },
+ {
+  "name": "Bonds Cynthia M",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 52600
+ },
+ {
+  "name": "Thornton Molly M",
+  "title": "Speech Language Pathologist",
+  "wages": 52500
+ },
+ {
+  "name": "Dawson Whitney E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52475
+ },
+ {
+  "name": "Gassaway Sara E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52475
+ },
+ {
+  "name": "Gordon Kristine M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52475
+ },
+ {
+  "name": "Hardwick Samantha M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52475
+ },
+ {
+  "name": "Henley Hannah",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52475
+ },
+ {
+  "name": "Johnson Melissa",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 52475
+ },
+ {
+  "name": "Pilgrim Laurel S",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 52475
+ },
+ {
+  "name": "Roach Sarah E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52475
+ },
+ {
+  "name": "Taylor Amanda R",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 52475
+ },
+ {
+  "name": "Johnson Christopher B",
+  "title": "Maintenance Worker - Asst Hvac",
+  "wages": 52291.2
+ },
+ {
+  "name": "Lancaster Timothy B",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 52210
+ },
+ {
+  "name": "Blunt Kristy L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52100
+ },
+ {
+  "name": "Coffman Sandy M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 52100
+ },
+ {
+  "name": "Quinn Meredith E",
+  "title": "Guidance Counselor (200 Days)-Elem",
+  "wages": 51978.57
+ },
+ {
+  "name": "Whitfield Cynthia A",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 51978.57
+ },
+ {
+  "name": "Morris Morgan L",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 51950
+ },
+ {
+  "name": "Wells Erica M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 51950
+ },
+ {
+  "name": "Romans Brandon R",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 51800
+ },
+ {
+  "name": "Morgan Aaron C",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 51710
+ },
+ {
+  "name": "Henderson Melissa A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 51700
+ },
+ {
+  "name": "Robinson Selena F",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 51700
+ },
+ {
+  "name": "Mullins Serah E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 51600
+ },
+ {
+  "name": "Jones Emolyn M",
+  "title": "Teacher (187 Days) - Librarian",
+  "wages": 51425
+ },
+ {
+  "name": "Osborn Brittany D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 51425
+ },
+ {
+  "name": "Byars Kristi L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 51300
+ },
+ {
+  "name": "Davis Tammy O",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 51300
+ },
+ {
+  "name": "Puckett Stephanie L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 51300
+ },
+ {
+  "name": "Sullivan Justin T",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 51300
+ },
+ {
+  "name": "Mcduffy Jonathan C",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 51100
+ },
+ {
+  "name": "Springer Ii Timotheous A",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 51050
+ },
+ {
+  "name": "Cruse Esther M",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 50900
+ },
+ {
+  "name": "Lard Amy N",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 50900
+ },
+ {
+  "name": "Rogers Andrea",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 50625
+ },
+ {
+  "name": "Johnson Ryan C",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 49900
+ },
+ {
+  "name": "Hodum Emily N",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 49700
+ },
+ {
+  "name": "Robertson Kevin G",
+  "title": "Custodian",
+  "wages": 49400
+ },
+ {
+  "name": "Butler Donna C",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 49300
+ },
+ {
+  "name": "Davis Mary B",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 49300
+ },
+ {
+  "name": "George Jared C",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 49210
+ },
+ {
+  "name": "Clark Laura D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 49200
+ },
+ {
+  "name": "Nieto Christy A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 49125
+ },
+ {
+  "name": "Page Micah K",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 49125
+ },
+ {
+  "name": "Young Emily P",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 49125
+ },
+ {
+  "name": "Shaw Hunter S",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 49100
+ },
+ {
+  "name": "Wright Virginia E",
+  "title": "Teacher (187 Days) - Librarian",
+  "wages": 49025
+ },
+ {
+  "name": "Lawson Ivy Faith L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48975
+ },
+ {
+  "name": "Cheaves Bethany L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48900
+ },
+ {
+  "name": "Cleveland Mallory P",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48900
+ },
+ {
+  "name": "Glidewell Donna B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48900
+ },
+ {
+  "name": "Ledbetter Kristen",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48900
+ },
+ {
+  "name": "Reno Chris D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48900
+ },
+ {
+  "name": "Smullins Bradley W",
+  "title": "Maintenance Worker",
+  "wages": 48755.2
+ },
+ {
+  "name": "Hutcheson Shelby L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48700
+ },
+ {
+  "name": "Hindman Tori L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48532.58
+ },
+ {
+  "name": "Lincoln Leticia",
+  "title": "Teacher (187 Days)- Interventionist",
+  "wages": 48500
+ },
+ {
+  "name": "Jeffries Tannissa B",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 48450
+ },
+ {
+  "name": "Evans John D",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 48449.25
+ },
+ {
+  "name": "South Crystal G",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 48449.25
+ },
+ {
+  "name": "Lovelace Jeremy K",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 48210
+ },
+ {
+  "name": "Fair Courtney B",
+  "title": "Teacher (187 Days)- Interventionist",
+  "wages": 48100
+ },
+ {
+  "name": "Parsons Megan",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48100
+ },
+ {
+  "name": "Umphers Wanda G",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48100
+ },
+ {
+  "name": "Whirley Anna E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48100
+ },
+ {
+  "name": "Ayers Hannah D",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 48075
+ },
+ {
+  "name": "Marlin Kayla E",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 48075
+ },
+ {
+  "name": "Shook Kimberly M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 48000
+ },
+ {
+  "name": "Aday Danika L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 47550
+ },
+ {
+  "name": "Nash Miranda L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 47525
+ },
+ {
+  "name": "Miller Christopher S",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 47314.87
+ },
+ {
+  "name": "Caldwell Hope K",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 47300
+ },
+ {
+  "name": "Felker Bobby W",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 47100
+ },
+ {
+  "name": "Glidewell Taylor R",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 47100
+ },
+ {
+  "name": "Hamm Sandra B",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46900
+ },
+ {
+  "name": "Sparks Alicia O",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46900
+ },
+ {
+  "name": "Lambert Laura E",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 46800
+ },
+ {
+  "name": "Richardson Mariah K",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46800
+ },
+ {
+  "name": "Norvell Evan B",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 46700
+ },
+ {
+  "name": "Southward Charlotte L",
+  "title": "Teacher (187 Days)- Interventionist",
+  "wages": 46700
+ },
+ {
+  "name": "Lindsey Robin E",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 46500
+ },
+ {
+  "name": "Ratliff Julia L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46500
+ },
+ {
+  "name": "Williamson Leigh A",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 46500
+ },
+ {
+  "name": "Wimberly Chelsea L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46500
+ },
+ {
+  "name": "Brooks Heather L",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 46310.16
+ },
+ {
+  "name": "Anglin Perry B",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 46310.15
+ },
+ {
+  "name": "Stroupe Chloe L",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 46310.15
+ },
+ {
+  "name": "Nash Consuela D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46300
+ },
+ {
+  "name": "Walker Samantha H",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 46300
+ },
+ {
+  "name": "Stanley Hannah N",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 46100
+ },
+ {
+  "name": "Neal Xavien M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45900
+ },
+ {
+  "name": "Robinson Blake",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 45882.33
+ },
+ {
+  "name": "Brown Chelsi M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45700
+ },
+ {
+  "name": "Stewart Mckinley B",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 45700
+ },
+ {
+  "name": "Bonds Douglas E",
+  "title": "Custodian",
+  "wages": 45593.6
+ },
+ {
+  "name": "Brown Joshua T",
+  "title": "Teacher (200 Days) - Secondary",
+  "wages": 45454.55
+ },
+ {
+  "name": "Dexter Ashley E",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 45300
+ },
+ {
+  "name": "Glidewell Sean D",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45300
+ },
+ {
+  "name": "Hancock Madison T",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45300
+ },
+ {
+  "name": "Johnson Alexandria G",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45300
+ },
+ {
+  "name": "Jourdan Deborah L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45300
+ },
+ {
+  "name": "Taylor Kimberly A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45300
+ },
+ {
+  "name": "Thrasher Lisa H",
+  "title": "Accounts Payable Clerk",
+  "wages": 45180
+ },
+ {
+  "name": "Taylor Allie P",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 45100
+ },
+ {
+  "name": "Spoon Sabrina G",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 44900
+ },
+ {
+  "name": "Rogers Alexis B",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 44650
+ },
+ {
+  "name": "Witt Anna L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 44600
+ },
+ {
+  "name": "Fancher Madison",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 44200
+ },
+ {
+  "name": "Aday Meghan N",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 44100
+ },
+ {
+  "name": "Mcduffy Macy R",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 44100
+ },
+ {
+  "name": "Woodruff Chad T",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43900
+ },
+ {
+  "name": "Akers Hayley E",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 43700
+ },
+ {
+  "name": "Gibson Madalyn T",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 43700
+ },
+ {
+  "name": "Johnson Bethany C",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 43700
+ },
+ {
+  "name": "Keirns Charity F",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43700
+ },
+ {
+  "name": "Robertson Sidney L",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 43700
+ },
+ {
+  "name": "Hughes Scotty G",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 43385.28
+ },
+ {
+  "name": "Adams Felicity H",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 43300
+ },
+ {
+  "name": "Crabb Lacey",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43300
+ },
+ {
+  "name": "Markham Elizabeth A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43300
+ },
+ {
+  "name": "Page Avaline E",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43300
+ },
+ {
+  "name": "Rorie Amelia J",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43300
+ },
+ {
+  "name": "Rorie Veronica",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 43300
+ },
+ {
+  "name": "Marlar Luther J",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 43163.22
+ },
+ {
+  "name": "Baxter Mark J",
+  "title": "Custodian",
+  "wages": 42993.6
+ },
+ {
+  "name": "Brown Kristy M",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 42900
+ },
+ {
+  "name": "Crum Donna L",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 42900
+ },
+ {
+  "name": "Eaton Madeline D",
+  "title": "Teacher (187 Days) - Kindergarten",
+  "wages": 42900
+ },
+ {
+  "name": "Lambert Brown Rebekah R",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 42900
+ },
+ {
+  "name": "Morris Karmen P",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 42900
+ },
+ {
+  "name": "Underwood Brittney S",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 42900
+ },
+ {
+  "name": "Weddle Anna G",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 42900
+ },
+ {
+  "name": "Lewis Taylor R",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 42500
+ },
+ {
+  "name": "Ruple Kristin A",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 42500
+ },
+ {
+  "name": "Barnes Monica M",
+  "title": "P/T - Preschool Speech Pathologist",
+  "wages": 42420
+ },
+ {
+  "name": "Curtis Anthony B",
+  "title": "Bus Driver (Hourly)",
+  "wages": 41400
+ },
+ {
+  "name": "Kelly Aftan D",
+  "title": "School Nurse - 2 Yr Rn",
+  "wages": 40825
+ },
+ {
+  "name": "Derrick David S",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 40731.32
+ },
+ {
+  "name": "Parsons Terry D",
+  "title": "Bus Driver (Hourly)",
+  "wages": 40680
+ },
+ {
+  "name": "Brumley Michael J",
+  "title": "Bus Shop Mechanic Helper",
+  "wages": 40497.6
+ },
+ {
+  "name": "Hogeland Sterling L",
+  "title": "Custodian",
+  "wages": 39936
+ },
+ {
+  "name": "Middleton Jacqulin L",
+  "title": "Secretary",
+  "wages": 39875
+ },
+ {
+  "name": "Cutshall Amy",
+  "title": "Bookkeeper",
+  "wages": 39320
+ },
+ {
+  "name": "Johnson Belen J",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 39272.31
+ },
+ {
+  "name": "Archie Nancy A",
+  "title": "Custodian",
+  "wages": 39258
+ },
+ {
+  "name": "Mcmillan Janice E",
+  "title": "Bookkeeper-Registrar",
+  "wages": 38520
+ },
+ {
+  "name": "Smith Stella J",
+  "title": "Bookkeeper",
+  "wages": 37554.3
+ },
+ {
+  "name": "Inman Larry L",
+  "title": "Custodian",
+  "wages": 37377.6
+ },
+ {
+  "name": "Dawson Amelia J",
+  "title": "Administrative Assistant",
+  "wages": 37150
+ },
+ {
+  "name": "Cass Regina L",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 36970.24
+ },
+ {
+  "name": "Bunch Elizabeth M",
+  "title": "School Nurse - 4Yr Rn",
+  "wages": 36865
+ },
+ {
+  "name": "Knecht Jason M",
+  "title": "Custodian",
+  "wages": 36864
+ },
+ {
+  "name": "Rogers Sandy G",
+  "title": "High School Bookkeeper",
+  "wages": 36620
+ },
+ {
+  "name": "South Benjamin J",
+  "title": "Bus Driver (Hourly)",
+  "wages": 36540
+ },
+ {
+  "name": "Bowling Shalene D",
+  "title": "P/T - Preschool Speech Pathologist",
+  "wages": 36275
+ },
+ {
+  "name": "Mccarley Thomas K",
+  "title": "Bus Driver (Hourly)",
+  "wages": 35820
+ },
+ {
+  "name": "Moore Sherry W",
+  "title": "High School Bookkeeper",
+  "wages": 35820
+ },
+ {
+  "name": "Johnson William J",
+  "title": "Technology Assistant",
+  "wages": 35580
+ },
+ {
+  "name": "Holt Angela D",
+  "title": "Custodian",
+  "wages": 35297.6
+ },
+ {
+  "name": "Mann Samantha",
+  "title": "School Nurse - 4Yr Rn",
+  "wages": 34256.04
+ },
+ {
+  "name": "Gray Benjamin R",
+  "title": "Custodian",
+  "wages": 34028.8
+ },
+ {
+  "name": "Bivins Lenard L",
+  "title": "Bus Maintenance",
+  "wages": 33879
+ },
+ {
+  "name": "Anglin Scarlett",
+  "title": "Bookkeeper",
+  "wages": 33620
+ },
+ {
+  "name": "Malone Rhonda M",
+  "title": "Bookkeeper",
+  "wages": 33620
+ },
+ {
+  "name": "Aday Terry L",
+  "title": "Custodian",
+  "wages": 33508.8
+ },
+ {
+  "name": "Durham Elizabeth K",
+  "title": "School Nurse - 2 Yr Rn",
+  "wages": 33075
+ },
+ {
+  "name": "Ervin Jerry A",
+  "title": "Bus Driver (Hourly)",
+  "wages": 33030
+ },
+ {
+  "name": "Henry Betina B",
+  "title": "Custodian",
+  "wages": 30929.6
+ },
+ {
+  "name": "Elliott Stephanie T",
+  "title": "Teacher (187 Days) - Elementary",
+  "wages": 30163.44
+ },
+ {
+  "name": "Kennedy Rickey K",
+  "title": "Bus Driver (Hourly)",
+  "wages": 30012
+ },
+ {
+  "name": "Huffman Bennie O",
+  "title": "Custodian",
+  "wages": 29889.6
+ },
+ {
+  "name": "Barnes Deborah",
+  "title": "Secretary",
+  "wages": 28975
+ },
+ {
+  "name": "Stripling Nancy",
+  "title": "Secretary-Registrar",
+  "wages": 28675
+ },
+ {
+  "name": "Sims Debbie S",
+  "title": "Cafeteria Manager",
+  "wages": 28491.2
+ },
+ {
+  "name": "Lambert Melissa A",
+  "title": "Secretary",
+  "wages": 28175
+ },
+ {
+  "name": "Brown Shelbie A",
+  "title": "Bookkeeper-Registrar",
+  "wages": 28020
+ },
+ {
+  "name": "Kennedy Linda D",
+  "title": "Bus Driver (Hourly)",
+  "wages": 27315
+ },
+ {
+  "name": "Feltman Edith A",
+  "title": "Sped Secretary",
+  "wages": 27175
+ },
+ {
+  "name": "Lawson Abigail A",
+  "title": "Secretary",
+  "wages": 27175
+ },
+ {
+  "name": "Pardue Kathy",
+  "title": "Registrar",
+  "wages": 27175
+ },
+ {
+  "name": "Payne Pamela D",
+  "title": "Custodian",
+  "wages": 27040
+ },
+ {
+  "name": "Tilley Janet L",
+  "title": "Custodian",
+  "wages": 27040
+ },
+ {
+  "name": "Wilkins Erica L",
+  "title": "Custodian",
+  "wages": 27040
+ },
+ {
+  "name": "Lambert Laura R",
+  "title": "Cafeteria Manager",
+  "wages": 26408
+ },
+ {
+  "name": "Borden Barbara H",
+  "title": "Caseworker",
+  "wages": 25625
+ },
+ {
+  "name": "Bonds Pamela",
+  "title": "Assistant Teacher (Comp)",
+  "wages": 25527.2
+ },
+ {
+  "name": "Bain Donna J",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 25430
+ },
+ {
+  "name": "Deaton Jennifer L",
+  "title": "Assistant Teacher (Library)",
+  "wages": 25430
+ },
+ {
+  "name": "Mitchell Frances L",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 25430
+ },
+ {
+  "name": "Powell Doris M",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 25430
+ },
+ {
+  "name": "Coker Robin S",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 25325.28
+ },
+ {
+  "name": "Hawkins Carla M",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 25078.4
+ },
+ {
+  "name": "Parker Joy W",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 25026.08
+ },
+ {
+  "name": "Johnson Melanie",
+  "title": "Assistant Teacher (Comp)",
+  "wages": 24928.8
+ },
+ {
+  "name": "Lynch Rita M",
+  "title": "Cafeteria Manager",
+  "wages": 24250.4
+ },
+ {
+  "name": "Nix Joyce",
+  "title": "Cafeteria Manager",
+  "wages": 24250.4
+ },
+ {
+  "name": "Parsons Alisa V",
+  "title": "Bus Driver (Hourly)",
+  "wages": 23940
+ },
+ {
+  "name": "Walker Kim Y",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 23470.24
+ },
+ {
+  "name": "Whitehead Suryani Z",
+  "title": "Kindergarten Assistant Teacher",
+  "wages": 23470.24
+ },
+ {
+  "name": "Jordan Cheryl A",
+  "title": "Title I - Non-Certified Support",
+  "wages": 23372.96
+ },
+ {
+  "name": "Scruggs Julie J",
+  "title": "Cafeteria Manager",
+  "wages": 23208.8
+ },
+ {
+  "name": "Stephens Sherry C",
+  "title": "Assistant Teacher (Isd)",
+  "wages": 23178.48
+ },
+ {
+  "name": "Smith Debra L",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 23126.16
+ },
+ {
+  "name": "Carter Amanda C",
+  "title": "Cafeteria Manager",
+  "wages": 22911.2
+ },
+ {
+  "name": "Clark Jennifer R",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 22677.36
+ },
+ {
+  "name": "Powell Shelia L",
+  "title": "Cafeteria Worker",
+  "wages": 22600.9
+ },
+ {
+  "name": "Cain Darrell",
+  "title": "Assistant Teacher (Comp)",
+  "wages": 22427.04
+ },
+ {
+  "name": "Felks Deborah J",
+  "title": "Cafeteria Worker",
+  "wages": 22343.3
+ },
+ {
+  "name": "Parker Alison R",
+  "title": "Cafeteria Manager",
+  "wages": 22154.65
+ },
+ {
+  "name": "Bishop Mary L",
+  "title": "Assistant Teacher (Comp)",
+  "wages": 21979.04
+ },
+ {
+  "name": "Derrick Amber L",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 21675.04
+ },
+ {
+  "name": "Mcafee Kimberly A",
+  "title": "Assistant Teacher (Isd)",
+  "wages": 21585.28
+ },
+ {
+  "name": "Marlin Albanie F",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 21528.24
+ },
+ {
+  "name": "Spangler Kimberly",
+  "title": "Kindergarten Assistant Teacher",
+  "wages": 21473.04
+ },
+ {
+  "name": "Johnson Kristian A",
+  "title": "Registrar",
+  "wages": 21125
+ },
+ {
+  "name": "Rogers Wanda K",
+  "title": "Secretary",
+  "wages": 21125
+ },
+ {
+  "name": "Darwin Teresa B",
+  "title": "Kindergarten Assistant Teacher",
+  "wages": 21121.52
+ },
+ {
+  "name": "Vogel Carly E",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 20822.32
+ },
+ {
+  "name": "Gray Tamela D",
+  "title": "Cafeteria Cashier",
+  "wages": 20540.1
+ },
+ {
+  "name": "Davis Erin S",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 20433.36
+ },
+ {
+  "name": "Pittman Kimberly L",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 20433.36
+ },
+ {
+  "name": "Lovelace Amy E",
+  "title": "Cafeteria Cashier",
+  "wages": 20411.3
+ },
+ {
+  "name": "Cox Paula D",
+  "title": "Cafeteria Worker",
+  "wages": 20282.5
+ },
+ {
+  "name": "Harrell Donald G",
+  "title": "Bus Driver (Hourly)",
+  "wages": 20250
+ },
+ {
+  "name": "Holt Jeffery H",
+  "title": "Bus Driver (Hourly)",
+  "wages": 20250
+ },
+ {
+  "name": "Deaton Hanna C",
+  "title": "Assistant Teacher (Comp)",
+  "wages": 20074.32
+ },
+ {
+  "name": "Hall Melanie D",
+  "title": "Title I - Non-Certified Support",
+  "wages": 20074.32
+ },
+ {
+  "name": "Ray Caitlin M",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 20029.44
+ },
+ {
+  "name": "Davis Lori J",
+  "title": "Assistant Teacher (Comp)",
+  "wages": 19827.44
+ },
+ {
+  "name": "Greene Alisha",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 19827.44
+ },
+ {
+  "name": "Nash Molly E",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 19677.84
+ },
+ {
+  "name": "Jones Britney E",
+  "title": "Assistant Teacher (Isd)",
+  "wages": 19580.64
+ },
+ {
+  "name": "Ross Alexus D",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 19580.64
+ },
+ {
+  "name": "Bullard Nathaniel C",
+  "title": "Assistant Teacher (Isd)",
+  "wages": 19528.24
+ },
+ {
+  "name": "Casillas Haley B",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 19431.04
+ },
+ {
+  "name": "Brumley Jerika N",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 19326.32
+ },
+ {
+  "name": "Sims Peggy R",
+  "title": "Registrar",
+  "wages": 19275
+ },
+ {
+  "name": "Carter Kathy L",
+  "title": "Esser Iii K Asst Teacher",
+  "wages": 19116.88
+ },
+ {
+  "name": "Figueroa Kathryn",
+  "title": "Cafeteria Cashier",
+  "wages": 18608.1
+ },
+ {
+  "name": "Puckett Judy M",
+  "title": "Cafeteria Cashier",
+  "wages": 18608.1
+ },
+ {
+  "name": "Bennett Kristen R",
+  "title": "Kindergarten Assistant Teacher",
+  "wages": 18368.88
+ },
+ {
+  "name": "Hill Kayla",
+  "title": "Esser Iii K Asst Teacher",
+  "wages": 18368.88
+ },
+ {
+  "name": "Smith Deborah L",
+  "title": "Cafeteria Worker",
+  "wages": 18350.5
+ },
+ {
+  "name": "Bittel Dana K",
+  "title": "Kindergarten Assistant Teacher",
+  "wages": 18122
+ },
+ {
+  "name": "Huggins Summer R",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 18122
+ },
+ {
+  "name": "Barker Christi L",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 17620.88
+ },
+ {
+  "name": "Greene Kathryn A",
+  "title": "Esser Iii K Asst Teacher",
+  "wages": 17620.88
+ },
+ {
+  "name": "Shotts Amy H",
+  "title": "Cafeteria Cashier",
+  "wages": 17513.3
+ },
+ {
+  "name": "George Chasity H",
+  "title": "Esser Iii K Asst Teacher",
+  "wages": 17471.28
+ },
+ {
+  "name": "Johnson Carrie A",
+  "title": "Title I - Non-Certified Support",
+  "wages": 17471.28
+ },
+ {
+  "name": "Pruitt Maggie C",
+  "title": "Title I - Non-Certified Support",
+  "wages": 17471.28
+ },
+ {
+  "name": "Horn Isabella G",
+  "title": "Esser Iii K Asst Teacher",
+  "wages": 17418.64
+ },
+ {
+  "name": "Buckman Johnna L",
+  "title": "Cafeteria Worker",
+  "wages": 16869.3
+ },
+ {
+  "name": "Johnson Chloe G",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 16835
+ },
+ {
+  "name": "Kostelansky Becky A",
+  "title": "Cafeteria Worker",
+  "wages": 16611.7
+ },
+ {
+  "name": "Moody Monica J",
+  "title": "Cafeteria Cashier",
+  "wages": 15967.7
+ },
+ {
+  "name": "Arison Melanie",
+  "title": "Custodian",
+  "wages": 15864.48
+ },
+ {
+  "name": "Coleman Betty R",
+  "title": "Cafeteria Worker",
+  "wages": 15838.9
+ },
+ {
+  "name": "Wooten Emily J",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 15750
+ },
+ {
+  "name": "Richardson Myra J",
+  "title": "Cafeteria Cashier",
+  "wages": 15516.9
+ },
+ {
+  "name": "Moody Britney N",
+  "title": "Cafeteria Cashier",
+  "wages": 15388.1
+ },
+ {
+  "name": "Gentle Anna E",
+  "title": "Cafeteria Cashier",
+  "wages": 15029
+ },
+ {
+  "name": "Rivera Analilia M",
+  "title": "Custodian",
+  "wages": 14970.88
+ },
+ {
+  "name": "Feltus Evelyn L",
+  "title": "Bus Driver (Hourly)",
+  "wages": 14940
+ },
+ {
+  "name": "Roberson Miranda B",
+  "title": "Cafeteria Worker",
+  "wages": 14872.9
+ },
+ {
+  "name": "Morales Rhiannon M",
+  "title": "Cafeteria Worker",
+  "wages": 14744.1
+ },
+ {
+  "name": "Vernoy Alvena C",
+  "title": "Cafeteria Worker",
+  "wages": 14744.1
+ },
+ {
+  "name": "Ringer Angela B",
+  "title": "Cafeteria Worker",
+  "wages": 14615.3
+ },
+ {
+  "name": "Williams Robin J",
+  "title": "Cafeteria Worker",
+  "wages": 14615.3
+ },
+ {
+  "name": "Walls Amanda L",
+  "title": "Cafeteria Worker",
+  "wages": 14486.5
+ },
+ {
+  "name": "Stuart Christy",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 13683.64
+ },
+ {
+  "name": "Brown Malcolm E",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 13500
+ },
+ {
+  "name": "Kennedy Roger C",
+  "title": "Bus Driver (Hourly)",
+  "wages": 13500
+ },
+ {
+  "name": "Stone Anthony",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 13500
+ },
+ {
+  "name": "Stone Claudia C",
+  "title": "P/T Asst Teacher (Isd) - Form 4B",
+  "wages": 12387.6
+ },
+ {
+  "name": "Mcduffy Sarah G",
+  "title": "Non-Certified Support- Asst Teacher",
+  "wages": 11772.08
+ },
+ {
+  "name": "Mann Reda M",
+  "title": "Custodian (10 Hr Per Week) -Form 4B",
+  "wages": 11268.4
+ },
+ {
+  "name": "Alexander Stephen D",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 11250
+ },
+ {
+  "name": "Foret Patrick J",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 10125
+ },
+ {
+  "name": "Searcy Jackie E",
+  "title": "Bus Driver (Hourly)",
+  "wages": 10125
+ },
+ {
+  "name": "Bullard Vicki P",
+  "title": "Long Term Substitute",
+  "wages": 9300
+ },
+ {
+  "name": "Cutshall Jacob T",
+  "title": "Sped Asst - Non-Certified Support",
+  "wages": 9108.26
+ },
+ {
+  "name": "Frazier Donald S",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 9000
+ },
+ {
+  "name": "Hickey Russell L",
+  "title": "Bus Driver (Hourly)",
+  "wages": 9000
+ },
+ {
+  "name": "Mckee Frankie C",
+  "title": "Bus Driver (Hourly)",
+  "wages": 9000
+ },
+ {
+  "name": "Phillips Carleta T",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 9000
+ },
+ {
+  "name": "Woodruff Ronald E",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 9000
+ },
+ {
+  "name": "Spoon Carol L",
+  "title": "Bus Driver (Hourly)",
+  "wages": 8820
+ },
+ {
+  "name": "Williams Brenda J",
+  "title": "Cafeteria Worker",
+  "wages": 7910.35
+ },
+ {
+  "name": "Klatt Larry J",
+  "title": "Bus Driver (Retiree Form 4B)",
+  "wages": 7875
+ },
+ {
+  "name": "Thomas Jonnie J",
+  "title": "Cafeteria Worker",
+  "wages": 7291.2
+ },
+ {
+  "name": "Derrick David J",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 7164.62
+ },
+ {
+  "name": "Ford Stacey N",
+  "title": "Cafeteria Worker",
+  "wages": 6762
+ },
+ {
+  "name": "Long Jerry",
+  "title": "Softball-Fp Head Coach - Paraprof",
+  "wages": 6500
+ },
+ {
+  "name": "Stewart Daniel J",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 6443.75
+ },
+ {
+  "name": "Bostick Steven M",
+  "title": "School Resource Officer (Full Time)",
+  "wages": 5335.49
+ },
+ {
+  "name": "Johnson Ebony M",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 5227.21
+ },
+ {
+  "name": "Murray Amanda L",
+  "title": "School Nurse - 4Yr Rn",
+  "wages": 5066.6
+ },
+ {
+  "name": "Herring Terri L",
+  "title": "Dance Head Coach - Paraprof",
+  "wages": 3500
+ },
+ {
+  "name": "Mcwilliams Emily P",
+  "title": "Cafeteria Manager",
+  "wages": 3337.6
+ },
+ {
+  "name": "Walker Macie B",
+  "title": "Basketball-Asst Hs Girls - Paraprof",
+  "wages": 3000
+ },
+ {
+  "name": "Williams Taylor E",
+  "title": "Assistant Principal Elem/Mid 240",
+  "wages": 2754.2
+ },
+ {
+  "name": "Cox Darrius M",
+  "title": "Football-Jr High Asst",
+  "wages": 1500
+ },
+ {
+  "name": "Cleveland Gentry",
+  "title": "Baseball-Asst Hs Para Split Suppl",
+  "wages": 1000
+ },
+ {
+  "name": "Elrod David A",
+  "title": "Baseball-Asst High School Para",
+  "wages": 1000
+ },
+ {
+  "name": "Ray Judith L",
+  "title": "Para-Professional Asst Tennis Coach",
+  "wages": 1000
+ },
+ {
+  "name": "Searcy Anthony",
+  "title": "Baseball-Asst Hs Para Split Suppl",
+  "wages": 1000
+ },
+ {
+  "name": "Norvell Candy",
+  "title": "Assistant Finance Director",
+  "wages": 964.6
+ },
+ {
+  "name": "Murrah Lindsey L",
+  "title": "Technology Assistant",
+  "wages": 798.55
+ },
+ {
+  "name": "Holland Jon T",
+  "title": "Teacher (187 Days) - Secondary",
+  "wages": 681.81
+ }
+]

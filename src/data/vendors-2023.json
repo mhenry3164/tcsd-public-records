@@ -1,0 +1,4246 @@
+[
+ {
+  "vendor": "Trane U S Inc",
+  "amount": 3769850.24
+ },
+ {
+  "vendor": "Apple Inc - Atlanta",
+  "amount": 1039089.95
+ },
+ {
+  "vendor": "Briggs Inc",
+  "amount": 790036.95
+ },
+ {
+  "vendor": "Magee Enterprises Inc",
+  "amount": 665997
+ },
+ {
+  "vendor": "Advantage Roofing & Construction Of La",
+  "amount": 579952.2
+ },
+ {
+  "vendor": "Tishomingo Co Electric Power",
+  "amount": 574430.9
+ },
+ {
+  "vendor": "Msba Property Trust",
+  "amount": 480379.18
+ },
+ {
+  "vendor": "The Peoples Bank",
+  "amount": 259750
+ },
+ {
+  "vendor": "Paul Fisher Oil Co Inc",
+  "amount": 244419.58
+ },
+ {
+  "vendor": "Trustmark National Bank Loan Operations",
+  "amount": 227738
+ },
+ {
+  "vendor": "Hiland Dairy Foods",
+  "amount": 157968.75
+ },
+ {
+  "vendor": "Sam's Club",
+  "amount": 140673.47
+ },
+ {
+  "vendor": "Burroughs Diesel Inc",
+  "amount": 133000.64
+ },
+ {
+  "vendor": "Msba Workers' Compensation Trust",
+  "amount": 113627
+ },
+ {
+  "vendor": "Tupelo Aluminum Products",
+  "amount": 97167
+ },
+ {
+  "vendor": "Robert J Young Company",
+  "amount": 94649.6
+ },
+ {
+  "vendor": "Bank Of America N A",
+  "amount": 94332.23
+ },
+ {
+  "vendor": "Waters Truck & Tractor Company Inc",
+  "amount": 93311.85
+ },
+ {
+  "vendor": "Amazon Capital Services Inc",
+  "amount": 81155.88
+ },
+ {
+  "vendor": "S H O T S",
+  "amount": 76957.88
+ },
+ {
+  "vendor": "Lann Chemical And Supply Co",
+  "amount": 76680.86
+ },
+ {
+  "vendor": "Msba Casualty Trust",
+  "amount": 75513
+ },
+ {
+  "vendor": "Burton Builders Inc",
+  "amount": 75363.02
+ },
+ {
+  "vendor": "Bottling Group Llc",
+  "amount": 70924.94
+ },
+ {
+  "vendor": "City Of Iuka Utilities",
+  "amount": 70259.48
+ },
+ {
+  "vendor": "Bsn Sports Llc",
+  "amount": 66280.35
+ },
+ {
+  "vendor": "Cockrell Banana Company",
+  "amount": 65179.12
+ },
+ {
+  "vendor": "Educational Materials Specialists Inc",
+  "amount": 64298.5
+ },
+ {
+  "vendor": "Waste Connections Of Mississippi",
+  "amount": 58394.54
+ },
+ {
+  "vendor": "Golden Circle Southeast Auto Direct Llc",
+  "amount": 56854
+ },
+ {
+  "vendor": "Comfort Systems",
+  "amount": 53722.06
+ },
+ {
+  "vendor": "Em Contingency Group Llc",
+  "amount": 53571.45
+ },
+ {
+  "vendor": "Town Of Belmont",
+  "amount": 53371.98
+ },
+ {
+  "vendor": "Pryor Morrow Pc",
+  "amount": 48154.32
+ },
+ {
+  "vendor": "The Charlie Cart Project",
+  "amount": 45000
+ },
+ {
+  "vendor": "Fuelman",
+  "amount": 42932.17
+ },
+ {
+  "vendor": "Buse Education Services Llc",
+  "amount": 41850
+ },
+ {
+  "vendor": "Tishomingo Health Services Inc",
+  "amount": 41824.75
+ },
+ {
+  "vendor": "Millcreek Of Pontotoc",
+  "amount": 41654
+ },
+ {
+  "vendor": "Town Of Tishomingo Utilities",
+  "amount": 40418.23
+ },
+ {
+  "vendor": "Barnes Crossing Auto",
+  "amount": 39232
+ },
+ {
+  "vendor": "Newell Paper Company",
+  "amount": 38432.25
+ },
+ {
+  "vendor": "Wal-Mart C/O",
+  "amount": 38156.73
+ },
+ {
+  "vendor": "Southside Auto Sales Inc",
+  "amount": 37590
+ },
+ {
+  "vendor": "Phillips Joshua C",
+  "amount": 37500
+ },
+ {
+  "vendor": "King Therapies",
+  "amount": 34632.94
+ },
+ {
+  "vendor": "Unifirst Corporation",
+  "amount": 33171.95
+ },
+ {
+  "vendor": "Courage Technologies Inc",
+  "amount": 33014
+ },
+ {
+  "vendor": "One Beat Cpr Learning Center Llc",
+  "amount": 31805
+ },
+ {
+  "vendor": "Gym Service And Installation Co Inc",
+  "amount": 29828
+ },
+ {
+  "vendor": "Burnsville Gas Company",
+  "amount": 29037.49
+ },
+ {
+  "vendor": "Renaissance Learning Inc",
+  "amount": 28856.3
+ },
+ {
+  "vendor": "Central Access Corporation",
+  "amount": 28247.5
+ },
+ {
+  "vendor": "C & W Educational Development Inc",
+  "amount": 28107.25
+ },
+ {
+  "vendor": "Cdw Government",
+  "amount": 27815.71
+ },
+ {
+  "vendor": "Ford Of Corinth Llc",
+  "amount": 27000
+ },
+ {
+  "vendor": "Houghton Mifflin Harcourt Publishing Co",
+  "amount": 26045.89
+ },
+ {
+  "vendor": "School Status Llc",
+  "amount": 25953.2
+ },
+ {
+  "vendor": "A & W Contractors Llc",
+  "amount": 25500
+ },
+ {
+  "vendor": "Bell Life Safely Llc",
+  "amount": 25483
+ },
+ {
+  "vendor": "Scholastic Book Fairs - 639849",
+  "amount": 23823.22
+ },
+ {
+  "vendor": "Gatekeeper Systems Usa Inc",
+  "amount": 23613.25
+ },
+ {
+  "vendor": "Central Restaurant Products",
+  "amount": 23361.83
+ },
+ {
+  "vendor": "Northcutt Fundraising Llc",
+  "amount": 22493.2
+ },
+ {
+  "vendor": "Walker Switch Water Assoc",
+  "amount": 21725.5
+ },
+ {
+  "vendor": "Universal Cheerleaders Association",
+  "amount": 21351
+ },
+ {
+  "vendor": "Secure Alarms Of Amory Llc",
+  "amount": 21325
+ },
+ {
+  "vendor": "Riddell/All American Sports Corp",
+  "amount": 20785.3
+ },
+ {
+  "vendor": "Wooten Construction Llc",
+  "amount": 20010
+ },
+ {
+  "vendor": "Cintas Corporation #241",
+  "amount": 19651.72
+ },
+ {
+  "vendor": "At&T - Atlanta",
+  "amount": 19462.58
+ },
+ {
+  "vendor": "Tull Bros Glass Company",
+  "amount": 19210.5
+ },
+ {
+  "vendor": "Josten's Inc",
+  "amount": 18418.44
+ },
+ {
+  "vendor": "Specialty Contractors",
+  "amount": 18400
+ },
+ {
+  "vendor": "Varsity Spirit Fashions & Supplies Llc",
+  "amount": 17549.72
+ },
+ {
+  "vendor": "Taylor Publishing Company",
+  "amount": 17489.61
+ },
+ {
+  "vendor": "Mhsaa",
+  "amount": 17170
+ },
+ {
+  "vendor": "Fairless Hardware",
+  "amount": 16878.88
+ },
+ {
+  "vendor": "C Spire",
+  "amount": 16274.64
+ },
+ {
+  "vendor": "Instructure Inc",
+  "amount": 16063.2
+ },
+ {
+  "vendor": "Heartland Payment Systems Llc",
+  "amount": 15945.5
+ },
+ {
+  "vendor": "Ixl Learning Inc",
+  "amount": 15901
+ },
+ {
+  "vendor": "Copeland Misty",
+  "amount": 15485
+ },
+ {
+  "vendor": "Sew Personal/The Embroidery Shop",
+  "amount": 15386.3
+ },
+ {
+  "vendor": "Edible Education Llc",
+  "amount": 15331.65
+ },
+ {
+  "vendor": "Clark Law Firm",
+  "amount": 15000
+ },
+ {
+  "vendor": "Patterson Farm & Dirt Work Llc",
+  "amount": 14495
+ },
+ {
+  "vendor": "Hudl",
+  "amount": 14298
+ },
+ {
+  "vendor": "At & T",
+  "amount": 13708.13
+ },
+ {
+  "vendor": "Abigail Vance",
+  "amount": 13599.02
+ },
+ {
+  "vendor": "School's In Llc",
+  "amount": 13334.44
+ },
+ {
+  "vendor": "Lowe's",
+  "amount": 13236.78
+ },
+ {
+  "vendor": "Sports Specialty",
+  "amount": 13114.85
+ },
+ {
+  "vendor": "Piggly Wiggly-Ace Hardware Iuka",
+  "amount": 12946.96
+ },
+ {
+  "vendor": "Whitaker Todd",
+  "amount": 12800
+ },
+ {
+  "vendor": "Remind101 Inc",
+  "amount": 12478.52
+ },
+ {
+  "vendor": "Inspirations For Women",
+  "amount": 12271.75
+ },
+ {
+  "vendor": "Accelerate Learning Inc",
+  "amount": 12146.93
+ },
+ {
+  "vendor": "Wal-Mart",
+  "amount": 12039.37
+ },
+ {
+  "vendor": "Alcorn Builders Supply Co",
+  "amount": 12006.99
+ },
+ {
+  "vendor": "Ferrell's Home And Outdoor",
+  "amount": 11874.16
+ },
+ {
+  "vendor": "All American Inc - Memphis",
+  "amount": 11628.61
+ },
+ {
+  "vendor": "Mason Wayne Smith",
+  "amount": 11628
+ },
+ {
+  "vendor": "Davis Paper And Chemical Llc",
+  "amount": 11576.63
+ },
+ {
+  "vendor": "Corinth School District",
+  "amount": 11501.5
+ },
+ {
+  "vendor": "Southern Pipe And Supply Co",
+  "amount": 11418.41
+ },
+ {
+  "vendor": "Volli Communications",
+  "amount": 11335.22
+ },
+ {
+  "vendor": "American Aed Llc",
+  "amount": 11298
+ },
+ {
+  "vendor": "Scholastic Products & Awards",
+  "amount": 11126
+ },
+ {
+  "vendor": "Tishomingo Co Schools Dm",
+  "amount": 11102.99
+ },
+ {
+  "vendor": "Frontier Communications",
+  "amount": 10983.19
+ },
+ {
+  "vendor": "Progress Learning Llc",
+  "amount": 10400
+ },
+ {
+  "vendor": "Robertson's Sportswear",
+  "amount": 10383.35
+ },
+ {
+  "vendor": "Struthers Recreation Llc",
+  "amount": 10354.58
+ },
+ {
+  "vendor": "Willygoat Llc",
+  "amount": 10094.5
+ },
+ {
+  "vendor": "Burnsville Discount Carpets",
+  "amount": 10084.82
+ },
+ {
+  "vendor": "Cypress Instruments Of Louisiana",
+  "amount": 10051
+ },
+ {
+  "vendor": "Active Internet Technologies Llc",
+  "amount": 9930
+ },
+ {
+  "vendor": "Simmons Tire Company",
+  "amount": 9671.7
+ },
+ {
+  "vendor": "Whitaker Cleaning Service",
+  "amount": 9580.08
+ },
+ {
+  "vendor": "Wsn",
+  "amount": 9500
+ },
+ {
+  "vendor": "Stor-Mor Portable Buildings Llc",
+  "amount": 9358.95
+ },
+ {
+  "vendor": "Ms School Boards Assn",
+  "amount": 9150
+ },
+ {
+  "vendor": "Act",
+  "amount": 9118
+ },
+ {
+  "vendor": "Ip Casino And Resort",
+  "amount": 9063.54
+ },
+ {
+  "vendor": "Piggly Wiggly - Ace Hardware-Bel",
+  "amount": 9020.94
+ },
+ {
+  "vendor": "Heavener's Lawn Service-Burnsville Elem",
+  "amount": 9000
+ },
+ {
+  "vendor": "Textbook Warehouse Llc",
+  "amount": 8746.75
+ },
+ {
+  "vendor": "Ross Shirt Shopllc",
+  "amount": 8663
+ },
+ {
+  "vendor": "Sids Trading Company Llc",
+  "amount": 8499.09
+ },
+ {
+  "vendor": "Rex Team Sports",
+  "amount": 8491.9
+ },
+ {
+  "vendor": "Mass Ms Assn School Supts",
+  "amount": 8350
+ },
+ {
+  "vendor": "Waring Oil Company Llc",
+  "amount": 8170.24
+ },
+ {
+  "vendor": "Alvarez-Calderon Claudio F",
+  "amount": 8000
+ },
+ {
+  "vendor": "Ena Services Llc",
+  "amount": 7999.04
+ },
+ {
+  "vendor": "Mississippi Fbla",
+  "amount": 7977.2
+ },
+ {
+  "vendor": "Imagine Learning Llc",
+  "amount": 7950
+ },
+ {
+  "vendor": "Gold Bond Pest Control",
+  "amount": 7865
+ },
+ {
+  "vendor": "Gulf States Distributors Inc",
+  "amount": 7593
+ },
+ {
+  "vendor": "Logista",
+  "amount": 7588
+ },
+ {
+  "vendor": "Ion Wave Technologies Inc",
+  "amount": 7490
+ },
+ {
+  "vendor": "Triton Performance Apparel Llc",
+  "amount": 7489.96
+ },
+ {
+  "vendor": "Lambert's Hardware",
+  "amount": 7473.35
+ },
+ {
+  "vendor": "Electro Mech Scoreboard Company",
+  "amount": 7456
+ },
+ {
+  "vendor": "Top Notch Building Llc",
+  "amount": 7380
+ },
+ {
+  "vendor": "Nesco Electrical Distributors",
+  "amount": 7356.75
+ },
+ {
+  "vendor": "Taylor John-Grady",
+  "amount": 7350.53
+ },
+ {
+  "vendor": "Rogers Athletic Company",
+  "amount": 7275
+ },
+ {
+  "vendor": "Incident Iq Llc",
+  "amount": 7187.07
+ },
+ {
+  "vendor": "College Board",
+  "amount": 7186.2
+ },
+ {
+  "vendor": "Horizon Sales",
+  "amount": 7036.47
+ },
+ {
+  "vendor": "North Ms Fence Company",
+  "amount": 7020
+ },
+ {
+  "vendor": "Wittichen Supply Company",
+  "amount": 6868.58
+ },
+ {
+  "vendor": "Mattox Services",
+  "amount": 6857.82
+ },
+ {
+  "vendor": "Lauderdale Mechanical Group Inc",
+  "amount": 6800
+ },
+ {
+  "vendor": "Custom Graphics",
+  "amount": 6798
+ },
+ {
+  "vendor": "Moore's Automotive Supplies",
+  "amount": 6774.74
+ },
+ {
+  "vendor": "Heavener's Lawn Service - Iuka Middle Sc",
+  "amount": 6750
+ },
+ {
+  "vendor": "Integrated Communications",
+  "amount": 6684
+ },
+ {
+  "vendor": "Ally Automotive Group",
+  "amount": 6600
+ },
+ {
+  "vendor": "Redmont Heating And Cooling Inc",
+  "amount": 6500
+ },
+ {
+  "vendor": "Southern Heritage",
+  "amount": 6491.5
+ },
+ {
+  "vendor": "Brown Malcolm",
+  "amount": 6365
+ },
+ {
+  "vendor": "Stone Anthony",
+  "amount": 6365
+ },
+ {
+  "vendor": "Harwell Parts And Supply Co",
+  "amount": 6322.26
+ },
+ {
+  "vendor": "Pioneer Manufacturing Company",
+  "amount": 6300.47
+ },
+ {
+  "vendor": "Frazier Donald S",
+  "amount": 6300
+ },
+ {
+  "vendor": "The Island By Hotel Rl",
+  "amount": 6279
+ },
+ {
+  "vendor": "Cornerstone Ins & Financial Inc",
+  "amount": 6251
+ },
+ {
+  "vendor": "Memphis Net And Twine Co Inc",
+  "amount": 6070.74
+ },
+ {
+  "vendor": "Hotel & Restaurant Supply",
+  "amount": 6046.39
+ },
+ {
+  "vendor": "Tishomingo County Schools",
+  "amount": 6022.97
+ },
+ {
+  "vendor": "Oakland Baptist Church",
+  "amount": 6000
+ },
+ {
+  "vendor": "School Outfitters",
+  "amount": 5920.12
+ },
+ {
+  "vendor": "Krispy Kreme",
+  "amount": 5903.25
+ },
+ {
+  "vendor": "This And That Cooking & Catering Llc",
+  "amount": 5869
+ },
+ {
+  "vendor": "Tennessee Book Company",
+  "amount": 5794
+ },
+ {
+  "vendor": "Emergency Wear Inc",
+  "amount": 5716.67
+ },
+ {
+  "vendor": "Ole Country Store",
+  "amount": 5691.36
+ },
+ {
+  "vendor": "Heavener's Lawn Service - Iuka Elementar",
+  "amount": 5625
+ },
+ {
+  "vendor": "Robinson Melanie Beth",
+  "amount": 5554.61
+ },
+ {
+  "vendor": "Fairfield Inn - Pearl",
+  "amount": 5450
+ },
+ {
+  "vendor": "Book Systems Inc",
+  "amount": 5450
+ },
+ {
+  "vendor": "Nunley Trucking Company Inc",
+  "amount": 5430
+ },
+ {
+  "vendor": "Enrichment Plus Llc",
+  "amount": 5392.06
+ },
+ {
+  "vendor": "Environmental Evaluation And",
+  "amount": 5325
+ },
+ {
+  "vendor": "Smith Jeremy (Southcoast Music)",
+  "amount": 5250
+ },
+ {
+  "vendor": "Creative Product Sourcing Inc",
+  "amount": 5192.36
+ },
+ {
+  "vendor": "Turnitin Llc",
+  "amount": 5150
+ },
+ {
+  "vendor": "Office Furniture Warehouse Inc",
+  "amount": 5128.3
+ },
+ {
+  "vendor": "Sunflower #9014",
+  "amount": 5108.26
+ },
+ {
+  "vendor": "Pocket Nurse Enterprises Inc",
+  "amount": 5073.91
+ },
+ {
+  "vendor": "Austin L Taylor",
+  "amount": 5061.5
+ },
+ {
+  "vendor": "Rigg's Gym Floors Llc",
+  "amount": 5050
+ },
+ {
+  "vendor": "Fireguard",
+  "amount": 5002.5
+ },
+ {
+  "vendor": "Certified Restraint Training",
+  "amount": 5000
+ },
+ {
+  "vendor": "Circle Block Partners Llc",
+  "amount": 4995.58
+ },
+ {
+  "vendor": "Cev Multimedia Ltd",
+  "amount": 4995
+ },
+ {
+  "vendor": "Funderburk Micah K",
+  "amount": 4977.04
+ },
+ {
+  "vendor": "Morgan Hall",
+  "amount": 4975
+ },
+ {
+  "vendor": "Purchase Power",
+  "amount": 4966.77
+ },
+ {
+  "vendor": "Lesley's Floor Designs",
+  "amount": 4964.51
+ },
+ {
+  "vendor": "Tishomingo Connect",
+  "amount": 4928.38
+ },
+ {
+  "vendor": "Mainstage Theatrical Supply Inc",
+  "amount": 4925
+ },
+ {
+  "vendor": "United Rentals",
+  "amount": 4916.64
+ },
+ {
+  "vendor": "Amro Music Stores Inc",
+  "amount": 4898
+ },
+ {
+  "vendor": "Wal-Mart Community - B'ville",
+  "amount": 4873.25
+ },
+ {
+  "vendor": "Epic Sports Inc",
+  "amount": 4819.26
+ },
+ {
+  "vendor": "B & B Concrete Inc",
+  "amount": 4681.55
+ },
+ {
+  "vendor": "Big Star",
+  "amount": 4665.39
+ },
+ {
+  "vendor": "Wal-Mart Community - Tchs",
+  "amount": 4656.53
+ },
+ {
+  "vendor": "Varsity Scoreboards",
+  "amount": 4625
+ },
+ {
+  "vendor": "Ballcorps Llc",
+  "amount": 4512
+ },
+ {
+  "vendor": "Smith And Sons",
+  "amount": 4440
+ },
+ {
+  "vendor": "Sheffield Mary Beth N",
+  "amount": 4418.8
+ },
+ {
+  "vendor": "Pickering Firm Inc",
+  "amount": 4400
+ },
+ {
+  "vendor": "Inspirit Group Llc",
+  "amount": 4291.2
+ },
+ {
+  "vendor": "Lowe's - Tchs",
+  "amount": 4260.31
+ },
+ {
+  "vendor": "Educational Furniture Llc",
+  "amount": 4178.74
+ },
+ {
+  "vendor": "M & W Sales Inc",
+  "amount": 4098.5
+ },
+ {
+  "vendor": "Athletic Gear",
+  "amount": 4098.25
+ },
+ {
+  "vendor": "Msc Industrial Supply Co Inc",
+  "amount": 4083.32
+ },
+ {
+  "vendor": "Risk Service Leavitt Insurance Agency",
+  "amount": 4063.2
+ },
+ {
+  "vendor": "Redmont Recreation Club",
+  "amount": 4062.74
+ },
+ {
+  "vendor": "Top Golf Usa Inc",
+  "amount": 4020
+ },
+ {
+  "vendor": "Lakeshirts Zephyr Llc",
+  "amount": 4009.05
+ },
+ {
+  "vendor": "Gumdrop Books",
+  "amount": 3895.89
+ },
+ {
+  "vendor": "Performance Based Education Co Inc",
+  "amount": 3850
+ },
+ {
+  "vendor": "Vego Garden Inc",
+  "amount": 3832.27
+ },
+ {
+  "vendor": "Dickerson Industrial Services Llc",
+  "amount": 3750
+ },
+ {
+  "vendor": "Scrubs Elite",
+  "amount": 3735.73
+ },
+ {
+  "vendor": "The Elson Company",
+  "amount": 3720
+ },
+ {
+  "vendor": "Interior Elements Llc",
+  "amount": 3718.75
+ },
+ {
+  "vendor": "Bound To Stay Bound Books Inc",
+  "amount": 3645.87
+ },
+ {
+  "vendor": "Nearpod / Flocabulary Com",
+  "amount": 3600
+ },
+ {
+  "vendor": "Scruggs Farm Lawn & Garden Llc",
+  "amount": 3596.73
+ },
+ {
+  "vendor": "Timbes Tire And Exhaust",
+  "amount": 3578.41
+ },
+ {
+  "vendor": "Ms State Department Of Health",
+  "amount": 3570
+ },
+ {
+  "vendor": "Nunley Clifton D",
+  "amount": 3529.67
+ },
+ {
+  "vendor": "John Mark Johnson",
+  "amount": 3528
+ },
+ {
+  "vendor": "Deaf Blind Instructional Services",
+  "amount": 3510
+ },
+ {
+  "vendor": "Steepleton Tire Company",
+  "amount": 3467.14
+ },
+ {
+  "vendor": "The Outdoor Shop",
+  "amount": 3459.2
+ },
+ {
+  "vendor": "State Treasurer Fund 3379000000 Ag: 1711",
+  "amount": 3392
+ },
+ {
+  "vendor": "Riverside Insights",
+  "amount": 3390.75
+ },
+ {
+  "vendor": "Metalcraft Inc",
+  "amount": 3362.83
+ },
+ {
+  "vendor": "American Paper & Twine Company",
+  "amount": 3355.19
+ },
+ {
+  "vendor": "Perma Bound Books",
+  "amount": 3300.87
+ },
+ {
+  "vendor": "Explorelearning",
+  "amount": 3295
+ },
+ {
+  "vendor": "Mackin Educational Resources",
+  "amount": 3285.6
+ },
+ {
+  "vendor": "Holiday Inn Express & Suites - Pearl",
+  "amount": 3248
+ },
+ {
+  "vendor": "Midsouth Container Sales And Rentals Ll",
+  "amount": 3100
+ },
+ {
+  "vendor": "Nagc",
+  "amount": 3095
+ },
+ {
+  "vendor": "Morris Crum Tire",
+  "amount": 3061.64
+ },
+ {
+  "vendor": "Xenith Llc",
+  "amount": 3051
+ },
+ {
+  "vendor": "Respondus",
+  "amount": 2995
+ },
+ {
+  "vendor": "Dell Marketing Lp",
+  "amount": 2992.28
+ },
+ {
+  "vendor": "Dennis Water Association",
+  "amount": 2952.3
+ },
+ {
+  "vendor": "Mississippi Band Of Choctaw Indians",
+  "amount": 2942.67
+ },
+ {
+  "vendor": "Christian Kropf Fundraising Llc",
+  "amount": 2928
+ },
+ {
+  "vendor": "Carolina Biological Supply Co",
+  "amount": 2925.74
+ },
+ {
+  "vendor": "National Beta Club",
+  "amount": 2917
+ },
+ {
+  "vendor": "Tigrett Steel & Supply Inc",
+  "amount": 2898
+ },
+ {
+  "vendor": "Strickland Sign & Design",
+  "amount": 2885.23
+ },
+ {
+  "vendor": "Crane Katie C",
+  "amount": 2880.48
+ },
+ {
+  "vendor": "Young Welding Supply",
+  "amount": 2864.21
+ },
+ {
+  "vendor": "Mac",
+  "amount": 2815
+ },
+ {
+  "vendor": "U Dig It Rentals Llc",
+  "amount": 2800
+ },
+ {
+  "vendor": "Point A Technologies Inc",
+  "amount": 2790
+ },
+ {
+  "vendor": "Riggs Mike",
+  "amount": 2775
+ },
+ {
+  "vendor": "9095-5451 Qc Inc Justfundraising",
+  "amount": 2760
+ },
+ {
+  "vendor": "Sherwin Williams",
+  "amount": 2759.2
+ },
+ {
+  "vendor": "Turner Charles",
+  "amount": 2750
+ },
+ {
+  "vendor": "Laxmi Vicksburg Llc",
+  "amount": 2688.5
+ },
+ {
+  "vendor": "Isbell's Pumpkin Farm Llc",
+  "amount": 2683
+ },
+ {
+  "vendor": "Holly Christie L",
+  "amount": 2676.59
+ },
+ {
+  "vendor": "Masa",
+  "amount": 2675
+ },
+ {
+  "vendor": "Inter-State Studio & Publishing Co",
+  "amount": 2624.77
+ },
+ {
+  "vendor": "Phillips Carleta T",
+  "amount": 2622
+ },
+ {
+  "vendor": "Chawla Points Llc",
+  "amount": 2618
+ },
+ {
+  "vendor": "Williams Pest Control",
+  "amount": 2600
+ },
+ {
+  "vendor": "Rainey Electronics Inc",
+  "amount": 2565
+ },
+ {
+  "vendor": "Alexander Stephen D",
+  "amount": 2556
+ },
+ {
+  "vendor": "Wooten Emily J",
+  "amount": 2556
+ },
+ {
+  "vendor": "Richardson Athletics",
+  "amount": 2554.32
+ },
+ {
+  "vendor": "The Sign Guy Of Corinth",
+  "amount": 2507.03
+ },
+ {
+  "vendor": "Research And Curriculum Unit",
+  "amount": 2500
+ },
+ {
+  "vendor": "The Original Power Team Inc",
+  "amount": 2500
+ },
+ {
+  "vendor": "Sysco Corporation",
+  "amount": 2483.13
+ },
+ {
+  "vendor": "Athens Paper Company Inc",
+  "amount": 2481.55
+ },
+ {
+  "vendor": "Benny W Brasel/Bounce E Bounce",
+  "amount": 2480
+ },
+ {
+  "vendor": "Coulter Ventures Llc",
+  "amount": 2464.63
+ },
+ {
+  "vendor": "Fondren Hospitality Llc",
+  "amount": 2460
+ },
+ {
+  "vendor": "Alabama Music",
+  "amount": 2453.28
+ },
+ {
+  "vendor": "Abdo Publishing",
+  "amount": 2444.6
+ },
+ {
+  "vendor": "Alcorn County Cooperative",
+  "amount": 2415.72
+ },
+ {
+  "vendor": "Brooks Grocery",
+  "amount": 2378.7
+ },
+ {
+  "vendor": "Quill Corp",
+  "amount": 2355.89
+ },
+ {
+  "vendor": "Skeeter Kell Sporting Goods Inc",
+  "amount": 2352
+ },
+ {
+  "vendor": "Crossroads Arena",
+  "amount": 2350
+ },
+ {
+  "vendor": "Spoon Sabrina G",
+  "amount": 2338.68
+ },
+ {
+  "vendor": "Wood Sales Company",
+  "amount": 2332.3
+ },
+ {
+  "vendor": "Apple Inc - Purchase Order Repair",
+  "amount": 2328.95
+ },
+ {
+  "vendor": "Mea Drug Testing - Tupelo",
+  "amount": 2326
+ },
+ {
+  "vendor": "Tupelo Buffalo Park",
+  "amount": 2309
+ },
+ {
+  "vendor": "Pyramid Concrete Pumping Llc",
+  "amount": 2308.05
+ },
+ {
+  "vendor": "Wilmeth Richard Kelly",
+  "amount": 2282.1
+ },
+ {
+  "vendor": "Hampton Inn - Flowood - 115 Hospitality",
+  "amount": 2281
+ },
+ {
+  "vendor": "Titan Support Systems Inc",
+  "amount": 2255
+ },
+ {
+  "vendor": "Uca Summer Camps",
+  "amount": 2252
+ },
+ {
+  "vendor": "Jones Jonathan D",
+  "amount": 2242.24
+ },
+ {
+  "vendor": "Jackson Communications Inc",
+  "amount": 2225.8
+ },
+ {
+  "vendor": "Tsdm Ventures Inc",
+  "amount": 2224
+ },
+ {
+  "vendor": "Best Way Inc",
+  "amount": 2207.72
+ },
+ {
+  "vendor": "Henderson Melissa A",
+  "amount": 2206.32
+ },
+ {
+  "vendor": "Tenn Dept Of Environment & Conservation",
+  "amount": 2195
+ },
+ {
+  "vendor": "Pritchard Timothy M",
+  "amount": 2188.98
+ },
+ {
+  "vendor": "Brown-Line Printing Inc",
+  "amount": 2147
+ },
+ {
+  "vendor": "Finley's Trophy Shop",
+  "amount": 2146.75
+ },
+ {
+  "vendor": "Tishomingo County Schools Cafe",
+  "amount": 2135.37
+ },
+ {
+  "vendor": "National School Forms",
+  "amount": 2128.08
+ },
+ {
+  "vendor": "Team Fitz Graphics Llc",
+  "amount": 2110
+ },
+ {
+  "vendor": "Gardner James William",
+  "amount": 2108
+ },
+ {
+  "vendor": "The Sparks Cpa Firm P C",
+  "amount": 2105
+ },
+ {
+  "vendor": "Brandon Missy",
+  "amount": 2102
+ },
+ {
+  "vendor": "Mcduffy Nacole",
+  "amount": 2100.51
+ },
+ {
+  "vendor": "Young Law Group Pllc",
+  "amount": 2100
+ },
+ {
+  "vendor": "Thinkmap Inc /Vocabulary Com",
+  "amount": 2050
+ },
+ {
+  "vendor": "Martyville Quick Mart",
+  "amount": 2048.32
+ },
+ {
+  "vendor": "Theatrical Rights Worldwide",
+  "amount": 2025
+ },
+ {
+  "vendor": "Scholastic Classroom Magazine",
+  "amount": 2009
+ },
+ {
+  "vendor": "Play Versus Inc",
+  "amount": 2000.16
+ },
+ {
+  "vendor": "Daniel C Bontempo",
+  "amount": 1973.06
+ },
+ {
+  "vendor": "Pumpkin Patch Farms",
+  "amount": 1968
+ },
+ {
+  "vendor": "Middleton Brian C",
+  "amount": 1931.04
+ },
+ {
+  "vendor": "Band Shoppe",
+  "amount": 1922.2
+ },
+ {
+  "vendor": "Rogers Electrical & Gas Plumbing",
+  "amount": 1904
+ },
+ {
+  "vendor": "Edpuzzle Inc",
+  "amount": 1900
+ },
+ {
+  "vendor": "Miller Abby E",
+  "amount": 1900
+ },
+ {
+  "vendor": "Tishomingo County News",
+  "amount": 1877.68
+ },
+ {
+  "vendor": "Hampton Inn & Suites Jackson Coliseum",
+  "amount": 1870
+ },
+ {
+  "vendor": "O'reilly Auto Parts",
+  "amount": 1865.77
+ },
+ {
+  "vendor": "Wal-Mart Community - Belmont",
+  "amount": 1856.18
+ },
+ {
+  "vendor": "High Gear Acquisition",
+  "amount": 1850
+ },
+ {
+  "vendor": "Mcclung Joshua R",
+  "amount": 1848.28
+ },
+ {
+  "vendor": "Rada Manufacturing Company",
+  "amount": 1832.8
+ },
+ {
+  "vendor": "Robinson Jarrad K",
+  "amount": 1822.63
+ },
+ {
+  "vendor": "Ron Clark Academy Inc",
+  "amount": 1800
+ },
+ {
+  "vendor": "Gtm Sportswear/Its Greek To Me",
+  "amount": 1793.72
+ },
+ {
+  "vendor": "Shred-It Usa",
+  "amount": 1785.96
+ },
+ {
+  "vendor": "Fbla-Pbl",
+  "amount": 1764
+ },
+ {
+  "vendor": "Fbla",
+  "amount": 1756
+ },
+ {
+  "vendor": "Beene Freddy",
+  "amount": 1750
+ },
+ {
+  "vendor": "The Escape Room Florence",
+  "amount": 1747.2
+ },
+ {
+  "vendor": "Wal-Mart Community - Ies",
+  "amount": 1738.73
+ },
+ {
+  "vendor": "Mcmillan Janice E",
+  "amount": 1735.77
+ },
+ {
+  "vendor": "Plaza Lanes",
+  "amount": 1720
+ },
+ {
+  "vendor": "Chick-Fil-A",
+  "amount": 1704.02
+ },
+ {
+  "vendor": "Shirts By Shanna",
+  "amount": 1673
+ },
+ {
+  "vendor": "Bailey Education Group Llc",
+  "amount": 1667
+ },
+ {
+  "vendor": "Litania Sports Group Inc",
+  "amount": 1665.88
+ },
+ {
+  "vendor": "Storment Michael Paul",
+  "amount": 1665
+ },
+ {
+  "vendor": "J W Pepper & Son Inc",
+  "amount": 1662.25
+ },
+ {
+  "vendor": "Paper Chase",
+  "amount": 1662.2
+ },
+ {
+  "vendor": "Faronics Technologies Usa Inc",
+  "amount": 1650
+ },
+ {
+  "vendor": "Malco Cinema/Corinth",
+  "amount": 1639
+ },
+ {
+  "vendor": "Nunley Brenton J",
+  "amount": 1633.11
+ },
+ {
+  "vendor": "Demoulin Brothers & Company",
+  "amount": 1632.35
+ },
+ {
+  "vendor": "Bagby",
+  "amount": 1618.16
+ },
+ {
+  "vendor": "Cheer Outfitters",
+  "amount": 1616.42
+ },
+ {
+  "vendor": "Cracker Barrel",
+  "amount": 1614.14
+ },
+ {
+  "vendor": "Mississippi State Treasury #3202",
+  "amount": 1612.87
+ },
+ {
+  "vendor": "Deaton Andy J",
+  "amount": 1595.9
+ },
+ {
+  "vendor": "Nassp",
+  "amount": 1585
+ },
+ {
+  "vendor": "Guth Joshua A",
+  "amount": 1568.26
+ },
+ {
+  "vendor": "Wieser Educational Inc",
+  "amount": 1556.8
+ },
+ {
+  "vendor": "Encore Products",
+  "amount": 1512.65
+ },
+ {
+  "vendor": "Reed's Printing",
+  "amount": 1500
+ },
+ {
+  "vendor": "Lott William Criss",
+  "amount": 1500
+ },
+ {
+  "vendor": "North Mississippi Ed Consortium",
+  "amount": 1500
+ },
+ {
+  "vendor": "Skills Usa Mississippi",
+  "amount": 1500
+ },
+ {
+  "vendor": "Tempest Musical Instruments",
+  "amount": 1495
+ },
+ {
+  "vendor": "Total Mobility Concepts Llc",
+  "amount": 1495
+ },
+ {
+  "vendor": "Meca",
+  "amount": 1485
+ },
+ {
+  "vendor": "Skills Usa",
+  "amount": 1484
+ },
+ {
+  "vendor": "School Specialty Inc - Eps",
+  "amount": 1474.48
+ },
+ {
+  "vendor": "Robby's Custom Exhaust",
+  "amount": 1463
+ },
+ {
+  "vendor": "Gardner Benjamin G",
+  "amount": 1438.52
+ },
+ {
+  "vendor": "Quill - C/O",
+  "amount": 1427.61
+ },
+ {
+  "vendor": "Microtel Inn & Suites",
+  "amount": 1424
+ },
+ {
+  "vendor": "School Specialty Llc",
+  "amount": 1417.89
+ },
+ {
+  "vendor": "Precision Glass Mirror & Door Inc",
+  "amount": 1415
+ },
+ {
+  "vendor": "Balfour",
+  "amount": 1408.95
+ },
+ {
+  "vendor": "Daniel Emily Jill",
+  "amount": 1404.18
+ },
+ {
+  "vendor": "Double Tree By Hilton",
+  "amount": 1395.18
+ },
+ {
+  "vendor": "Ratliff Cabinet Shop",
+  "amount": 1385
+ },
+ {
+  "vendor": "Presentation Solutions Inc",
+  "amount": 1365.85
+ },
+ {
+  "vendor": "Pitney Bowes Global Financial Services",
+  "amount": 1365.46
+ },
+ {
+  "vendor": "Arkansas School Boards Association",
+  "amount": 1360
+ },
+ {
+  "vendor": "Hampton Inn - Jackson/Flowood",
+  "amount": 1352
+ },
+ {
+  "vendor": "Glover Dax T",
+  "amount": 1348.62
+ },
+ {
+  "vendor": "Wright Forrest",
+  "amount": 1332.24
+ },
+ {
+  "vendor": "Willow Lane Wrecker Service",
+  "amount": 1326.62
+ },
+ {
+  "vendor": "Howard Computers",
+  "amount": 1284
+ },
+ {
+  "vendor": "Barron's Creek Jerky Company",
+  "amount": 1275
+ },
+ {
+  "vendor": "Shipman Hunter",
+  "amount": 1270
+ },
+ {
+  "vendor": "Ms Employment Security Comm Mdes",
+  "amount": 1269.06
+ },
+ {
+  "vendor": "Home Town Pizza - Belmont",
+  "amount": 1263.81
+ },
+ {
+  "vendor": "Sutherland Sight And Sound",
+  "amount": 1250
+ },
+ {
+  "vendor": "Robertson Noah",
+  "amount": 1242.6
+ },
+ {
+  "vendor": "Smc Recycling Inc",
+  "amount": 1225
+ },
+ {
+  "vendor": "Volleyball Usa Com",
+  "amount": 1210.08
+ },
+ {
+  "vendor": "East Union High School",
+  "amount": 1200
+ },
+ {
+  "vendor": "Infosec Institute Inc",
+  "amount": 1200
+ },
+ {
+  "vendor": "World's Finest Chocolate Inc",
+  "amount": 1200
+ },
+ {
+  "vendor": "Msba - Attn: Psla",
+  "amount": 1200
+ },
+ {
+  "vendor": "Kaplan Early Learning Company",
+  "amount": 1198.3
+ },
+ {
+  "vendor": "Elevator Safety Inspection Services Inc",
+  "amount": 1190
+ },
+ {
+  "vendor": "Wolseley Industrial Group 2649",
+  "amount": 1172.46
+ },
+ {
+  "vendor": "Lee's Sporting Goods Inc",
+  "amount": 1165.5
+ },
+ {
+  "vendor": "Winners Circle Inc",
+  "amount": 1165
+ },
+ {
+  "vendor": "Kmbh Llc - Courtyard By Marriott",
+  "amount": 1160
+ },
+ {
+  "vendor": "Burnsville Tire Llc",
+  "amount": 1154.71
+ },
+ {
+  "vendor": "Robertson Joel H",
+  "amount": 1153.53
+ },
+ {
+  "vendor": "Chawla Development Inc",
+  "amount": 1152
+ },
+ {
+  "vendor": "Jones School Supply Company",
+  "amount": 1144.09
+ },
+ {
+  "vendor": "Nemcc- Chrystal White",
+  "amount": 1140
+ },
+ {
+  "vendor": "Engineering Services & Products Company",
+  "amount": 1139.87
+ },
+ {
+  "vendor": "Titan Manufacturing & Distributing Inc",
+  "amount": 1134.39
+ },
+ {
+  "vendor": "Magcor Industries",
+  "amount": 1131
+ },
+ {
+  "vendor": "Bennett Corey",
+  "amount": 1120
+ },
+ {
+  "vendor": "Nimco Inc",
+  "amount": 1116.95
+ },
+ {
+  "vendor": "Sky Zone - Florence Al",
+  "amount": 1103
+ },
+ {
+  "vendor": "Mississippi Band Masters Association",
+  "amount": 1100
+ },
+ {
+  "vendor": "Bc Businesses Inc",
+  "amount": 1096
+ },
+ {
+  "vendor": "Hutchinson Todd",
+  "amount": 1090
+ },
+ {
+  "vendor": "Junior Library Guild",
+  "amount": 1086.3
+ },
+ {
+  "vendor": "Town Of Burnsville Utilities",
+  "amount": 1082.88
+ },
+ {
+  "vendor": "Davis Fernando",
+  "amount": 1080
+ },
+ {
+  "vendor": "Mississippi Ffa Association",
+  "amount": 1075
+ },
+ {
+  "vendor": "Hilton Garden Inn - Jackson/Flowood",
+  "amount": 1071
+ },
+ {
+  "vendor": "Gunn David",
+  "amount": 1050
+ },
+ {
+  "vendor": "Ne Ms Community College",
+  "amount": 1042
+ },
+ {
+  "vendor": "Brand Bill",
+  "amount": 1040
+ },
+ {
+  "vendor": "Core Essential Values",
+  "amount": 1034.51
+ },
+ {
+  "vendor": "English Color And Supply Llc",
+  "amount": 1032.91
+ },
+ {
+  "vendor": "Hutcheson Wade",
+  "amount": 1025
+ },
+ {
+  "vendor": "Belmont Parts Supply",
+  "amount": 1022.97
+ },
+ {
+  "vendor": "Stepp Stacy E",
+  "amount": 1013.2
+ },
+ {
+  "vendor": "Bill Phillips Sand And Gravel Llc",
+  "amount": 1005
+ },
+ {
+  "vendor": "H And G Construction",
+  "amount": 1000
+ },
+ {
+  "vendor": "Spreading Sunshine Inc",
+  "amount": 1000
+ },
+ {
+  "vendor": "Nemcc - Ms Phyllis Coulson",
+  "amount": 990
+ },
+ {
+  "vendor": "Whittington Used Office Furniture",
+  "amount": 986
+ },
+ {
+  "vendor": "National Ffa Organization",
+  "amount": 984
+ },
+ {
+  "vendor": "Polk Tiakakata",
+  "amount": 980
+ },
+ {
+  "vendor": "Ratliff William",
+  "amount": 977.5
+ },
+ {
+  "vendor": "Nissan Of Corinth Llc",
+  "amount": 973.74
+ },
+ {
+  "vendor": "Silver Dollar Sales Inc",
+  "amount": 965
+ },
+ {
+  "vendor": "Hometown Pizza - Iuka",
+  "amount": 958
+ },
+ {
+  "vendor": "Seago Pete",
+  "amount": 955
+ },
+ {
+  "vendor": "Mullins Serah Eden",
+  "amount": 950
+ },
+ {
+  "vendor": "Hardin Tammy",
+  "amount": 950
+ },
+ {
+  "vendor": "Keystone",
+  "amount": 942.13
+ },
+ {
+  "vendor": "Ekon-O-Pac Llc",
+  "amount": 938
+ },
+ {
+  "vendor": "Malco Cinema",
+  "amount": 935
+ },
+ {
+  "vendor": "Nefoa",
+  "amount": 935
+ },
+ {
+  "vendor": "Settlemire Michael",
+  "amount": 935
+ },
+ {
+  "vendor": "Brand Brooks",
+  "amount": 927.5
+ },
+ {
+  "vendor": "Thornton Marlan",
+  "amount": 920
+ },
+ {
+  "vendor": "Bells Of Steel Usa Inc",
+  "amount": 919.98
+ },
+ {
+  "vendor": "Kossuth High School",
+  "amount": 915.45
+ },
+ {
+  "vendor": "Absolute Cleaning & Restoration Llc",
+  "amount": 915
+ },
+ {
+  "vendor": "Robertson Brandon",
+  "amount": 910
+ },
+ {
+  "vendor": "The Mid-South Maze Inc",
+  "amount": 905
+ },
+ {
+  "vendor": "Hometown Pizza - Burnsville",
+  "amount": 903
+ },
+ {
+  "vendor": "Q-1 Proffessional Services",
+  "amount": 900
+ },
+ {
+  "vendor": "Swaine Learning Systems",
+  "amount": 900
+ },
+ {
+  "vendor": "Cherokee High School",
+  "amount": 900
+ },
+ {
+  "vendor": "Ripley High School",
+  "amount": 900
+ },
+ {
+  "vendor": "Senatobia High School",
+  "amount": 887.39
+ },
+ {
+  "vendor": "103 Lauderdale Lodging Llc",
+  "amount": 882
+ },
+ {
+  "vendor": "Wal-Mart Ims",
+  "amount": 881.22
+ },
+ {
+  "vendor": "Community Theatre Inc",
+  "amount": 876
+ },
+ {
+  "vendor": "Just A Kind Word",
+  "amount": 875
+ },
+ {
+  "vendor": "Rowsey Jacky",
+  "amount": 872
+ },
+ {
+  "vendor": "Vick Stephen Lee",
+  "amount": 870.65
+ },
+ {
+  "vendor": "Mafepd",
+  "amount": 870
+ },
+ {
+  "vendor": "Parsons Justin W",
+  "amount": 865.74
+ },
+ {
+  "vendor": "Welch Barry",
+  "amount": 865
+ },
+ {
+  "vendor": "Underwood's Hardware",
+  "amount": 859.88
+ },
+ {
+  "vendor": "Thomas Aundra",
+  "amount": 855
+ },
+ {
+  "vendor": "Degraw Nelda B",
+  "amount": 853.85
+ },
+ {
+  "vendor": "Memphis Zoo",
+  "amount": 850
+ },
+ {
+  "vendor": "Khm Properties Llc",
+  "amount": 848
+ },
+ {
+  "vendor": "King Kars Of Corinth",
+  "amount": 845.5
+ },
+ {
+  "vendor": "William H Sadlier Inc",
+  "amount": 844.35
+ },
+ {
+  "vendor": "Helton Mary Katherine",
+  "amount": 842
+ },
+ {
+  "vendor": "Tresona Multimedia Llc",
+  "amount": 840
+ },
+ {
+  "vendor": "Johnson Samuel \"Casey\"",
+  "amount": 840
+ },
+ {
+  "vendor": "Davis Larry",
+  "amount": 835
+ },
+ {
+  "vendor": "Holiday Inn Express - Pearl",
+  "amount": 827.05
+ },
+ {
+  "vendor": "Lowe's B'ville",
+  "amount": 824.63
+ },
+ {
+  "vendor": "Cole's Smokehouse",
+  "amount": 821.16
+ },
+ {
+  "vendor": "Turner Billy",
+  "amount": 820
+ },
+ {
+  "vendor": "National Archery In The Schools",
+  "amount": 820
+ },
+ {
+  "vendor": "Seaton Jessica P",
+  "amount": 818
+ },
+ {
+  "vendor": "Cain Stephen",
+  "amount": 810
+ },
+ {
+  "vendor": "Perkins James F",
+  "amount": 806.48
+ },
+ {
+  "vendor": "Foster Robert",
+  "amount": 800
+ },
+ {
+  "vendor": "Glover Ben",
+  "amount": 800
+ },
+ {
+  "vendor": "Arrow Printers Inc",
+  "amount": 786.8
+ },
+ {
+  "vendor": "Pilot International Headquarters",
+  "amount": 763.6
+ },
+ {
+  "vendor": "Hester's Equipment Co Llc",
+  "amount": 760
+ },
+ {
+  "vendor": "Beau Rivage Resorts Llc",
+  "amount": 757.8
+ },
+ {
+  "vendor": "Northeast Ms Community College - Nemcc",
+  "amount": 755
+ },
+ {
+  "vendor": "Beene Darrell",
+  "amount": 755
+ },
+ {
+  "vendor": "Mink Dewayne",
+  "amount": 755
+ },
+ {
+  "vendor": "El Picante",
+  "amount": 750.33
+ },
+ {
+  "vendor": "Ms Acte",
+  "amount": 750
+ },
+ {
+  "vendor": "Gold Medal Squared West Inc",
+  "amount": 750
+ },
+ {
+  "vendor": "Mcarthur John E",
+  "amount": 748
+ },
+ {
+  "vendor": "Bandman's Company Inc",
+  "amount": 745.7
+ },
+ {
+  "vendor": "Bryant Phillip",
+  "amount": 740
+ },
+ {
+  "vendor": "Autrey Supply Company",
+  "amount": 739.25
+ },
+ {
+  "vendor": "Davis John",
+  "amount": 730
+ },
+ {
+  "vendor": "Barnes Sherry",
+  "amount": 729.67
+ },
+ {
+  "vendor": "Scripps National Spelling Bee Inc",
+  "amount": 727.5
+ },
+ {
+  "vendor": "M H S A A",
+  "amount": 726.75
+ },
+ {
+  "vendor": "Jackson Darrick",
+  "amount": 725
+ },
+ {
+  "vendor": "Adams Business Center Inc",
+  "amount": 719.8
+ },
+ {
+  "vendor": "Demco",
+  "amount": 711.76
+ },
+ {
+  "vendor": "Glidewell Taylor R",
+  "amount": 708.22
+ },
+ {
+  "vendor": "Beepco Inc",
+  "amount": 708
+ },
+ {
+  "vendor": "Rocfiii Vue Hotel Llc",
+  "amount": 705.06
+ },
+ {
+  "vendor": "Daniel Jeffrey A",
+  "amount": 704.95
+ },
+ {
+  "vendor": "Wooten Anna Brooke",
+  "amount": 704.68
+ },
+ {
+  "vendor": "Mid America Books",
+  "amount": 700.26
+ },
+ {
+  "vendor": "Sartain Quint",
+  "amount": 700
+ },
+ {
+  "vendor": "Cooley Center Hotel Llc",
+  "amount": 699.6
+ },
+ {
+  "vendor": "Kesler Science Llc",
+  "amount": 698
+ },
+ {
+  "vendor": "Sherman Todd",
+  "amount": 695
+ },
+ {
+  "vendor": "Cedar Creek Ridge Farms",
+  "amount": 690
+ },
+ {
+  "vendor": "Ken Jeter Store Equipment",
+  "amount": 688.9
+ },
+ {
+  "vendor": "Reynold's Auto Repair Llc",
+  "amount": 681.89
+ },
+ {
+  "vendor": "Robinson Blake",
+  "amount": 676.4
+ },
+ {
+  "vendor": "Wright Dwight",
+  "amount": 675
+ },
+ {
+  "vendor": "Mullins Gary",
+  "amount": 670
+ },
+ {
+  "vendor": "Taste Buds",
+  "amount": 667.75
+ },
+ {
+  "vendor": "Iuka Tire And Service Center",
+  "amount": 665
+ },
+ {
+  "vendor": "Mitchell Brian",
+  "amount": 660
+ },
+ {
+  "vendor": "Long Blake",
+  "amount": 660
+ },
+ {
+  "vendor": "Quill - Ims",
+  "amount": 658.94
+ },
+ {
+  "vendor": "Tupelo High School Athletic Dept",
+  "amount": 655
+ },
+ {
+  "vendor": "Mississippi State University - Research",
+  "amount": 655
+ },
+ {
+  "vendor": "Thompson Kathy",
+  "amount": 650
+ },
+ {
+  "vendor": "Anglin Perry Brian",
+  "amount": 643.42
+ },
+ {
+  "vendor": "Holiday Inn Express",
+  "amount": 642
+ },
+ {
+  "vendor": "Fairfield Inn And Suites-Jackson Clinton",
+  "amount": 642
+ },
+ {
+  "vendor": "Wade Marty",
+  "amount": 640
+ },
+ {
+  "vendor": "Moore Rodney",
+  "amount": 640
+ },
+ {
+  "vendor": "Cleveland Stephanie M",
+  "amount": 635.57
+ },
+ {
+  "vendor": "Comer Justin",
+  "amount": 630
+ },
+ {
+  "vendor": "Edwards Gary",
+  "amount": 630
+ },
+ {
+  "vendor": "Mcgaughy James",
+  "amount": 630
+ },
+ {
+  "vendor": "Ferguson Plumbing",
+  "amount": 627.27
+ },
+ {
+  "vendor": "Shoot-A-Way",
+  "amount": 625
+ },
+ {
+  "vendor": "Parker Eric",
+  "amount": 625
+ },
+ {
+  "vendor": "Stroupe Chloe Lynn",
+  "amount": 622.19
+ },
+ {
+  "vendor": "Pace Brandon",
+  "amount": 620
+ },
+ {
+  "vendor": "Welch Tre",
+  "amount": 620
+ },
+ {
+  "vendor": "Varner Roderick",
+  "amount": 615
+ },
+ {
+  "vendor": "Riley Rickey",
+  "amount": 610
+ },
+ {
+  "vendor": "Viva La Casita 3 Inc",
+  "amount": 609.63
+ },
+ {
+  "vendor": "Idville",
+  "amount": 606.94
+ },
+ {
+  "vendor": "Purchase Power - Tchs",
+  "amount": 601
+ },
+ {
+  "vendor": "University Managemen Inc",
+  "amount": 600.01
+ },
+ {
+  "vendor": "Heavener's Lawn Service Llc",
+  "amount": 600
+ },
+ {
+  "vendor": "4 Sur Llc",
+  "amount": 600
+ },
+ {
+  "vendor": "Box Out Designs",
+  "amount": 595
+ },
+ {
+  "vendor": "H & H Small Engine Repair",
+  "amount": 594.79
+ },
+ {
+  "vendor": "Shelley Timothy",
+  "amount": 590
+ },
+ {
+  "vendor": "Magnolia Falls",
+  "amount": 588
+ },
+ {
+  "vendor": "Lego Brand Retail Inc",
+  "amount": 587.85
+ },
+ {
+  "vendor": "Rochester 100 Inc",
+  "amount": 587.25
+ },
+ {
+  "vendor": "Dogwoods Golf Course",
+  "amount": 585
+ },
+ {
+  "vendor": "Hampton Inn",
+  "amount": 585
+ },
+ {
+  "vendor": "School Specialty Inc",
+  "amount": 576.5
+ },
+ {
+  "vendor": "Bonds Dana L",
+  "amount": 575.3
+ },
+ {
+  "vendor": "Itawamba Agricultural High Sch",
+  "amount": 575
+ },
+ {
+  "vendor": "Sna Depository",
+  "amount": 569.5
+ },
+ {
+  "vendor": "Us Post Office",
+  "amount": 568
+ },
+ {
+  "vendor": "Calhoun City High School",
+  "amount": 565.95
+ },
+ {
+  "vendor": "Suggs Dwyan",
+  "amount": 565
+ },
+ {
+  "vendor": "Goodyear Tire",
+  "amount": 565
+ },
+ {
+  "vendor": "Hodge Glenn A/H & H Sign Shop",
+  "amount": 564.08
+ },
+ {
+  "vendor": "Ribbons Galore",
+  "amount": 560.77
+ },
+ {
+  "vendor": "Smith Ryan",
+  "amount": 560
+ },
+ {
+  "vendor": "Northeast Ms Community College",
+  "amount": 560
+ },
+ {
+  "vendor": "Lynch Gavin",
+  "amount": 550
+ },
+ {
+  "vendor": "Lynch Garrett",
+  "amount": 550
+ },
+ {
+  "vendor": "Parr Susan C",
+  "amount": 547.89
+ },
+ {
+  "vendor": "Miss High School Act Assoc Inc",
+  "amount": 546
+ },
+ {
+  "vendor": "Madison Ridgeland Academy",
+  "amount": 540
+ },
+ {
+  "vendor": "North Ms Medical Clinics Inc",
+  "amount": 540
+ },
+ {
+  "vendor": "Smith Chrystal",
+  "amount": 537.94
+ },
+ {
+  "vendor": "Robinson Selena F",
+  "amount": 532.95
+ },
+ {
+  "vendor": "Valley Corporation-Bulldog Express Llc",
+  "amount": 530
+ },
+ {
+  "vendor": "Hannah Joy",
+  "amount": 525
+ },
+ {
+  "vendor": "Cms Uniforms And Equipment Inc",
+  "amount": 524.85
+ },
+ {
+  "vendor": "Lamarie's Entertainment",
+  "amount": 521
+ },
+ {
+  "vendor": "Mckay Don",
+  "amount": 520
+ },
+ {
+  "vendor": "City Of New Albany",
+  "amount": 520
+ },
+ {
+  "vendor": "New Albany High School",
+  "amount": 520
+ },
+ {
+  "vendor": "Shiloh Ridge Golf",
+  "amount": 520
+ },
+ {
+  "vendor": "Montgomery Mark",
+  "amount": 520
+ },
+ {
+  "vendor": "Adams And Reese Llp",
+  "amount": 518.5
+ },
+ {
+  "vendor": "Tav 221 Llc",
+  "amount": 516
+ },
+ {
+  "vendor": "Psat-Nmsqt",
+  "amount": 507.6
+ },
+ {
+  "vendor": "Majorclarity",
+  "amount": 500
+ },
+ {
+  "vendor": "Stanford Leigh Ann",
+  "amount": 500
+ },
+ {
+  "vendor": "Harbin Heating And Air Cond I",
+  "amount": 500
+ },
+ {
+  "vendor": "Chess Com Llc / Chesskid",
+  "amount": 500
+ },
+ {
+  "vendor": "Holiday Inn Express Hotel & Suites",
+  "amount": 492
+ },
+ {
+  "vendor": "Lindley Kevin H",
+  "amount": 485
+ },
+ {
+  "vendor": "Rhodes Howard Todd",
+  "amount": 485
+ },
+ {
+  "vendor": "Scholastic Inc 639852",
+  "amount": 484.85
+ },
+ {
+  "vendor": "Jones Emolyn Michele Bishop",
+  "amount": 482.89
+ },
+ {
+  "vendor": "Lynch Adrain M",
+  "amount": 481.16
+ },
+ {
+  "vendor": "Carter Amanda C",
+  "amount": 480.84
+ },
+ {
+  "vendor": "Brick Convention",
+  "amount": 480
+ },
+ {
+  "vendor": "Castleford Llc",
+  "amount": 480
+ },
+ {
+  "vendor": "Goolsby Barry",
+  "amount": 480
+ },
+ {
+  "vendor": "Ward Gene",
+  "amount": 480
+ },
+ {
+  "vendor": "Randolph Christina S",
+  "amount": 476.67
+ },
+ {
+  "vendor": "Hills Chapel School",
+  "amount": 475
+ },
+ {
+  "vendor": "Vina High School",
+  "amount": 475
+ },
+ {
+  "vendor": "Home2suites - Flowood",
+  "amount": 474.3
+ },
+ {
+  "vendor": "Lowe's - Tes",
+  "amount": 470.67
+ },
+ {
+  "vendor": "Galls Llc",
+  "amount": 462.9
+ },
+ {
+  "vendor": "Howard Jason L",
+  "amount": 462.43
+ },
+ {
+  "vendor": "Connell Kevin",
+  "amount": 460
+ },
+ {
+  "vendor": "Hutcheson Shelby L",
+  "amount": 457.35
+ },
+ {
+  "vendor": "Maxi Aids Inc",
+  "amount": 456.75
+ },
+ {
+  "vendor": "Suggs Jr Dwyan",
+  "amount": 455
+ },
+ {
+  "vendor": "Optisigns Inc",
+  "amount": 450
+ },
+ {
+  "vendor": "Walden Robert Earl",
+  "amount": 450
+ },
+ {
+  "vendor": "Northwest Officials Association",
+  "amount": 450
+ },
+ {
+  "vendor": "Eagle Signs Of All Kinds Inc",
+  "amount": 446
+ },
+ {
+  "vendor": "Continued Com Llc",
+  "amount": 445
+ },
+ {
+  "vendor": "Lathrop Matt",
+  "amount": 445
+ },
+ {
+  "vendor": "Orr Laura",
+  "amount": 445
+ },
+ {
+  "vendor": "Porta Phone Company Inc",
+  "amount": 445
+ },
+ {
+  "vendor": "School Nurse Supply Inc",
+  "amount": 443.68
+ },
+ {
+  "vendor": "Pitney Bowes Global Fin Serv Llc - Bel",
+  "amount": 435.87
+ },
+ {
+  "vendor": "Hunt Kerry",
+  "amount": 430
+ },
+ {
+  "vendor": "Theatre Msu",
+  "amount": 430
+ },
+ {
+  "vendor": "Automation Design & Solutions Inc",
+  "amount": 428
+ },
+ {
+  "vendor": "Spirit Event Coordinators",
+  "amount": 426
+ },
+ {
+  "vendor": "Williams Randy J",
+  "amount": 425
+ },
+ {
+  "vendor": "Itawamba Community College",
+  "amount": 425
+ },
+ {
+  "vendor": "Treasure Bay Inc",
+  "amount": 422.65
+ },
+ {
+  "vendor": "Jackson Supply Company",
+  "amount": 417.16
+ },
+ {
+  "vendor": "T And N Enterprises Inc",
+  "amount": 415
+ },
+ {
+  "vendor": "Hilton",
+  "amount": 414
+ },
+ {
+  "vendor": "Mugshots",
+  "amount": 411.62
+ },
+ {
+  "vendor": "Pearson Clinical Assessment",
+  "amount": 410.56
+ },
+ {
+  "vendor": "Honors Graduation Llc",
+  "amount": 409
+ },
+ {
+  "vendor": "Alfred Publishing Llc",
+  "amount": 405
+ },
+ {
+  "vendor": "E3 Diagnostics Inc",
+  "amount": 405
+ },
+ {
+  "vendor": "Northeast 1 Umpire Association",
+  "amount": 400
+ },
+ {
+  "vendor": "Carley Beth Photography",
+  "amount": 400
+ },
+ {
+  "vendor": "Jennings Warren",
+  "amount": 400
+ },
+ {
+  "vendor": "Piggly Wiggly - Iuka",
+  "amount": 398.59
+ },
+ {
+  "vendor": "Sub-Way- Iuka",
+  "amount": 397.81
+ },
+ {
+  "vendor": "Henderson Eddie",
+  "amount": 395
+ },
+ {
+  "vendor": "Courtyard By Marriott Hattiesburg",
+  "amount": 392
+ },
+ {
+  "vendor": "Testout Corporation",
+  "amount": 390
+ },
+ {
+  "vendor": "The E Group Inc",
+  "amount": 387
+ },
+ {
+  "vendor": "Lambert Laura E",
+  "amount": 385.28
+ },
+ {
+  "vendor": "Varsity Spirit Llc",
+  "amount": 385
+ },
+ {
+  "vendor": "Slagle Vance",
+  "amount": 385
+ },
+ {
+  "vendor": "Brown Haley Elizabeth",
+  "amount": 384.49
+ },
+ {
+  "vendor": "Bio Company Inc",
+  "amount": 384.4
+ },
+ {
+  "vendor": "Handy Man Rentals Inc",
+  "amount": 383.3
+ },
+ {
+  "vendor": "Mci",
+  "amount": 382.85
+ },
+ {
+  "vendor": "Williams Taylor E",
+  "amount": 381.09
+ },
+ {
+  "vendor": "Little Jana",
+  "amount": 380
+ },
+ {
+  "vendor": "U S Postal Service",
+  "amount": 380
+ },
+ {
+  "vendor": "The University Of Mississippi-Div Of Ou",
+  "amount": 375
+ },
+ {
+  "vendor": "Red Bud Supply Inc",
+  "amount": 374.22
+ },
+ {
+  "vendor": "Southeast Surplus Inc",
+  "amount": 373.65
+ },
+ {
+  "vendor": "Moore Joey",
+  "amount": 370
+ },
+ {
+  "vendor": "Park Seed Wholesale",
+  "amount": 367.35
+ },
+ {
+  "vendor": "Ballard Chad",
+  "amount": 365
+ },
+ {
+  "vendor": "Helen Keller Birthplace Foundation",
+  "amount": 364
+ },
+ {
+  "vendor": "Hunt James",
+  "amount": 360
+ },
+ {
+  "vendor": "Graham Melissa",
+  "amount": 356.53
+ },
+ {
+  "vendor": "Nsta National Science Teachers Assoc",
+  "amount": 355
+ },
+ {
+  "vendor": "Pontotoc High School",
+  "amount": 355
+ },
+ {
+  "vendor": "Leland School District Central Office",
+  "amount": 352.31
+ },
+ {
+  "vendor": "Tishomingo Grain & Elevator",
+  "amount": 352
+ },
+ {
+  "vendor": "Mississippi State University",
+  "amount": 350
+ },
+ {
+  "vendor": "Pitney Bowes Postage By Phone",
+  "amount": 350
+ },
+ {
+  "vendor": "Willis Murray",
+  "amount": 350
+ },
+ {
+  "vendor": "Little Caesar's Pizza",
+  "amount": 349.5
+ },
+ {
+  "vendor": "Performance Health Holdings Inc",
+  "amount": 345.81
+ },
+ {
+  "vendor": "Tisdale Thedrick",
+  "amount": 345
+ },
+ {
+  "vendor": "Filter Pro Usa",
+  "amount": 343.45
+ },
+ {
+  "vendor": "Dri=Stick Decal Corporation",
+  "amount": 340.5
+ },
+ {
+  "vendor": "Mr Stripes",
+  "amount": 340
+ },
+ {
+  "vendor": "Oriental Trading Company/Otc Brands Inc",
+  "amount": 332.13
+ },
+ {
+  "vendor": "Masbo",
+  "amount": 330
+ },
+ {
+  "vendor": "Henry Schein Inc",
+  "amount": 330
+ },
+ {
+  "vendor": "Spheroinc",
+  "amount": 325.75
+ },
+ {
+  "vendor": "Technology Resources Inc",
+  "amount": 324
+ },
+ {
+  "vendor": "Dismal Canyons",
+  "amount": 324
+ },
+ {
+  "vendor": "Wounded Warrior Project",
+  "amount": 320
+ },
+ {
+  "vendor": "Belmont High School",
+  "amount": 320
+ },
+ {
+  "vendor": "Childers William",
+  "amount": 320
+ },
+ {
+  "vendor": "Burns Carson",
+  "amount": 320
+ },
+ {
+  "vendor": "Windham Greg",
+  "amount": 320
+ },
+ {
+  "vendor": "Savant Learning Systems",
+  "amount": 315
+ },
+ {
+  "vendor": "Busylad Inc",
+  "amount": 314.89
+ },
+ {
+  "vendor": "Cash Ken",
+  "amount": 310
+ },
+ {
+  "vendor": "Cooper Daniel",
+  "amount": 310
+ },
+ {
+  "vendor": "Home 2 Suites",
+  "amount": 309
+ },
+ {
+  "vendor": "United States Post Office",
+  "amount": 309
+ },
+ {
+  "vendor": "2Nd Amendment Outdoors Llc",
+  "amount": 307.72
+ },
+ {
+  "vendor": "Dotson Amanda Cooley",
+  "amount": 306.99
+ },
+ {
+  "vendor": "Horton Rhonda",
+  "amount": 306.45
+ },
+ {
+  "vendor": "Follett Educational Solutions Inc",
+  "amount": 306
+ },
+ {
+  "vendor": "Maxey R David",
+  "amount": 305
+ },
+ {
+  "vendor": "Jack's Restaurant",
+  "amount": 303.54
+ },
+ {
+  "vendor": "Thompson Ron",
+  "amount": 300
+ },
+ {
+  "vendor": "Adams Eric",
+  "amount": 300
+ },
+ {
+  "vendor": "Cm & F Group Inc",
+  "amount": 300
+ },
+ {
+  "vendor": "Blue Mountain College",
+  "amount": 300
+ },
+ {
+  "vendor": "Sanders Daren",
+  "amount": 300
+ },
+ {
+  "vendor": "Howard Brandie",
+  "amount": 300
+ },
+ {
+  "vendor": "Aaa Industrial Supply Inc",
+  "amount": 299.64
+ },
+ {
+  "vendor": "Hillendale Golf Course",
+  "amount": 295
+ },
+ {
+  "vendor": "Mts Safety Products",
+  "amount": 293.95
+ },
+ {
+  "vendor": "Counce Kristy D",
+  "amount": 293.59
+ },
+ {
+  "vendor": "Stegall Notary Service",
+  "amount": 291
+ },
+ {
+  "vendor": "Witt Anna Leigh",
+  "amount": 291
+ },
+ {
+  "vendor": "Belmont Journal",
+  "amount": 290.95
+ },
+ {
+  "vendor": "School Fix",
+  "amount": 290.31
+ },
+ {
+  "vendor": "Sparks Drive Inn",
+  "amount": 284.5
+ },
+ {
+  "vendor": "Johnson Michael G - Corinth",
+  "amount": 280
+ },
+ {
+  "vendor": "Seago Bo",
+  "amount": 280
+ },
+ {
+  "vendor": "Seago Hannah",
+  "amount": 280
+ },
+ {
+  "vendor": "Tee Rage Portraits",
+  "amount": 280
+ },
+ {
+  "vendor": "Martinez Steven",
+  "amount": 275
+ },
+ {
+  "vendor": "New Site High School",
+  "amount": 275
+ },
+ {
+  "vendor": "Newton County Schools",
+  "amount": 274.4
+ },
+ {
+  "vendor": "Williamson Leigh Ann",
+  "amount": 272.49
+ },
+ {
+  "vendor": "Davis Cathy",
+  "amount": 267.94
+ },
+ {
+  "vendor": "Briggs Aubrey",
+  "amount": 265
+ },
+ {
+  "vendor": "The National Beta Club",
+  "amount": 264
+ },
+ {
+  "vendor": "Tuscumbia Spring Park",
+  "amount": 260
+ },
+ {
+  "vendor": "Briggs Robert",
+  "amount": 260
+ },
+ {
+  "vendor": "Chuckwagon Cafe",
+  "amount": 258.62
+ },
+ {
+  "vendor": "Tidwell Jeremy",
+  "amount": 255
+ },
+ {
+  "vendor": "Dees Oil Company Inc",
+  "amount": 252.29
+ },
+ {
+  "vendor": "Osborn Brittany D",
+  "amount": 251.26
+ },
+ {
+  "vendor": "Golf Team Products Inc",
+  "amount": 250
+ },
+ {
+  "vendor": "J & H Guns Inc",
+  "amount": 250
+ },
+ {
+  "vendor": "Starkville-Oktibbeha Consolidated School",
+  "amount": 250
+ },
+ {
+  "vendor": "Bishop's Barbque",
+  "amount": 250
+ },
+ {
+  "vendor": "Cna Surety Direct Bill",
+  "amount": 250
+ },
+ {
+  "vendor": "Fast Wrapz",
+  "amount": 250
+ },
+ {
+  "vendor": "St Jude",
+  "amount": 250
+ },
+ {
+  "vendor": "Celebrity Fastwrapz Llc / Quickstitch",
+  "amount": 250
+ },
+ {
+  "vendor": "Main Street Cycle",
+  "amount": 249.95
+ },
+ {
+  "vendor": "Comtek Communications",
+  "amount": 248
+ },
+ {
+  "vendor": "Mississippi District Pilot International",
+  "amount": 248
+ },
+ {
+  "vendor": "Mann Oil Change",
+  "amount": 247
+ },
+ {
+  "vendor": "Lovelace Jeremy K",
+  "amount": 246.64
+ },
+ {
+  "vendor": "Macgill Discount Medical And",
+  "amount": 245.88
+ },
+ {
+  "vendor": "Piggly Wiggly (Belmont)",
+  "amount": 245.07
+ },
+ {
+  "vendor": "Henderson Emilee",
+  "amount": 245
+ },
+ {
+  "vendor": "Merritt Robert",
+  "amount": 240
+ },
+ {
+  "vendor": "Howie's Hockey Inc",
+  "amount": 239.45
+ },
+ {
+  "vendor": "Holiday Inn",
+  "amount": 238
+ },
+ {
+  "vendor": "Alabama Music Hall Of Fame",
+  "amount": 235
+ },
+ {
+  "vendor": "Cafe 1862 Llc",
+  "amount": 233
+ },
+ {
+  "vendor": "Briggs Billy",
+  "amount": 230
+ },
+ {
+  "vendor": "Loving Robert",
+  "amount": 230
+ },
+ {
+  "vendor": "Scott Ellis",
+  "amount": 230
+ },
+ {
+  "vendor": "Wright Clarance",
+  "amount": 230
+ },
+ {
+  "vendor": "Davis Jeremy",
+  "amount": 230
+ },
+ {
+  "vendor": "White Terrance",
+  "amount": 230
+ },
+ {
+  "vendor": "Pitney Bowes Inc",
+  "amount": 229.2
+ },
+ {
+  "vendor": "White Sara N",
+  "amount": 228.79
+ },
+ {
+  "vendor": "Hand Robert E",
+  "amount": 228
+ },
+ {
+  "vendor": "Bulk Bookstore",
+  "amount": 226.75
+ },
+ {
+  "vendor": "Dipietro John Anthony",
+  "amount": 225.92
+ },
+ {
+  "vendor": "Haven Massey",
+  "amount": 225
+ },
+ {
+  "vendor": "Red Bay High School",
+  "amount": 225
+ },
+ {
+  "vendor": "At & T - One Net Service",
+  "amount": 220.87
+ },
+ {
+  "vendor": "Dollar General-Regions 410526",
+  "amount": 220.47
+ },
+ {
+  "vendor": "Rickey Riley",
+  "amount": 220
+ },
+ {
+  "vendor": "Brown Rickie",
+  "amount": 220
+ },
+ {
+  "vendor": "Butler John",
+  "amount": 220
+ },
+ {
+  "vendor": "Lancaster Timothy B",
+  "amount": 219.83
+ },
+ {
+  "vendor": "Nembda",
+  "amount": 216
+ },
+ {
+  "vendor": "Lowe's - Ims",
+  "amount": 211.61
+ },
+ {
+  "vendor": "Tupelo Christian Preparatory School",
+  "amount": 210
+ },
+ {
+  "vendor": "Wren Brad",
+  "amount": 210
+ },
+ {
+  "vendor": "Thomas Sam",
+  "amount": 210
+ },
+ {
+  "vendor": "Locke Lisa B",
+  "amount": 209.93
+ },
+ {
+  "vendor": "Bostick Steven M",
+  "amount": 209.73
+ },
+ {
+  "vendor": "Towneplace Suites Oxford",
+  "amount": 208
+ },
+ {
+  "vendor": "Borden Barbara H",
+  "amount": 206.98
+ },
+ {
+  "vendor": "Seago Brock",
+  "amount": 205
+ },
+ {
+  "vendor": "Lafayette County School District",
+  "amount": 200
+ },
+ {
+  "vendor": "Staples Bernice",
+  "amount": 200
+ },
+ {
+  "vendor": "Credille Brian",
+  "amount": 200
+ },
+ {
+  "vendor": "Mapt",
+  "amount": 200
+ },
+ {
+  "vendor": "Moore Angela",
+  "amount": 200
+ },
+ {
+  "vendor": "Nesbua-Nesoa",
+  "amount": 200
+ },
+ {
+  "vendor": "Suzanne E Smith Cpa Pllc",
+  "amount": 199
+ },
+ {
+  "vendor": "Big Star Of Russellville Inc",
+  "amount": 196.04
+ },
+ {
+  "vendor": "Lakeshore Learning",
+  "amount": 195.46
+ },
+ {
+  "vendor": "Backflow Prevention & Control",
+  "amount": 195
+ },
+ {
+  "vendor": "Hutcheson Kristy",
+  "amount": 193.03
+ },
+ {
+  "vendor": "Teacher Synergy Llc - Teachers Pay Teac",
+  "amount": 192.99
+ },
+ {
+  "vendor": "Literacy Resources Llc",
+  "amount": 192.24
+ },
+ {
+  "vendor": "Justrite Spirit Supplies Inc",
+  "amount": 190.8
+ },
+ {
+  "vendor": "Byrd Richard",
+  "amount": 190
+ },
+ {
+  "vendor": "Jones Jerome",
+  "amount": 190
+ },
+ {
+  "vendor": "Pannell Jackie",
+  "amount": 190
+ },
+ {
+  "vendor": "Robbins Steve",
+  "amount": 190
+ },
+ {
+  "vendor": "Armstrong John",
+  "amount": 190
+ },
+ {
+  "vendor": "Freeman Ersa",
+  "amount": 190
+ },
+ {
+  "vendor": "Hadley Brenton",
+  "amount": 190
+ },
+ {
+  "vendor": "U S Post Office - Iuka",
+  "amount": 189
+ },
+ {
+  "vendor": "Williams Service Station",
+  "amount": 189
+ },
+ {
+  "vendor": "Lifting Large Corporation",
+  "amount": 188
+ },
+ {
+  "vendor": "City Of Tuscumbia",
+  "amount": 180
+ },
+ {
+  "vendor": "Hosa Inc",
+  "amount": 180
+ },
+ {
+  "vendor": "Castile Tara",
+  "amount": 179
+ },
+ {
+  "vendor": "Mu Alpha Theta",
+  "amount": 178
+ },
+ {
+  "vendor": "Gilley Pat",
+  "amount": 175
+ },
+ {
+  "vendor": "Whitmon David",
+  "amount": 175
+ },
+ {
+  "vendor": "Smith Keegan",
+  "amount": 175
+ },
+ {
+  "vendor": "West Music",
+  "amount": 174.95
+ },
+ {
+  "vendor": "Stanfield Brenna C",
+  "amount": 171.26
+ },
+ {
+  "vendor": "Crossroads District Foodservice Chapter",
+  "amount": 170
+ },
+ {
+  "vendor": "Tishomingo County High School",
+  "amount": 170
+ },
+ {
+  "vendor": "Flipsnack Llc",
+  "amount": 168
+ },
+ {
+  "vendor": "Wv Royalty Crowns Llc",
+  "amount": 166.73
+ },
+ {
+  "vendor": "Mcguirt Darius",
+  "amount": 165
+ },
+ {
+  "vendor": "District I Choral",
+  "amount": 164
+ },
+ {
+  "vendor": "Little Cliff",
+  "amount": 160
+ },
+ {
+  "vendor": "Gardner Charles",
+  "amount": 160
+ },
+ {
+  "vendor": "Walton Anton",
+  "amount": 160
+ },
+ {
+  "vendor": "Wilbanks Kimble",
+  "amount": 160
+ },
+ {
+  "vendor": "Super Duper Publications",
+  "amount": 159
+ },
+ {
+  "vendor": "Derrick David Scott",
+  "amount": 158.55
+ },
+ {
+  "vendor": "Robertson Sidney Leigh",
+  "amount": 150.65
+ },
+ {
+  "vendor": "Gladney Iry",
+  "amount": 150
+ },
+ {
+  "vendor": "King Bryce L",
+  "amount": 150
+ },
+ {
+  "vendor": "Madi Grace Boutique",
+  "amount": 150
+ },
+ {
+  "vendor": "Wildmon Michael",
+  "amount": 150
+ },
+ {
+  "vendor": "Zamudio Madison",
+  "amount": 150
+ },
+ {
+  "vendor": "72 Express",
+  "amount": 150
+ },
+ {
+  "vendor": "Baldwyn High School",
+  "amount": 150
+ },
+ {
+  "vendor": "Aquino Carlos",
+  "amount": 150
+ },
+ {
+  "vendor": "Blake William",
+  "amount": 150
+ },
+ {
+  "vendor": "Cook Tyler",
+  "amount": 150
+ },
+ {
+  "vendor": "Moore Chasity",
+  "amount": 150
+ },
+ {
+  "vendor": "Schuch Ross",
+  "amount": 150
+ },
+ {
+  "vendor": "Stroud John",
+  "amount": 150
+ },
+ {
+  "vendor": "Sunkist Country Club",
+  "amount": 150
+ },
+ {
+  "vendor": "Armstrong Anthony Todd",
+  "amount": 150
+ },
+ {
+  "vendor": "District I Mhsaa - Bhs",
+  "amount": 150
+ },
+ {
+  "vendor": "Enis Gary A Jr",
+  "amount": 150
+ },
+ {
+  "vendor": "Hernandez Israel",
+  "amount": 150
+ },
+ {
+  "vendor": "Owens Daryl",
+  "amount": 150
+ },
+ {
+  "vendor": "Smith James A",
+  "amount": 150
+ },
+ {
+  "vendor": "Vanoekel Hans",
+  "amount": 150
+ },
+ {
+  "vendor": "Johnson Alexandria Grace",
+  "amount": 149.34
+ },
+ {
+  "vendor": "B & B Trophies",
+  "amount": 146.5
+ },
+ {
+  "vendor": "Wright Virginia Elizabeth",
+  "amount": 140.17
+ },
+ {
+  "vendor": "Mississippi Hosa",
+  "amount": 140
+ },
+ {
+  "vendor": "Crerie Mackenzie",
+  "amount": 140
+ },
+ {
+  "vendor": "Deaton Lester",
+  "amount": 140
+ },
+ {
+  "vendor": "Parker Chelsea",
+  "amount": 140
+ },
+ {
+  "vendor": "Routledge Taylor & Francis",
+  "amount": 137.88
+ },
+ {
+  "vendor": "Nunley Kenneth Evan",
+  "amount": 136.24
+ },
+ {
+  "vendor": "Johnson Michael R",
+  "amount": 135
+ },
+ {
+  "vendor": "Moffett Adrian",
+  "amount": 135
+ },
+ {
+  "vendor": "Lindley Brice",
+  "amount": 135
+ },
+ {
+  "vendor": "Deaton Heather Sparks",
+  "amount": 134.48
+ },
+ {
+  "vendor": "Rainbow Dollar Store",
+  "amount": 133.75
+ },
+ {
+  "vendor": "Evans John Dwayne",
+  "amount": 133.7
+ },
+ {
+  "vendor": "Bob Ladd And Associates Inc",
+  "amount": 131.59
+ },
+ {
+  "vendor": "Gaylor Heather M",
+  "amount": 131.17
+ },
+ {
+  "vendor": "Delta State University",
+  "amount": 130
+ },
+ {
+  "vendor": "Knowledge Tree",
+  "amount": 129.25
+ },
+ {
+  "vendor": "Trophies By Ray",
+  "amount": 128
+ },
+ {
+  "vendor": "Sparks Lauren M",
+  "amount": 127.18
+ },
+ {
+  "vendor": "Motorola Solutions Inc",
+  "amount": 125
+ },
+ {
+  "vendor": "Bell Charles",
+  "amount": 125
+ },
+ {
+  "vendor": "Student Assurance Services Inc",
+  "amount": 125
+ },
+ {
+  "vendor": "Ledbetter Kristen",
+  "amount": 123.8
+ },
+ {
+  "vendor": "Louisville High School",
+  "amount": 122.5
+ },
+ {
+  "vendor": "Morris Melanie J",
+  "amount": 122.49
+ },
+ {
+  "vendor": "Advantage Business Systems",
+  "amount": 121.99
+ },
+ {
+  "vendor": "Wa Hs Crimson Llc",
+  "amount": 121
+ },
+ {
+  "vendor": "Malone Jimmy",
+  "amount": 120
+ },
+ {
+  "vendor": "Precision Exams Llc",
+  "amount": 120
+ },
+ {
+  "vendor": "Dees Jerry",
+  "amount": 120
+ },
+ {
+  "vendor": "Montgomery Mckinley",
+  "amount": 120
+ },
+ {
+  "vendor": "Derrick David J",
+  "amount": 119.15
+ },
+ {
+  "vendor": "Hobart Sales And Service",
+  "amount": 119.08
+ },
+ {
+  "vendor": "George Jared C",
+  "amount": 116.88
+ },
+ {
+  "vendor": "Parker Alison R",
+  "amount": 115.5
+ },
+ {
+  "vendor": "Blansett Paul",
+  "amount": 115
+ },
+ {
+  "vendor": "Ford Ricky",
+  "amount": 115
+ },
+ {
+  "vendor": "Frassetto Mike",
+  "amount": 115
+ },
+ {
+  "vendor": "Kelly Billy",
+  "amount": 115
+ },
+ {
+  "vendor": "Medlock Jacob",
+  "amount": 115
+ },
+ {
+  "vendor": "Sullivan Garrett",
+  "amount": 115
+ },
+ {
+  "vendor": "Amtesol- 2021 Setesol Conference",
+  "amount": 115
+ },
+ {
+  "vendor": "Blansett Patrick",
+  "amount": 115
+ },
+ {
+  "vendor": "Donnell Mario",
+  "amount": 115
+ },
+ {
+  "vendor": "Fullerton Paul",
+  "amount": 115
+ },
+ {
+  "vendor": "Jj's Garage",
+  "amount": 115
+ },
+ {
+  "vendor": "Justice John",
+  "amount": 115
+ },
+ {
+  "vendor": "Monts Cameron",
+  "amount": 115
+ },
+ {
+  "vendor": "Pulphus Derrion",
+  "amount": 115
+ },
+ {
+  "vendor": "Smith Derek",
+  "amount": 115
+ },
+ {
+  "vendor": "Wiygul Jimmy",
+  "amount": 115
+ },
+ {
+  "vendor": "Bell Cossell",
+  "amount": 115
+ },
+ {
+  "vendor": "Jones Alvin",
+  "amount": 115
+ },
+ {
+  "vendor": "Jones Jordan",
+  "amount": 115
+ },
+ {
+  "vendor": "Lewis Patrick",
+  "amount": 115
+ },
+ {
+  "vendor": "Parks Todd",
+  "amount": 115
+ },
+ {
+  "vendor": "Patterson Hunter",
+  "amount": 115
+ },
+ {
+  "vendor": "Rial Chris",
+  "amount": 115
+ },
+ {
+  "vendor": "Rial Cliff",
+  "amount": 115
+ },
+ {
+  "vendor": "Wade Bobby",
+  "amount": 115
+ },
+ {
+  "vendor": "Tc's Uniforms",
+  "amount": 114.5
+ },
+ {
+  "vendor": "Bohanon Carey",
+  "amount": 113.37
+ },
+ {
+  "vendor": "Marlin Scott",
+  "amount": 113.26
+ },
+ {
+  "vendor": "Hawthorne Educational Services Inc",
+  "amount": 112.7
+ },
+ {
+  "vendor": "Dawson Amelia Jo",
+  "amount": 111.83
+ },
+ {
+  "vendor": "Cimpress Usa Incorporated",
+  "amount": 110.94
+ },
+ {
+  "vendor": "Bonds Molly K",
+  "amount": 110
+ },
+ {
+  "vendor": "Owens Carlos A",
+  "amount": 110
+ },
+ {
+  "vendor": "Saltillo Cross Country",
+  "amount": 110
+ },
+ {
+  "vendor": "Collier Jason",
+  "amount": 110
+ },
+ {
+  "vendor": "Hickory Flat High School",
+  "amount": 110
+ },
+ {
+  "vendor": "Stegall Eddrick",
+  "amount": 110
+ },
+ {
+  "vendor": "Gigi's Station Inc",
+  "amount": 110
+ },
+ {
+  "vendor": "Nobles Mike",
+  "amount": 110
+ },
+ {
+  "vendor": "District I Mhsaa - Tchs",
+  "amount": 100
+ },
+ {
+  "vendor": "Elkin Sydney",
+  "amount": 100
+ },
+ {
+  "vendor": "Hill Acacia",
+  "amount": 100
+ },
+ {
+  "vendor": "Lauderdale County High School",
+  "amount": 100
+ },
+ {
+  "vendor": "May Kara",
+  "amount": 100
+ },
+ {
+  "vendor": "Mitchell Jada",
+  "amount": 100
+ },
+ {
+  "vendor": "Pounders Joshua",
+  "amount": 100
+ },
+ {
+  "vendor": "Saltillo High School",
+  "amount": 100
+ },
+ {
+  "vendor": "Steele Carlie Michael",
+  "amount": 100
+ },
+ {
+  "vendor": "Stewart Daniel",
+  "amount": 100
+ },
+ {
+  "vendor": "Walton Madison",
+  "amount": 100
+ },
+ {
+  "vendor": "Burton Amari",
+  "amount": 100
+ },
+ {
+  "vendor": "Friendly Florist",
+  "amount": 100
+ },
+ {
+  "vendor": "Russellville Board Of Education",
+  "amount": 100
+ },
+ {
+  "vendor": "Exceed Technologies Tupelo Llc",
+  "amount": 99
+ },
+ {
+  "vendor": "Mcanally Madalyn Taylor",
+  "amount": 95.97
+ },
+ {
+  "vendor": "Elliott Lane",
+  "amount": 95
+ },
+ {
+  "vendor": "Mississippi Interactive Llc",
+  "amount": 95
+ },
+ {
+  "vendor": "Thrasher Roger",
+  "amount": 95
+ },
+ {
+  "vendor": "University Of Mississippi",
+  "amount": 95
+ },
+ {
+  "vendor": "Chittom Douglas",
+  "amount": 95
+ },
+ {
+  "vendor": "Loague Larry",
+  "amount": 95
+ },
+ {
+  "vendor": "Comfort Suites - Flowood",
+  "amount": 94.1
+ },
+ {
+  "vendor": "Maroon John Mark",
+  "amount": 92.35
+ },
+ {
+  "vendor": "Northeast Daily Journal",
+  "amount": 90.5
+ },
+ {
+  "vendor": "Hindman Michael Olyn",
+  "amount": 89.49
+ },
+ {
+  "vendor": "Jones-Mcleod Inc",
+  "amount": 87.04
+ },
+ {
+  "vendor": "B And J Supermarket",
+  "amount": 86.84
+ },
+ {
+  "vendor": "W A Krapf Inc/Magnatag Visible Systems",
+  "amount": 86.15
+ },
+ {
+  "vendor": "The Library Store Inc",
+  "amount": 85.44
+ },
+ {
+  "vendor": "Fancher Madison",
+  "amount": 85
+ },
+ {
+  "vendor": "Decker Inc School Fix",
+  "amount": 83.45
+ },
+ {
+  "vendor": "Slosson Inc",
+  "amount": 81.4
+ },
+ {
+  "vendor": "Rowell Mark",
+  "amount": 80
+ },
+ {
+  "vendor": "Young Adrian",
+  "amount": 80
+ },
+ {
+  "vendor": "Mcmillin Allen",
+  "amount": 80
+ },
+ {
+  "vendor": "Nemcc - District Level Mctm",
+  "amount": 80
+ },
+ {
+  "vendor": "Wildmon Jeffery",
+  "amount": 80
+ },
+ {
+  "vendor": "Wal-Mart Tes",
+  "amount": 79.13
+ },
+ {
+  "vendor": "Whitfield Cynthia",
+  "amount": 75.22
+ },
+ {
+  "vendor": "Booneville Golf And Country Club Inc",
+  "amount": 75
+ },
+ {
+  "vendor": "Bruce High School",
+  "amount": 75
+ },
+ {
+  "vendor": "Nemcc - Continuing Education",
+  "amount": 75
+ },
+ {
+  "vendor": "The Segars Clinic",
+  "amount": 75
+ },
+ {
+  "vendor": "Cunningham Elizabeth L",
+  "amount": 75
+ },
+ {
+  "vendor": "Mississippi Music Educators Assoc",
+  "amount": 75
+ },
+ {
+  "vendor": "North Ms Child Nutrition Directors Assoc",
+  "amount": 75
+ },
+ {
+  "vendor": "Shook Kimberly",
+  "amount": 75
+ },
+ {
+  "vendor": "Parsons Megan",
+  "amount": 72.84
+ },
+ {
+  "vendor": "Ms Department Of Revenue - Tags",
+  "amount": 72
+ },
+ {
+  "vendor": "Rogers Lp Gas Company",
+  "amount": 68
+ },
+ {
+  "vendor": "Parker Richard A",
+  "amount": 65
+ },
+ {
+  "vendor": "Taylor Amanda R",
+  "amount": 65
+ },
+ {
+  "vendor": "Norvell Evan Blake",
+  "amount": 64.92
+ },
+ {
+  "vendor": "Tchs",
+  "amount": 60
+ },
+ {
+  "vendor": "Wheeler High School",
+  "amount": 60
+ },
+ {
+  "vendor": "Edgeston Carol",
+  "amount": 60
+ },
+ {
+  "vendor": "Floyd Marlon",
+  "amount": 60
+ },
+ {
+  "vendor": "West Union Attendance Center",
+  "amount": 60
+ },
+ {
+  "vendor": "Wooten Jeff",
+  "amount": 60
+ },
+ {
+  "vendor": "Wooten Zac",
+  "amount": 60
+ },
+ {
+  "vendor": "Dorrough Frank",
+  "amount": 60
+ },
+ {
+  "vendor": "Sweetwater Sound",
+  "amount": 59.98
+ },
+ {
+  "vendor": "Gatlins Pharmacy",
+  "amount": 59.5
+ },
+ {
+  "vendor": "Moss Monica L",
+  "amount": 59
+ },
+ {
+  "vendor": "Murrell Rickey O",
+  "amount": 57.9
+ },
+ {
+  "vendor": "Lowrey Tiffany C",
+  "amount": 56.09
+ },
+ {
+  "vendor": "Holloway Lisa G",
+  "amount": 55
+ },
+ {
+  "vendor": "The Cell Phone Doctor",
+  "amount": 54
+ },
+ {
+  "vendor": "Uline Inc",
+  "amount": 52.97
+ },
+ {
+  "vendor": "Thomas Blake A",
+  "amount": 52.43
+ },
+ {
+  "vendor": "District I Mhsaa - Burnsville",
+  "amount": 50
+ },
+ {
+  "vendor": "District I Mhsaa - Ims",
+  "amount": 50
+ },
+ {
+  "vendor": "Estes Steven",
+  "amount": 50
+ },
+ {
+  "vendor": "District I Mhsaa - Tes",
+  "amount": 50
+ },
+ {
+  "vendor": "Magc",
+  "amount": 50
+ },
+ {
+  "vendor": "Nemcc",
+  "amount": 50
+ },
+ {
+  "vendor": "Northeast I Baseball Umpires",
+  "amount": 50
+ },
+ {
+  "vendor": "Pro-Ed Inc",
+  "amount": 46.2
+ },
+ {
+  "vendor": "Brumley Michael Jason",
+  "amount": 42.67
+ },
+ {
+  "vendor": "Monroe County School District",
+  "amount": 40
+ },
+ {
+  "vendor": "Mississippi Engineering Teacher Assoc",
+  "amount": 40
+ },
+ {
+  "vendor": "Northeast Mississippi Community College",
+  "amount": 40
+ },
+ {
+  "vendor": "Barker Natalie",
+  "amount": 40
+ },
+ {
+  "vendor": "Ringer Angela",
+  "amount": 40
+ },
+ {
+  "vendor": "Jones Jack A",
+  "amount": 38.79
+ },
+ {
+  "vendor": "National Restaurant Association",
+  "amount": 36
+ },
+ {
+  "vendor": "Kearns Jennifer",
+  "amount": 32.95
+ },
+ {
+  "vendor": "Keeling Company",
+  "amount": 28.36
+ },
+ {
+  "vendor": "Kilough Amy",
+  "amount": 21
+ },
+ {
+  "vendor": "Bennett Virginia",
+  "amount": 20
+ },
+ {
+  "vendor": "Sheet Music Plus",
+  "amount": 18.9
+ },
+ {
+  "vendor": "Murphy Jesika",
+  "amount": 15
+ },
+ {
+  "vendor": "Pounds Kristie",
+  "amount": 15
+ },
+ {
+  "vendor": "Brewer Debra B",
+  "amount": 15
+ },
+ {
+  "vendor": "Huggins Geneva",
+  "amount": 15
+ },
+ {
+  "vendor": "Wadkins Tabitha",
+  "amount": 15
+ },
+ {
+  "vendor": "Penney Marsha",
+  "amount": 10
+ },
+ {
+  "vendor": "Brady Amanda",
+  "amount": 10
+ },
+ {
+  "vendor": "Richardson Brittany",
+  "amount": 10
+ },
+ {
+  "vendor": "Underwood Allison",
+  "amount": 10
+ },
+ {
+  "vendor": "Wicks Heather",
+  "amount": 10
+ }
+]

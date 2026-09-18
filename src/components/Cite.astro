@@ -1,0 +1,7 @@
+---
+// Inline, compact citation for table cells: "Nov. 14, 2024 p. 4"
+import { fmtDate, newspaperUrl, citeText, type SourceRef } from '../lib/format';
+interface Props { src: SourceRef }
+const { src } = Astro.props;
+---
+<a href={newspaperUrl} rel="noopener" title={citeText(src)} class="whitespace-nowrap">TCN {fmtDate(src.issue)}, p.&nbsp;{src.page}</a>

@@ -1,0 +1,152 @@
+[
+ {
+  "page": "/",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 62,
+  "label": "Spending per student (home page tile)"
+ },
+ {
+  "page": "/",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 64,
+  "label": "General Fund balance (home page tile)"
+ },
+ {
+  "page": "/",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 78,
+  "label": "Audit opinion and findings (home page tile)"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 64,
+  "label": "General Fund, last four years"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 65,
+  "label": "All governmental funds, last four years"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 49,
+  "label": "FY2025 budget vs. actual"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 9,
+  "label": "Government-wide items (MD&A)"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 60,
+  "label": "Federal awards"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 62,
+  "label": "Cost per student, FY2025"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2024",
+  "pdfPage": 67,
+  "label": "Cost per student, FY2024"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2023",
+  "pdfPage": 64,
+  "label": "Cost per student, FY2023"
+ },
+ {
+  "page": "/finances",
+  "doc": "audits/tcsd-fy2022",
+  "pdfPage": 58,
+  "label": "Cost per student, FY2022"
+ },
+ {
+  "page": "/finances/audits",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 78,
+  "label": "FY2025 findings"
+ },
+ {
+  "page": "/finances/audits",
+  "doc": "audits/tcsd-fy2024",
+  "pdfPage": 82,
+  "label": "FY2024 findings"
+ },
+ {
+  "page": "/finances/audits",
+  "doc": "audits/tcsd-fy2023",
+  "pdfPage": 81,
+  "label": "FY2023 findings"
+ },
+ {
+  "page": "/finances/audits",
+  "doc": "audits/tcsd-fy2022",
+  "pdfPage": 74,
+  "label": "FY2022 findings"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "audits/tcsd-fy2025",
+  "pdfPage": 62,
+  "label": "TCSD cost per student and spending mix"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "peer-audits/alcorn-fy2025",
+  "pdfPage": 66,
+  "label": "Alcorn cost per student"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "peer-audits/prentiss-county-fy2025",
+  "pdfPage": 65,
+  "label": "Prentiss County cost per student"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "peer-audits/itawamba-county-fy2023",
+  "pdfPage": 66,
+  "label": "Itawamba County cost per student"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "peer-audits/booneville-fy2025",
+  "pdfPage": 62,
+  "label": "Booneville cost per student"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "peer-audits/corinth-fy2025",
+  "pdfPage": 70,
+  "label": "Corinth cost per student"
+ },
+ {
+  "page": "/benchmarks",
+  "doc": "peer-audits/baldwyn-fy2025",
+  "pdfPage": 65,
+  "label": "Baldwyn cost per student"
+ },
+ {
+  "page": "/records",
+  "doc": "records/ethics-m-25-022",
+  "pdfPage": 2,
+  "label": "Minutes: what the law requires"
+ },
+ {
+  "page": "/board",
+  "doc": "records/ethics-m-25-022",
+  "pdfPage": 2,
+  "label": "Board's response on minutes"
+ }
+]
