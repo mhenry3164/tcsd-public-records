@@ -1,149 +1,149 @@
 {
-  "date": "2025-08-11",
-  "type": "Regular Meeting",
-  "dateNote": "The paper printed 'Monday, August 12, 2025', but Aug. 12, 2025 was a Tuesday; the calendar lists the regular meeting on Monday, Aug. 11, 2025, and that date is used. The front-page portion says 'continued on page 2' while the continuation found is on page 3; no page 2 text was available, so some items may be missing.",
-  "sources": [
-    {
-      "issue": "2025-08-14",
-      "page": 1
-    },
-    {
-      "issue": "2025-08-14",
-      "page": 3
-    }
-  ],
-  "headline": "TCSD Board Meets at Tishomingo School as Part of Campus Rotation",
-  "summary": "The board met at Tishomingo School as part of its rotation of meetings among campuses and approved personnel, field trips, fundraisers, four student transfers and purchases including a TCHS video surveillance system. It also approved the 2025-2026 Dropout Prevention Plan and a district-wide Pepsi fundraiser.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [],
-  "personnel": {
-    "hires": 12,
-    "resignations": 0,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 3,
-    "note": "Hires include 9 substitutes (speech, teacher, cafeteria, nurse and 4 bus drivers; one person approved as both substitute teacher and substitute cafeteria worker counted once), a full-time cafeteria worker, a full-contract bus driver and a special education assistant teacher; other = 1 license upgrade, 1 experience upgrade and 1 volunteer."
+ "date": "2025-08-11",
+ "type": "Regular Meeting",
+ "dateNote": "The paper printed “Monday, August 12, 2025.” Aug. 12, 2025 was a Tuesday; the district’s calendar lists the regular meeting on Monday, Aug. 11.",
+ "sources": [
+  {
+   "issue": "2025-08-14",
+   "page": 1
   },
-  "money": [
-    {
-      "item": "Domain renewal of tcsk12.com",
-      "vendor": "S.H.O.T.S.",
-      "amount": 25,
-      "amountText": "$25.00",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Video surveillance system, TCHS campus",
-      "vendor": "Eye Solutions, LLC",
-      "amount": 56089.32,
-      "amountText": "$56,089.32",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "IXL Learning, Tishomingo Elementary",
-      "vendor": "IXL Learning",
-      "amount": 4306.25,
-      "amountText": "$4,306.25",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Renaissance, Iuka Elementary",
-      "vendor": "Renaissance",
-      "amount": 2859.5,
-      "amountText": "$2,859.50",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Math Reflex, Iuka Elementary",
-      "vendor": "Explore Learning",
-      "amount": 3295,
-      "amountText": "$3,295",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Clean up and paint Burnsville Gym",
-      "vendor": "J Green Painting",
-      "amount": 3845,
-      "amountText": "$3.845 (as printed)",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Clean, prep and paint metal in Burnsville Gym",
-      "vendor": "J Green Painting",
-      "amount": 9410,
-      "amountText": "$9,410",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Agreement between Tishomingo Elementary and Top Golf Events",
-      "vendor": "Top Golf Events",
-      "amount": 1120,
-      "amountText": "$1,120",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "Motor vehicle subscription",
-      "vendor": "NIC Mississippi",
-      "amount": 95,
-      "amountText": "$95.00",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    },
-    {
-      "item": "LJ Create Working with STEM for STEM labs at Belmont, Tishomingo County and TCCTC",
-      "vendor": "Magee Enterprises",
-      "amount": 4500,
-      "amountText": "$4,500",
-      "source": {
-        "issue": "2025-08-14",
-        "page": 3
-      }
-    }
-  ],
-  "donations": {
-    "count": 1,
-    "total": 3000,
-    "note": "Agreement and donation from the University of Mississippi and Safeguard of Mississippi program to TCHS."
+  {
+   "issue": "2025-08-14",
+   "page": 3
+  }
+ ],
+ "headline": "TCSD Board Meets at Tishomingo School as Part of Campus Rotation",
+ "summary": "The board met at Tishomingo School as part of its rotation of meetings among campuses and approved personnel, field trips, fundraisers, four student transfers and purchases including a TCHS video surveillance system. It also approved the 2025-2026 Dropout Prevention Plan and a district-wide Pepsi fundraiser.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [],
+ "personnel": {
+  "hires": 12,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 3,
+  "note": "Hires include 9 substitutes (speech, teacher, cafeteria, nurse and 4 bus drivers; one person approved as both substitute teacher and substitute cafeteria worker counted once), a full-time cafeteria worker, a full-contract bus driver and a special education assistant teacher; other = 1 license upgrade, 1 experience upgrade and 1 volunteer."
+ },
+ "money": [
+  {
+   "item": "Domain renewal of tcsk12.com",
+   "vendor": "S.H.O.T.S.",
+   "amount": 25,
+   "amountText": "$25.00",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
   },
-  "policy": [],
-  "superintendent": [],
-  "executiveSession": [],
-  "otherActions": [
-    "5 field trip requests approved as printed, one of them a TCHS band schedule covering 10 dates",
-    "18 fundraisers approved (17 school fundraisers plus a district-wide Pepsi annual fundraiser)",
-    "4 student transfers approved",
-    "Dropout Prevention Plan for 2025-2026 approved",
-    "Next regular meeting set for Sept. 8, 2025 at the Burnsville School Library"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Video surveillance system, TCHS campus",
+   "vendor": "Eye Solutions, LLC",
+   "amount": 56089.32,
+   "amountText": "$56,089.32",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "IXL Learning, Tishomingo Elementary",
+   "vendor": "IXL Learning",
+   "amount": 4306.25,
+   "amountText": "$4,306.25",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "Renaissance, Iuka Elementary",
+   "vendor": "Renaissance",
+   "amount": 2859.5,
+   "amountText": "$2,859.50",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "Math Reflex, Iuka Elementary",
+   "vendor": "Explore Learning",
+   "amount": 3295,
+   "amountText": "$3,295",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "Clean up and paint Burnsville Gym",
+   "vendor": "J Green Painting",
+   "amount": 3845,
+   "amountText": "$3.845 (as printed)",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "Clean, prep and paint metal in Burnsville Gym",
+   "vendor": "J Green Painting",
+   "amount": 9410,
+   "amountText": "$9,410",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "Agreement between Tishomingo Elementary and Top Golf Events",
+   "vendor": "Top Golf Events",
+   "amount": 1120,
+   "amountText": "$1,120",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "Motor vehicle subscription",
+   "vendor": "NIC Mississippi",
+   "amount": 95,
+   "amountText": "$95.00",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  },
+  {
+   "item": "LJ Create Working with STEM for STEM labs at Belmont, Tishomingo County and TCCTC",
+   "vendor": "Magee Enterprises",
+   "amount": 4500,
+   "amountText": "$4,500",
+   "source": {
+    "issue": "2025-08-14",
+    "page": 3
+   }
+  }
+ ],
+ "donations": {
+  "count": 1,
+  "total": 3000,
+  "note": "Agreement and donation from the University of Mississippi and Safeguard of Mississippi program to TCHS."
+ },
+ "policy": [],
+ "superintendent": [],
+ "executiveSession": [],
+ "otherActions": [
+  "5 field trip requests approved as printed, one of them a TCHS band schedule covering 10 dates",
+  "18 fundraisers approved (17 school fundraisers plus a district-wide Pepsi annual fundraiser)",
+  "4 student transfers approved",
+  "Dropout Prevention Plan for 2025-2026 approved",
+  "Next regular meeting set for Sept. 8, 2025 at the Burnsville School Library"
+ ],
+ "quote": null,
+ "reviewed": false
 }

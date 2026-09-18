@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-30",
-  "type": "Special Called Meeting",
-  "dateNote": "Report (issue of Thursday, July 2, 2026) says 'On Tuesday afternoon'; the preceding Tuesday was June 30, 2026, which matches the calendar, and the July 9 meeting approved 'June 30, Special Called Board meeting' minutes.",
-  "sources": [
-    {
-      "issue": "2026-07-02",
-      "page": 4
-    }
-  ],
-  "headline": "Special Called School Board Meeting Approves New Employees, iPad Changes, and Facility Projects",
-  "summary": "At a special called meeting the board approved hires, resignations, the docket of claims, two of three student transfers and a series of agreements, grants and purchases, including 21 iPad carts for 7th and 8th grade iPads. The report states 7th and 8th grade student iPads will remain at school rather than going home nightly.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [],
-  "personnel": {
-    "hires": 9,
-    "resignations": 3,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 1,
-    "note": "Hires include 2 substitute teachers, a bus driver, a part-time custodian, coaching assignments, 2 teachers and a high school athletic director (one employee resigned as middle school AD and was hired as high school AD); other = 1 license upgrade."
+ "date": "2026-06-30",
+ "type": "Special Called Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2026-07-02",
+   "page": 4
+  }
+ ],
+ "headline": "Special Called School Board Meeting Approves New Employees, iPad Changes, and Facility Projects",
+ "summary": "At a special called meeting the board approved hires, resignations, the docket of claims, two of three student transfers and a series of agreements, grants and purchases, including 21 iPad carts for 7th and 8th grade iPads. The report states 7th and 8th grade student iPads will remain at school rather than going home nightly.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [],
+ "personnel": {
+  "hires": 9,
+  "resignations": 3,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 1,
+  "note": "Hires include 2 substitute teachers, a bus driver, a part-time custodian, coaching assignments, 2 teachers and a high school athletic director (one employee resigned as middle school AD and was hired as high school AD); other = 1 license upgrade."
+ },
+ "money": [
+  {
+   "item": "One-year subscription renewal bundle (SAM Spectra, SAM Query, Major Clarity, Apple School Manager, Clever, Renlearn, Primero Edge, Canvas GPB, Apptegy, District Data Integrator)",
+   "vendor": "Central Access",
+   "amount": 24083.75,
+   "amountText": "$24,083.75 (period printed as 07/01/25 - 06/30/26)",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
   },
-  "money": [
-    {
-      "item": "One-year subscription renewal bundle (SAM Spectra, SAM Query, Major Clarity, Apple School Manager, Clever, Renlearn, Primero Edge, Canvas GPB, Apptegy, District Data Integrator)",
-      "vendor": "Central Access",
-      "amount": 24083.75,
-      "amountText": "$24,083.75 (period printed as 07/01/25 - 06/30/26)",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "FY27 MCOPS Grants (accepted)",
-      "vendor": null,
-      "amount": 30000,
-      "amountText": "$30,000",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "21 iPad carts for 7th and 8th grade iPads (lowest quote)",
-      "vendor": "Howard Technology Solutions",
-      "amount": 7264,
-      "amountText": "$7,264.00",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "Pressure washing services, TCHS (lowest quote)",
-      "vendor": "Funderflow Commercial & Residential Pressure Washing",
-      "amount": 9000,
-      "amountText": "$9,000",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "2026-2027 athletics/activities video streaming/recording rights agreement, one year",
-      "vendor": "WSN Live",
-      "amount": 9500,
-      "amountText": "$9,500",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "SNF 2026 Vulcan Equipment Grant to Child Nutrition Department (accepted)",
-      "vendor": "School Nutrition Foundation",
-      "amount": 50000,
-      "amountText": "valued at $50,000",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "Four-year subscription to Mosyle OneK12 for the Tech Department",
-      "vendor": "Apple",
-      "amount": 116,
-      "amountText": "$116.00",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    }
-  ],
-  "donations": {
-    "count": 0,
-    "total": 0,
-    "note": null
+  {
+   "item": "FY27 MCOPS Grants (accepted)",
+   "vendor": null,
+   "amount": 30000,
+   "amountText": "$30,000",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
   },
-  "policy": [
-    {
-      "item": "7th and 8th grade student iPads will remain at school instead of going home nightly, with check-out available for educational use; the tech fee for after-school use removed for these grades. High school students continue to take iPads home.",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    },
-    {
-      "item": "TCSD Child Nutrition Bid Protest Policy for 2026/2027 approved.",
-      "source": {
-        "issue": "2026-07-02",
-        "page": 4
-      }
-    }
-  ],
-  "superintendent": [],
-  "executiveSession": [],
-  "otherActions": [
-    "1 use-of-facilities request approved (retroactive)",
-    "Docket of claims approved (Claims 110420-110621 and 110395-110533)",
-    "3 student transfers presented; 2 approved",
-    "FY27 IDEA Assurances for Substantially Approved Application",
-    "FY27 collaborative agreement with MillCreek of Pontotoc",
-    "FY27 field education affiliation agreement with the University of Mississippi School of Education",
-    "36-month service agreement (24-month price lock) with Unifirst for IMS",
-    "Added a dumpster for IMS for the remaining year of the current agreement",
-    "Participation in the Child Nutrition Statewide Purchasing Program, 2026/2027",
-    "FY27 middle school and high school technology agreement forms",
-    "FY27 owner-architect agreement for various school projects (windows at TCHS and Burnsville, reroofing, IMS library restoration)",
-    "Cleaning service for the technology department building for FY27"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "21 iPad carts for 7th and 8th grade iPads (lowest quote)",
+   "vendor": "Howard Technology Solutions",
+   "amount": 7264,
+   "amountText": "$7,264.00",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  },
+  {
+   "item": "Pressure washing services, TCHS (lowest quote)",
+   "vendor": "Funderflow Commercial & Residential Pressure Washing",
+   "amount": 9000,
+   "amountText": "$9,000",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  },
+  {
+   "item": "2026-2027 athletics/activities video streaming/recording rights agreement, one year",
+   "vendor": "WSN Live",
+   "amount": 9500,
+   "amountText": "$9,500",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  },
+  {
+   "item": "SNF 2026 Vulcan Equipment Grant to Child Nutrition Department (accepted)",
+   "vendor": "School Nutrition Foundation",
+   "amount": 50000,
+   "amountText": "valued at $50,000",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  },
+  {
+   "item": "Four-year subscription to Mosyle OneK12 for the Tech Department",
+   "vendor": "Apple",
+   "amount": 116,
+   "amountText": "$116.00",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  }
+ ],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [
+  {
+   "item": "7th and 8th grade student iPads will remain at school instead of going home nightly, with check-out available for educational use; the tech fee for after-school use removed for these grades. High school students continue to take iPads home.",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  },
+  {
+   "item": "TCSD Child Nutrition Bid Protest Policy for 2026/2027 approved.",
+   "source": {
+    "issue": "2026-07-02",
+    "page": 4
+   }
+  }
+ ],
+ "superintendent": [],
+ "executiveSession": [],
+ "otherActions": [
+  "1 use-of-facilities request approved (retroactive)",
+  "Docket of claims approved (Claims 110420-110621 and 110395-110533)",
+  "3 student transfers presented; 2 approved",
+  "FY27 IDEA Assurances for Substantially Approved Application",
+  "FY27 collaborative agreement with MillCreek of Pontotoc",
+  "FY27 field education affiliation agreement with the University of Mississippi School of Education",
+  "36-month service agreement (24-month price lock) with Unifirst for IMS",
+  "Added a dumpster for IMS for the remaining year of the current agreement",
+  "Participation in the Child Nutrition Statewide Purchasing Program, 2026/2027",
+  "FY27 middle school and high school technology agreement forms",
+  "FY27 owner-architect agreement for various school projects (windows at TCHS and Burnsville, reroofing, IMS library restoration)",
+  "Cleaning service for the technology department building for FY27"
+ ],
+ "quote": null,
+ "reviewed": false
 }

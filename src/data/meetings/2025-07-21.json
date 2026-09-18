@@ -1,214 +1,214 @@
 {
-  "date": "2025-07-21",
-  "type": "Special Called Meeting",
-  "dateNote": "Report states that on Monday, July 21, 2025 the district held its annual budget hearing along with a special called board meeting (calendar: Budget Hearing 6:30 p.m., Special 7:00 p.m.). The paper covered both in one article, so one file is used; budget-hearing items are listed in otherActions with the prefix 'Budget hearing:'.",
-  "sources": [
-    {
-      "issue": "2025-07-24",
-      "page": 2
-    },
-    {
-      "issue": "2025-07-24",
-      "page": 4
-    }
-  ],
-  "headline": "TCSD Reviews Budget, Approves Personnel and Policy Updates Ahead of School Year",
-  "summary": "At its annual budget hearing and a special called meeting, the board reviewed the district's budget outlook and approved personnel, fundraisers, facility-use requests, three policy revisions and purchases including 10 school buses and a TCHS video surveillance system. A special meeting was scheduled for July 31 to approve the budget.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [],
-  "personnel": {
-    "hires": 9,
-    "resignations": 0,
-    "retirements": 0,
-    "transfers": 1,
-    "other": 2,
-    "note": "Hires include 4 substitute teachers, 2 homebound teachers, a computer lab assistant, an assistant girls' basketball coach and a certified special education teacher; other = 2 volunteer coaches; 1 personnel transfer listed. National Board supplements for 2 teachers are listed under money."
+ "date": "2025-07-21",
+ "type": "Special Called Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2025-07-24",
+   "page": 2
   },
-  "money": [
-    {
-      "item": "Video surveillance system, TCHS campus",
-      "vendor": "Eye Solutions, LLC",
-      "amount": 56089.32,
-      "amountText": "$56,089.32",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Google Workspace, 3-year agreement",
-      "vendor": "CDW Amplified for Education",
-      "amount": 13788,
-      "amountText": "$13,788/year",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "10 school buses at $149,741 per bus",
-      "vendor": "Bendor Waters Truck & Tractor",
-      "amount": 1497410,
-      "amountText": "$1,497,410 total",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Fiber installation at Belmont Baseball Field House",
-      "vendor": "Tishomingo Connect",
-      "amount": 312,
-      "amountText": "$312",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Terminate/configure and finish fiber installation to Belmont Baseball Field House",
-      "vendor": null,
-      "amount": 1546.48,
-      "amountText": "$1,546.48",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Stamp machine rental agreement (state contract price), Belmont School, 48 months",
-      "vendor": "Pitney Bowes, Inc.",
-      "amount": 72.64,
-      "amountText": "$72.64",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Contract campus cleanup services at TCHS",
-      "vendor": "Funderflow Pressure Washing",
-      "amount": 4680,
-      "amountText": "$4,680",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Fence replacement at TCHS football field",
-      "vendor": "B&B Fence",
-      "amount": 34500,
-      "amountText": "$34,500",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Musicplay 1-year subscription, Tishomingo Elementary",
-      "vendor": "West Music",
-      "amount": 200,
-      "amountText": "$200",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "IXL Learning (K-2 ELA), Tishomingo Elementary",
-      "vendor": "IXL Learning",
-      "amount": 1400,
-      "amountText": "$1,400",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Nissan Sentra for Belmont School",
-      "vendor": "Brookway Corporation",
-      "amount": 20349,
-      "amountText": "$20,349",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Professional development services",
-      "vendor": "Kids First Education",
-      "amount": 4425,
-      "amountText": "$4,425",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Annual fire extinguisher inspection agreements, district-wide",
-      "vendor": "E-Fire",
-      "amount": 8209.85,
-      "amountText": "$8,209.85",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "National Board supplements for 2 teachers (pending state funds)",
-      "vendor": null,
-      "amount": 6000,
-      "amountText": "$6,000 each",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    }
-  ],
-  "donations": {
-    "count": 0,
-    "total": 0,
-    "note": null
+  {
+   "issue": "2025-07-24",
+   "page": 4
+  }
+ ],
+ "headline": "TCSD Reviews Budget, Approves Personnel and Policy Updates Ahead of School Year",
+ "summary": "At its annual budget hearing and a special called meeting, the board reviewed the district's budget outlook and approved personnel, fundraisers, facility-use requests, three policy revisions and purchases including 10 school buses and a TCHS video surveillance system. A special meeting was scheduled for July 31 to approve the budget.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [],
+ "personnel": {
+  "hires": 9,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 1,
+  "other": 2,
+  "note": "Hires include 4 substitute teachers, 2 homebound teachers, a computer lab assistant, an assistant girls' basketball coach and a certified special education teacher; other = 2 volunteer coaches; 1 personnel transfer listed. National Board supplements for 2 teachers are listed under money."
+ },
+ "money": [
+  {
+   "item": "Video surveillance system, TCHS campus",
+   "vendor": "Eye Solutions, LLC",
+   "amount": 56089.32,
+   "amountText": "$56,089.32",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
   },
-  "policy": [
-    {
-      "item": "Cell phone/electronic device policy: use allowed after the 'last dismissal bell' instead of 'after 3:30'.",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Tobacco policy: students found violating the policy with THC/synthetics to be referred to Youth Court.",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    },
-    {
-      "item": "Drugs/alcohol policy: drug detection canines to visit each campus at least two times per semester.",
-      "source": {
-        "issue": "2025-07-24",
-        "page": 4
-      }
-    }
-  ],
-  "superintendent": [
-    "Superintendent Christie Holly informed the board of New Teacher Orientation on July 23 and Opening Day Convocation at Belmont on July 28.",
-    "A special board meeting was scheduled for July 31 at 8:00 a.m. to approve the budget; students return Friday, Aug. 1, 2025."
-  ],
-  "executiveSession": [],
-  "otherActions": [
-    "Budget hearing: the State has instructed districts to prepare for reduced federal funding",
-    "Budget hearing: previously approved adult meal price increases for 2025-2026 were addressed (breakfast $2.25 to $2.40; lunch $4.00 to $4.10)",
-    "Budget hearing: district overview - 2,788 students (2024-25); about 477 full-time staff projected (2025-26); 96 buildings, about 696,000 sq ft; 48 bus routes, over 465,000 miles a year; over 140,000 breakfasts and 450,000 lunches served (2024-25)",
-    "2 fundraisers approved",
-    "2 use-of-facilities requests approved"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Google Workspace, 3-year agreement",
+   "vendor": "CDW Amplified for Education",
+   "amount": 13788,
+   "amountText": "$13,788/year",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "10 school buses at $149,741 per bus",
+   "vendor": "Bendor Waters Truck & Tractor",
+   "amount": 1497410,
+   "amountText": "$1,497,410 total",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Fiber installation at Belmont Baseball Field House",
+   "vendor": "Tishomingo Connect",
+   "amount": 312,
+   "amountText": "$312",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Terminate/configure and finish fiber installation to Belmont Baseball Field House",
+   "vendor": null,
+   "amount": 1546.48,
+   "amountText": "$1,546.48",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Stamp machine rental agreement (state contract price), Belmont School, 48 months",
+   "vendor": "Pitney Bowes, Inc.",
+   "amount": 72.64,
+   "amountText": "$72.64",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Contract campus cleanup services at TCHS",
+   "vendor": "Funderflow Pressure Washing",
+   "amount": 4680,
+   "amountText": "$4,680",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Fence replacement at TCHS football field",
+   "vendor": "B&B Fence",
+   "amount": 34500,
+   "amountText": "$34,500",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Musicplay 1-year subscription, Tishomingo Elementary",
+   "vendor": "West Music",
+   "amount": 200,
+   "amountText": "$200",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "IXL Learning (K-2 ELA), Tishomingo Elementary",
+   "vendor": "IXL Learning",
+   "amount": 1400,
+   "amountText": "$1,400",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Nissan Sentra for Belmont School",
+   "vendor": "Brookway Corporation",
+   "amount": 20349,
+   "amountText": "$20,349",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Professional development services",
+   "vendor": "Kids First Education",
+   "amount": 4425,
+   "amountText": "$4,425",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Annual fire extinguisher inspection agreements, district-wide",
+   "vendor": "E-Fire",
+   "amount": 8209.85,
+   "amountText": "$8,209.85",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "National Board supplements for 2 teachers (pending state funds)",
+   "vendor": null,
+   "amount": 6000,
+   "amountText": "$6,000 each",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  }
+ ],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [
+  {
+   "item": "Cell phone/electronic device policy: use allowed after the 'last dismissal bell' instead of 'after 3:30'.",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Tobacco policy: students found violating the policy with THC/synthetics to be referred to Youth Court.",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  },
+  {
+   "item": "Drugs/alcohol policy: drug detection canines to visit each campus at least two times per semester.",
+   "source": {
+    "issue": "2025-07-24",
+    "page": 4
+   }
+  }
+ ],
+ "superintendent": [
+  "Superintendent Christie Holly informed the board of New Teacher Orientation on July 23 and Opening Day Convocation at Belmont on July 28.",
+  "A special board meeting was scheduled for July 31 at 8:00 a.m. to approve the budget; students return Friday, Aug. 1, 2025."
+ ],
+ "executiveSession": [],
+ "otherActions": [
+  "Budget hearing: the State has instructed districts to prepare for reduced federal funding",
+  "Budget hearing: previously approved adult meal price increases for 2025-2026 were addressed (breakfast $2.25 to $2.40; lunch $4.00 to $4.10)",
+  "Budget hearing: district overview - 2,788 students (2024-25); about 477 full-time staff projected (2025-26); 96 buildings, about 696,000 sq ft; 48 bus routes, over 465,000 miles a year; over 140,000 breakfasts and 450,000 lunches served (2024-25)",
+  "2 fundraisers approved",
+  "2 use-of-facilities requests approved"
+ ],
+ "quote": null,
+ "reviewed": false
 }

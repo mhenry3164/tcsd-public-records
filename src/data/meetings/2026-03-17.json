@@ -1,194 +1,194 @@
 {
-  "date": "2026-03-17",
-  "type": "Regular Meeting",
-  "dateNote": null,
-  "sources": [
-    {
-      "issue": "2026-03-19",
-      "page": 1
-    },
-    {
-      "issue": "2026-03-19",
-      "page": 7
-    }
-  ],
-  "headline": "Board Tackles Cellphone Concerns, Approves Key Personnel Moves",
-  "summary": "The board approved personnel for 2025-26 and 2026-27, field trips, fundraisers, facility-use requests, donations, six student transfers and purchases including a van for Tishomingo School and a Turf Tank rental for Belmont. Board members discussed enforcement of the no-cellphone policy and requested that teachers be written up each time they do not enforce it.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [
-    "Regular meeting, February 9, 2026",
-    "Special called meeting, March 5, 2026"
-  ],
-  "publicComment": null,
-  "votes": [
-    {
-      "item": "Approval of a teacher at IES and an assistant teacher/assistant football coach at IMS for 2026-2027",
-      "member": "Lyndon Cain",
-      "action": "absent",
-      "outcome": "approved",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 1
-      }
-    },
-    {
-      "item": "Approval of a teacher at Belmont Elementary",
-      "member": "Stacy Stepp",
-      "action": "recused",
-      "outcome": "approved",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 1
-      }
-    }
-  ],
-  "personnel": {
-    "hires": 13,
-    "resignations": 0,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 1,
-    "note": "Named hires: 13, including 2 summer workers at $10/hour, a cafeteria substitute, a long-term substitute, a homebound teacher, coaching assignments and a middle school athletic director. The board also approved 2026-2027 certified, non-certified and supplemental personnel recommendations across all campuses and departments (not itemized) and 'multiple resignations' (number not printed, so resignations recorded as 0). other = 1 volunteer."
+ "date": "2026-03-17",
+ "type": "Regular Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2026-03-19",
+   "page": 1
   },
-  "money": [
-    {
-      "item": "Belmont Middle School athletic director stipend, 2026-2027, from district maintenance funds",
-      "vendor": null,
-      "amount": 1500,
-      "amountText": "$1,500",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 1
-      }
-    },
-    {
-      "item": "Contractual services for stakeholder surveys",
-      "vendor": "Education Resources, LLC",
-      "amount": 8045,
-      "amountText": "$8,045",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "SRO equipment upgrades",
-      "vendor": null,
-      "amount": 11358.5,
-      "amountText": "$11,358.50",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "Security door installation at IES",
-      "vendor": null,
-      "amount": 985,
-      "amountText": "$985",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "2026 Chrysler Voyager van for Tishomingo School",
-      "vendor": null,
-      "amount": 38555,
-      "amountText": "$38,555",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "Turf Tank rental agreement for Belmont",
-      "vendor": "Turf Tank",
-      "amount": 17700,
-      "amountText": "$17,700",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "HVAC installation at TCHS",
-      "vendor": null,
-      "amount": 1750,
-      "amountText": "$1,750",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "Elevator inspection agreement",
-      "vendor": null,
-      "amount": 1500,
-      "amountText": "$1,500",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "Fire system upgrades at IES",
-      "vendor": null,
-      "amount": 1736.96,
-      "amountText": "$1,736.96",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    }
-  ],
-  "donations": {
-    "count": 4,
-    "total": 5779,
-    "note": "Includes a 2022 EZGO golf cart valued at approximately $3,500."
+  {
+   "issue": "2026-03-19",
+   "page": 7
+  }
+ ],
+ "headline": "Board Tackles Cellphone Concerns, Approves Key Personnel Moves",
+ "summary": "The board approved personnel for 2025-26 and 2026-27, field trips, fundraisers, facility-use requests, donations, six student transfers and purchases including a van for Tishomingo School and a Turf Tank rental for Belmont. Board members discussed enforcement of the no-cellphone policy and requested that teachers be written up each time they do not enforce it.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [
+  "Regular meeting, February 9, 2026",
+  "Special called meeting, March 5, 2026"
+ ],
+ "publicComment": null,
+ "votes": [
+  {
+   "item": "Approval of a teacher at IES and an assistant teacher/assistant football coach at IMS for 2026-2027",
+   "member": "Lyndon Cain",
+   "action": "absent",
+   "outcome": "approved",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 1
+   }
   },
-  "policy": [
-    {
-      "item": "Board requested that teachers be written up every time they do not enforce the No Cellphone Policy; the report states policy does not allow cellphones out at any point during the school day.",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "Approved special education fiscal policies and procedures.",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    },
-    {
-      "item": "Discussed potential updates to extracurricular participation policies (no action reported).",
-      "source": {
-        "issue": "2026-03-19",
-        "page": 7
-      }
-    }
-  ],
-  "superintendent": [],
-  "executiveSession": [],
-  "otherActions": [
-    "Recognized each school's Teachers of the Year and the district's Administrators of the Year",
-    "Field trip requests approved for all campuses (number not printed)",
-    "5 fundraisers approved",
-    "3 use-of-facilities requests approved (all retroactive)",
-    "6 student transfers approved",
-    "Financial report presented",
-    "Nursing forms for 2026-2027",
-    "Mowing contracts for Burnsville and IES",
-    "TCHS fall play production of High School Musical - One Act Version",
-    "Architectural agreements for district facility projects",
-    "Signage for IMS and Burnsville gyms",
-    "Sale of surplus vehicles and bid advertising for print services",
-    "Discussed possible changes to school photography services and storm damage at the TCHS tennis courts; members expressed interest in building new courts at another location",
-    "Working session set for March 31, 2026; next regular meeting April 13, 2026"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Approval of a teacher at Belmont Elementary",
+   "member": "Stacy Stepp",
+   "action": "recused",
+   "outcome": "approved",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 1
+   }
+  }
+ ],
+ "personnel": {
+  "hires": 13,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 1,
+  "note": "Named hires: 13, including 2 summer workers at $10/hour, a cafeteria substitute, a long-term substitute, a homebound teacher, coaching assignments and a middle school athletic director. The board also approved 2026-2027 certified, non-certified and supplemental personnel recommendations across all campuses and departments (not itemized) and 'multiple resignations' (number not printed, so resignations recorded as 0). other = 1 volunteer."
+ },
+ "money": [
+  {
+   "item": "Belmont Middle School athletic director stipend, 2026-2027, from district maintenance funds",
+   "vendor": null,
+   "amount": 1500,
+   "amountText": "$1,500",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 1
+   }
+  },
+  {
+   "item": "Contractual services for stakeholder surveys",
+   "vendor": "Education Resources, LLC",
+   "amount": 8045,
+   "amountText": "$8,045",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "SRO equipment upgrades",
+   "vendor": null,
+   "amount": 11358.5,
+   "amountText": "$11,358.50",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "Security door installation at IES",
+   "vendor": null,
+   "amount": 985,
+   "amountText": "$985",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "2026 Chrysler Voyager van for Tishomingo School",
+   "vendor": null,
+   "amount": 38555,
+   "amountText": "$38,555",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "Turf Tank rental agreement for Belmont",
+   "vendor": "Turf Tank",
+   "amount": 17700,
+   "amountText": "$17,700",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "HVAC installation at TCHS",
+   "vendor": null,
+   "amount": 1750,
+   "amountText": "$1,750",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "Elevator inspection agreement",
+   "vendor": null,
+   "amount": 1500,
+   "amountText": "$1,500",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "Fire system upgrades at IES",
+   "vendor": null,
+   "amount": 1736.96,
+   "amountText": "$1,736.96",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  }
+ ],
+ "donations": {
+  "count": 4,
+  "total": 5779,
+  "note": "Includes a 2022 EZGO golf cart valued at approximately $3,500."
+ },
+ "policy": [
+  {
+   "item": "Board requested that teachers be written up every time they do not enforce the No Cellphone Policy; the report states policy does not allow cellphones out at any point during the school day.",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "Approved special education fiscal policies and procedures.",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  },
+  {
+   "item": "Discussed potential updates to extracurricular participation policies (no action reported).",
+   "source": {
+    "issue": "2026-03-19",
+    "page": 7
+   }
+  }
+ ],
+ "superintendent": [],
+ "executiveSession": [],
+ "otherActions": [
+  "Recognized each school's Teachers of the Year and the district's Administrators of the Year",
+  "Field trip requests approved for all campuses (number not printed)",
+  "5 fundraisers approved",
+  "3 use-of-facilities requests approved (all retroactive)",
+  "6 student transfers approved",
+  "Financial report presented",
+  "Nursing forms for 2026-2027",
+  "Mowing contracts for Burnsville and IES",
+  "TCHS fall play production of High School Musical - One Act Version",
+  "Architectural agreements for district facility projects",
+  "Signage for IMS and Burnsville gyms",
+  "Sale of surplus vehicles and bid advertising for print services",
+  "Discussed possible changes to school photography services and storm damage at the TCHS tennis courts; members expressed interest in building new courts at another location",
+  "Working session set for March 31, 2026; next regular meeting April 13, 2026"
+ ],
+ "quote": null,
+ "reviewed": false
 }

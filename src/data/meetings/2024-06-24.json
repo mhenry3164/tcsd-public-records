@@ -1,40 +1,40 @@
 {
-  "date": "2024-06-24",
-  "type": "Special Called Meeting",
-  "dateNote": "Report states a Special Called Board Meeting was held on Monday, June 24, 2024, at 8:00 a.m.",
-  "sources": [
-    {
-      "issue": "2024-06-27",
-      "page": 1
-    }
-  ],
-  "headline": "Tishomingo County School District hires new principal for Tishomingo County High School",
-  "summary": "The board held a special called meeting to vote on hiring a head principal for Tishomingo County High School and approved the hire.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [],
-  "personnel": {
-    "hires": 1,
-    "resignations": 0,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 0,
-    "note": "Head principal, Tishomingo County High School."
-  },
-  "money": [],
-  "donations": {
-    "count": 0,
-    "total": 0,
-    "note": null
-  },
-  "policy": [],
-  "superintendent": [],
-  "executiveSession": [],
-  "otherActions": [
-    "The report states the district still had open positions at Belmont, Burnsville, the Career and Technical Center, Iuka and Tishomingo County, and needed substitute teachers."
-  ],
-  "quote": null,
-  "reviewed": false
+ "date": "2024-06-24",
+ "type": "Special Called Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2024-06-27",
+   "page": 1
+  }
+ ],
+ "headline": "Tishomingo County School District hires new principal for Tishomingo County High School",
+ "summary": "The board held a special called meeting to vote on hiring a head principal for Tishomingo County High School and approved the hire.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [],
+ "personnel": {
+  "hires": 1,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 0,
+  "note": "Head principal, Tishomingo County High School."
+ },
+ "money": [],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [],
+ "superintendent": [],
+ "executiveSession": [],
+ "otherActions": [
+  "The report states the district still had open positions at Belmont, Burnsville, the Career and Technical Center, Iuka and Tishomingo County, and needed substitute teachers."
+ ],
+ "quote": null,
+ "reviewed": false
 }

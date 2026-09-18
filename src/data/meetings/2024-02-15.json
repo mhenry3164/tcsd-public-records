@@ -1,115 +1,115 @@
 {
-  "date": "2024-02-15",
-  "type": "Board meeting (type not stated)",
-  "dateNote": "The only account is a letter to constituents by board member Jessica Seaton, printed under the heading 'School Board Meeting' in the issue of Feb. 22, 2024 (the page header on p. 3 of that issue reads 'February 15, 2024'). The letter says the meeting was 'held on 2/15/2024' and does not state the meeting type. A district legal notice (invitation for depository bids) states it was issued 'by authority of the Board of Trustees on this 15th day of February, 2024.' The paper printed no news report of this meeting.",
-  "sources": [
-    {
-      "issue": "2024-02-22",
-      "page": 3
-    },
-    {
-      "issue": "2024-02-29",
-      "page": 5
-    }
-  ],
-  "headline": "School Board Meeting",
-  "summary": "According to a letter by board member Jessica Seaton printed in the paper, the board voted 3-2 to extend the superintendent's contract, which ran to June 30, 2025, and to approve a $10,000 raise for the superintendent. The letter names Dr. Jim Perkins as making the motion, Lyndon Cain as seconding, Jeff Daniel as voting in favor, and Seaton and Stacy Stepp as voting against.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [
-    {
-      "item": "Extension of the superintendent's contract and a $10,000 salary increase",
-      "member": "Dr. Jim Perkins",
-      "action": "motion",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-02-22",
-        "page": 3
-      }
-    },
-    {
-      "item": "Extension of the superintendent's contract and a $10,000 salary increase",
-      "member": "Lyndon Cain",
-      "action": "second",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-02-22",
-        "page": 3
-      }
-    },
-    {
-      "item": "Extension of the superintendent's contract and a $10,000 salary increase",
-      "member": "Jeff Daniel",
-      "action": "in favor",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-02-22",
-        "page": 3
-      }
-    },
-    {
-      "item": "Extension of the superintendent's contract and a $10,000 salary increase",
-      "member": "Jessica Seaton",
-      "action": "opposed",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-02-22",
-        "page": 3
-      }
-    },
-    {
-      "item": "Extension of the superintendent's contract and a $10,000 salary increase",
-      "member": "Stacy Stepp",
-      "action": "opposed",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-02-22",
-        "page": 3
-      }
-    }
-  ],
-  "personnel": {
-    "hires": 0,
-    "resignations": 0,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 0,
-    "note": null
+ "date": "2024-02-15",
+ "type": "Board meeting (type not stated)",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2024-02-22",
+   "page": 3
   },
-  "money": [
-    {
-      "item": "Raise for the superintendent, approved with an extension of the superintendent's contract",
-      "vendor": null,
-      "amount": 10000,
-      "amountText": "$10,000",
-      "source": {
-        "issue": "2024-02-22",
-        "page": 3
-      }
-    }
-  ],
-  "donations": {
-    "count": 0,
-    "total": 0,
-    "note": null
+  {
+   "issue": "2024-02-29",
+   "page": 5
+  }
+ ],
+ "headline": "School Board Meeting",
+ "summary": "According to a letter by board member Jessica Seaton printed in the paper, the board voted 3-2 to extend the superintendent's contract, which ran to June 30, 2025, and to approve a $10,000 raise for the superintendent. The letter names Dr. Jim Perkins as making the motion, Lyndon Cain as seconding, Jeff Daniel as voting in favor, and Seaton and Stacy Stepp as voting against.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [
+  {
+   "item": "Extension of the superintendent's contract and a $10,000 salary increase",
+   "member": "Dr. Jim Perkins",
+   "action": "motion",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-02-22",
+    "page": 3
+   }
   },
-  "policy": [],
-  "superintendent": [],
-  "executiveSession": [],
-  "otherActions": [
-    "Seaton's letter states the superintendent's contract had about a year and a half remaining, to June 30, 2025, and that a raise was not on the agenda.",
-    "Seaton's letter states Dr. Jim Perkins (District 3) and Jeff Daniel (District 4) are up for re-election in November 2024.",
-    "Invitation for depository bids (district funds, July 1, 2024 through June 30, 2027) issued by authority of the board dated Feb. 15, 2024, per the published legal notice."
-  ],
-  "quote": {
-    "text": "Despite my vocal opposition, the vote ultimately ended in a 3-2 split, with the extension of the contract and the $10,000 raise passing.",
-    "speaker": "Jessica Seaton, board member (letter to constituents)",
-    "source": {
-      "issue": "2024-02-22",
-      "page": 3
-    }
+  {
+   "item": "Extension of the superintendent's contract and a $10,000 salary increase",
+   "member": "Lyndon Cain",
+   "action": "second",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-02-22",
+    "page": 3
+   }
   },
-  "reviewed": false
+  {
+   "item": "Extension of the superintendent's contract and a $10,000 salary increase",
+   "member": "Jeff Daniel",
+   "action": "in favor",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-02-22",
+    "page": 3
+   }
+  },
+  {
+   "item": "Extension of the superintendent's contract and a $10,000 salary increase",
+   "member": "Jessica Seaton",
+   "action": "opposed",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-02-22",
+    "page": 3
+   }
+  },
+  {
+   "item": "Extension of the superintendent's contract and a $10,000 salary increase",
+   "member": "Stacy Stepp",
+   "action": "opposed",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-02-22",
+    "page": 3
+   }
+  }
+ ],
+ "personnel": {
+  "hires": 0,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 0,
+  "note": null
+ },
+ "money": [
+  {
+   "item": "Raise for the superintendent, approved with an extension of the superintendent's contract",
+   "vendor": null,
+   "amount": 10000,
+   "amountText": "$10,000",
+   "source": {
+    "issue": "2024-02-22",
+    "page": 3
+   }
+  }
+ ],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [],
+ "superintendent": [],
+ "executiveSession": [],
+ "otherActions": [
+  "Seaton's letter states the superintendent's contract had about a year and a half remaining, to June 30, 2025, and that a raise was not on the agenda.",
+  "Seaton's letter states Dr. Jim Perkins (District 3) and Jeff Daniel (District 4) are up for re-election in November 2024.",
+  "Invitation for depository bids (district funds, July 1, 2024 through June 30, 2027) issued by authority of the board dated Feb. 15, 2024, per the published legal notice."
+ ],
+ "quote": {
+  "text": "Despite my vocal opposition, the vote ultimately ended in a 3-2 split, with the extension of the contract and the $10,000 raise passing.",
+  "speaker": "Jessica Seaton, board member (letter to constituents)",
+  "source": {
+   "issue": "2024-02-22",
+   "page": 3
+  }
+ },
+ "reviewed": false
 }

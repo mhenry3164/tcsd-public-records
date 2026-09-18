@@ -1,52 +1,52 @@
 {
-  "date": "2026-07-21",
-  "type": "Annual Public Budget Hearing",
-  "dateNote": "The article (issue of July 30, 2026) does not give the date of the budget meeting. The June 11 meeting scheduled the annual public hearing for July 21, the July 9 report announced it for July 21 at 6:00 p.m., and the Aug. 10 meeting approved 'July 21, Annual Public Budget Hearing' minutes. The headline says the district 'Adopts' the budget, but the text says the board was scheduled to approve it on Thursday, July 30; the paper did not report the July 30 vote or the July 21 special called meeting.",
-  "sources": [
-    {
-      "issue": "2026-07-30",
-      "page": 4
-    }
-  ],
-  "headline": "Tishomingo County School District Adopts Balanced Budget for 2026-27 Fiscal Year",
-  "summary": "The district presented its proposed 2026-27 budget at its annual budget meeting, including enrollment and staffing figures and a requested millage of 47 mills. The article states the board was scheduled to approve the budget on July 30.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [],
-  "personnel": {
-    "hires": 0,
-    "resignations": 0,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 0,
-    "note": null
-  },
-  "money": [],
-  "donations": {
-    "count": 0,
-    "total": 0,
-    "note": null
-  },
-  "policy": [],
-  "superintendent": [
-    "Superintendent Christie Holly said investing directly in classrooms and student learning continues to be the district's highest priority."
-  ],
-  "executiveSession": [],
-  "otherActions": [
-    "Budget presentation: about 2,626 students, 475 full-time staff and 78 part-time employees",
-    "Requested millage remains 47 mills, including funding for district maintenance, debt service and school operations",
-    "Officials noted increases in employer PERS contributions and the expiration of ESSER funding",
-    "Capital improvement projects in the upcoming fiscal year include building repairs, technology upgrades and facility improvements"
-  ],
-  "quote": {
-    "text": "The budget is more than numbers. It reflects the district's priorities and commitment to providing quality educational opportunities for every student.",
-    "speaker": "District budget presentation (as quoted by the paper)",
-    "source": {
-      "issue": "2026-07-30",
-      "page": 4
-    }
-  },
-  "reviewed": false
+ "date": "2026-07-21",
+ "type": "Annual Public Budget Hearing",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2026-07-30",
+   "page": 4
+  }
+ ],
+ "headline": "Tishomingo County School District Adopts Balanced Budget for 2026-27 Fiscal Year",
+ "summary": "The district presented its proposed 2026-27 budget at its annual budget meeting, including enrollment and staffing figures and a requested millage of 47 mills. The article states the board was scheduled to approve the budget on July 30.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [],
+ "personnel": {
+  "hires": 0,
+  "resignations": 0,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 0,
+  "note": null
+ },
+ "money": [],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [],
+ "superintendent": [
+  "Superintendent Christie Holly said investing directly in classrooms and student learning continues to be the district's highest priority."
+ ],
+ "executiveSession": [],
+ "otherActions": [
+  "Budget presentation: about 2,626 students, 475 full-time staff and 78 part-time employees",
+  "Requested millage remains 47 mills, including funding for district maintenance, debt service and school operations",
+  "Officials noted increases in employer PERS contributions and the expiration of ESSER funding",
+  "Capital improvement projects in the upcoming fiscal year include building repairs, technology upgrades and facility improvements"
+ ],
+ "quote": {
+  "text": "The budget is more than numbers. It reflects the district's priorities and commitment to providing quality educational opportunities for every student.",
+  "speaker": "District budget presentation (as quoted by the paper)",
+  "source": {
+   "issue": "2026-07-30",
+   "page": 4
+  }
+ },
+ "reviewed": false
 }

@@ -1,300 +1,300 @@
 {
-  "date": "2026-07-09",
-  "type": "Regular Meeting",
-  "dateNote": null,
-  "sources": [
-    {
-      "issue": "2026-07-16",
-      "page": 5
-    },
-    {
-      "issue": "2026-07-16",
-      "page": 6
-    }
-  ],
-  "headline": "District Prepares for New School Year with Staffing, Facility, and Policy Updates",
-  "summary": "The board approved personnel, donations, school wellness policies, 2026-2027 board policies reflecting the state's 66% attendance requirement, a graduation stoles/cords policy, a policy prohibiting student smart glasses and wearable recording devices bell to bell, and science textbooks. It awarded six base bids for the bleachers and press boxes project and denied combination Bid G.",
-  "attendance": "All board members were present for the meeting with Stacy Stepp attending via phone call.",
-  "calledToOrderBy": null,
-  "minutesApproved": [
-    "Regular meeting, June 11, 2026",
-    "Executive session, June 11, 2026",
-    "Special called meeting, June 17, 2026",
-    "Special called meeting, June 30, 2026"
-  ],
-  "publicComment": "There were no public comments and no one appeared before the board.",
-  "votes": [],
-  "personnel": {
-    "hires": 19,
-    "resignations": 5,
-    "retirements": 0,
-    "transfers": 1,
-    "other": 2,
-    "note": "Hires include 8 substitutes (6 substitute teachers, a cafeteria substitute and a substitute bus driver), 2 ATSI tutors, teachers, coaching assignments, a middle school athletic director and a welding instructor; the 2025-2026 substitute teacher list was also approved (not counted). other = 1 leave request and 1 National Board supplement; transfers = 1 employee transfer reported in the superintendent's report."
+ "date": "2026-07-09",
+ "type": "Regular Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2026-07-16",
+   "page": 5
   },
-  "money": [
-    {
-      "item": "Bleachers and press boxes, Base Bid A (TCHS)",
-      "vendor": "3-D Construction Company MS, LLC",
-      "amount": 212400,
-      "amountText": "$212,400.00",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Bleachers and press boxes, Base Bid B (Belmont High Football Field)",
-      "vendor": "3-D Construction Company MS, LLC",
-      "amount": 210630,
-      "amountText": "$210,630",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Bleachers and press boxes, Base Bid C (Belmont High Baseball Field)",
-      "vendor": "M&N Construction Company",
-      "amount": 199000,
-      "amountText": "$199,000",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Bleachers and press boxes, Base Bid D (IMS)",
-      "vendor": "3-D Construction Company MS, LLC",
-      "amount": 222607,
-      "amountText": "$222,607",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Bleachers and press boxes, Base Bid E (Tishomingo Middle School)",
-      "vendor": "3-D Construction Company MS, LLC",
-      "amount": 190350,
-      "amountText": "$190,350",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Bleachers and press boxes, Base Bid F (Burnsville School)",
-      "vendor": "3-D Construction Company MS, LLC",
-      "amount": 356100,
-      "amountText": "$356,100",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Annual inspection of portable fire extinguishers, district-wide (10 site quotes)",
-      "vendor": "E Fire, Inc.",
-      "amount": 4114.35,
-      "amountText": "10 site quotes from $45 to $1,684.10; total $4,114.35 computed from printed figures (no total printed)",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Turnitin one-year subscription (08/06/2026-08/05/2027), lowest quote",
-      "vendor": "Turnitin, LLC",
-      "amount": 7173.36,
-      "amountText": "$7,173.36",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Miscellaneous communication replacement parts",
-      "vendor": "Integrated Communications, Inc",
-      "amount": 280,
-      "amountText": "$280",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Wireless mic, TCHS (Gilbert Short funds), lowest quote",
-      "vendor": "Axis Sound & Lighting",
-      "amount": 4998,
-      "amountText": "$4,998",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Projector for Belmont Auditorium (not lowest, but best quote)",
-      "vendor": "Axis Sound & Lighting",
-      "amount": 8875,
-      "amountText": "$8,875",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Science textbooks, state contract",
-      "vendor": "Tennessee Book Company",
-      "amount": 226691.21,
-      "amountText": "$226,691.21",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Release of payment: gutters, downspouts and leaf protection, VoTech IT building",
-      "vendor": "Morgan Restoration LLC",
-      "amount": 4542,
-      "amountText": "$4,542",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Release of payment: gutters, downspouts and leaf protection, VoTech main building",
-      "vendor": "Morgan Restoration LLC",
-      "amount": 8690,
-      "amountText": "$8,690",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Removal of 2 oak trees and stump grinding at Tishomingo Football Field",
-      "vendor": "Patterson Farm & Dirt Work, LLC",
-      "amount": 4900,
-      "amountText": "$4,900",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Removal of 1 large oak tree and stump grinding at Burnsville Baseball fields",
-      "vendor": "Paterson Farm & Dirt Work LLC",
-      "amount": 2300,
-      "amountText": "$2,300",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Release of payment: installing gutters on IMS",
-      "vendor": "Morgan Restoration LLC",
-      "amount": 10300,
-      "amountText": "$10,300",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "One-year subscription to reporting system replacing the StopIt app (lowest quote)",
-      "vendor": "Vector Solutions Alert K-12",
-      "amount": 2025,
-      "amountText": "$2,025",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "National Board supplement for one teacher (CALT certification), per MDE regulations",
-      "vendor": null,
-      "amount": 6000,
-      "amountText": "$6000",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 5
-      }
-    }
-  ],
-  "donations": {
-    "count": 2,
-    "total": 12852,
-    "note": null
+  {
+   "issue": "2026-07-16",
+   "page": 6
+  }
+ ],
+ "headline": "District Prepares for New School Year with Staffing, Facility, and Policy Updates",
+ "summary": "The board approved personnel, donations, school wellness policies, 2026-2027 board policies reflecting the state's 66% attendance requirement, a graduation stoles/cords policy, a policy prohibiting student smart glasses and wearable recording devices bell to bell, and science textbooks. It awarded six base bids for the bleachers and press boxes project and denied combination Bid G.",
+ "attendance": "All board members were present for the meeting with Stacy Stepp attending via phone call.",
+ "calledToOrderBy": null,
+ "minutesApproved": [
+  "Regular meeting, June 11, 2026",
+  "Executive session, June 11, 2026",
+  "Special called meeting, June 17, 2026",
+  "Special called meeting, June 30, 2026"
+ ],
+ "publicComment": "There were no public comments and no one appeared before the board.",
+ "votes": [],
+ "personnel": {
+  "hires": 19,
+  "resignations": 5,
+  "retirements": 0,
+  "transfers": 1,
+  "other": 2,
+  "note": "Hires include 8 substitutes (6 substitute teachers, a cafeteria substitute and a substitute bus driver), 2 ATSI tutors, teachers, coaching assignments, a middle school athletic director and a welding instructor; the 2025-2026 substitute teacher list was also approved (not counted). other = 1 leave request and 1 National Board supplement; transfers = 1 employee transfer reported in the superintendent's report."
+ },
+ "money": [
+  {
+   "item": "Bleachers and press boxes, Base Bid A (TCHS)",
+   "vendor": "3-D Construction Company MS, LLC",
+   "amount": 212400,
+   "amountText": "$212,400.00",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
   },
-  "policy": [
-    {
-      "item": "Approved 2026-2027 School Wellness Policies for Belmont, Burnsville, IES, IMS, TCHS and Tishomingo.",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 5
-      }
-    },
-    {
-      "item": "Approved policy changes reflecting the state law change in attendance requirement from 63% to 66% of the school day, along with School Board Policies for 2026/2027.",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 5
-      }
-    },
-    {
-      "item": "Approved the 2026/2027 Child Nutrition Complaint Policy.",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Approved a graduation stoles/cords policy: only regalia distributed by an officially recognized school club or honor society; new regalia must be submitted to the principal by Dec. 15 and decided by the board at its January meeting.",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Adopted a policy prohibiting student possession and use of smart glasses and wearable recording technology bell to bell, including class transitions, lunch and school transportation.",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    },
-    {
-      "item": "Approved the 2026/2027 Student Handbook.",
-      "source": {
-        "issue": "2026-07-16",
-        "page": 6
-      }
-    }
-  ],
-  "superintendent": [
-    "Superintendent Christie Holly discussed the changes to the attendance policy that went into effect July 1, 2026.",
-    "Holly updated the board on district maintenance and reported no teacher or student attendance data due to summer break and no StopIt or Google reports this month.",
-    "The superintendent, directors and principals will attend the MASS Summer Conference in Biloxi in July.",
-    "New teacher training is July 23 at the Career & Technical Center, the annual budget hearing is July 21 at 6:00 p.m., and opening professional development is July 27 at TCHS.",
-    "A special called board meeting by phone is set for July 30 at 8:00 a.m. to vote on the budget; the first day for students is July 31."
-  ],
-  "executiveSession": [
-    "student transfer"
-  ],
-  "otherActions": [
-    "Denied Base Bid G (combination bid), 3-D Construction Company MS, LLC, $1,433,721",
-    "Approved denial of enrollment of two students due to unpaid tuition obligations from 2025-2026",
-    "Approved the pillars, vision and mission drafted by the Strategic Planning Committee, after an update from Board President Jessica Seaton",
-    "Authorized the annual transfer of district funds to school athletic funds",
-    "1 field trip approved",
-    "1 fundraiser approved",
-    "Fixed asset deletions for July 2026 approved",
-    "Financial report given",
-    "1 student transfer approved; another taken to executive session",
-    "Next regular meeting set for Aug. 10, 2026"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Bleachers and press boxes, Base Bid B (Belmont High Football Field)",
+   "vendor": "3-D Construction Company MS, LLC",
+   "amount": 210630,
+   "amountText": "$210,630",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Bleachers and press boxes, Base Bid C (Belmont High Baseball Field)",
+   "vendor": "M&N Construction Company",
+   "amount": 199000,
+   "amountText": "$199,000",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Bleachers and press boxes, Base Bid D (IMS)",
+   "vendor": "3-D Construction Company MS, LLC",
+   "amount": 222607,
+   "amountText": "$222,607",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Bleachers and press boxes, Base Bid E (Tishomingo Middle School)",
+   "vendor": "3-D Construction Company MS, LLC",
+   "amount": 190350,
+   "amountText": "$190,350",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Bleachers and press boxes, Base Bid F (Burnsville School)",
+   "vendor": "3-D Construction Company MS, LLC",
+   "amount": 356100,
+   "amountText": "$356,100",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Annual inspection of portable fire extinguishers, district-wide (10 site quotes)",
+   "vendor": "E Fire, Inc.",
+   "amount": 4114.35,
+   "amountText": "10 site quotes from $45 to $1,684.10; total $4,114.35 computed from printed figures (no total printed)",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Turnitin one-year subscription (08/06/2026-08/05/2027), lowest quote",
+   "vendor": "Turnitin, LLC",
+   "amount": 7173.36,
+   "amountText": "$7,173.36",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Miscellaneous communication replacement parts",
+   "vendor": "Integrated Communications, Inc",
+   "amount": 280,
+   "amountText": "$280",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Wireless mic, TCHS (Gilbert Short funds), lowest quote",
+   "vendor": "Axis Sound & Lighting",
+   "amount": 4998,
+   "amountText": "$4,998",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Projector for Belmont Auditorium (not lowest, but best quote)",
+   "vendor": "Axis Sound & Lighting",
+   "amount": 8875,
+   "amountText": "$8,875",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Science textbooks, state contract",
+   "vendor": "Tennessee Book Company",
+   "amount": 226691.21,
+   "amountText": "$226,691.21",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Release of payment: gutters, downspouts and leaf protection, VoTech IT building",
+   "vendor": "Morgan Restoration LLC",
+   "amount": 4542,
+   "amountText": "$4,542",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Release of payment: gutters, downspouts and leaf protection, VoTech main building",
+   "vendor": "Morgan Restoration LLC",
+   "amount": 8690,
+   "amountText": "$8,690",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Removal of 2 oak trees and stump grinding at Tishomingo Football Field",
+   "vendor": "Patterson Farm & Dirt Work, LLC",
+   "amount": 4900,
+   "amountText": "$4,900",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Removal of 1 large oak tree and stump grinding at Burnsville Baseball fields",
+   "vendor": "Paterson Farm & Dirt Work LLC",
+   "amount": 2300,
+   "amountText": "$2,300",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Release of payment: installing gutters on IMS",
+   "vendor": "Morgan Restoration LLC",
+   "amount": 10300,
+   "amountText": "$10,300",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "One-year subscription to reporting system replacing the StopIt app (lowest quote)",
+   "vendor": "Vector Solutions Alert K-12",
+   "amount": 2025,
+   "amountText": "$2,025",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "National Board supplement for one teacher (CALT certification), per MDE regulations",
+   "vendor": null,
+   "amount": 6000,
+   "amountText": "$6000",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 5
+   }
+  }
+ ],
+ "donations": {
+  "count": 2,
+  "total": 12852,
+  "note": null
+ },
+ "policy": [
+  {
+   "item": "Approved 2026-2027 School Wellness Policies for Belmont, Burnsville, IES, IMS, TCHS and Tishomingo.",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 5
+   }
+  },
+  {
+   "item": "Approved policy changes reflecting the state law change in attendance requirement from 63% to 66% of the school day, along with School Board Policies for 2026/2027.",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 5
+   }
+  },
+  {
+   "item": "Approved the 2026/2027 Child Nutrition Complaint Policy.",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Approved a graduation stoles/cords policy: only regalia distributed by an officially recognized school club or honor society; new regalia must be submitted to the principal by Dec. 15 and decided by the board at its January meeting.",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Adopted a policy prohibiting student possession and use of smart glasses and wearable recording technology bell to bell, including class transitions, lunch and school transportation.",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  },
+  {
+   "item": "Approved the 2026/2027 Student Handbook.",
+   "source": {
+    "issue": "2026-07-16",
+    "page": 6
+   }
+  }
+ ],
+ "superintendent": [
+  "Superintendent Christie Holly discussed the changes to the attendance policy that went into effect July 1, 2026.",
+  "Holly updated the board on district maintenance and reported no teacher or student attendance data due to summer break and no StopIt or Google reports this month.",
+  "The superintendent, directors and principals will attend the MASS Summer Conference in Biloxi in July.",
+  "New teacher training is July 23 at the Career & Technical Center, the annual budget hearing is July 21 at 6:00 p.m., and opening professional development is July 27 at TCHS.",
+  "A special called board meeting by phone is set for July 30 at 8:00 a.m. to vote on the budget; the first day for students is July 31."
+ ],
+ "executiveSession": [
+  "student transfer"
+ ],
+ "otherActions": [
+  "Denied Base Bid G (combination bid), 3-D Construction Company MS, LLC, $1,433,721",
+  "Approved denial of enrollment of two students due to unpaid tuition obligations from 2025-2026",
+  "Approved the pillars, vision and mission drafted by the Strategic Planning Committee, after an update from Board President Jessica Seaton",
+  "Authorized the annual transfer of district funds to school athletic funds",
+  "1 field trip approved",
+  "1 fundraiser approved",
+  "Fixed asset deletions for July 2026 approved",
+  "Financial report given",
+  "1 student transfer approved; another taken to executive session",
+  "Next regular meeting set for Aug. 10, 2026"
+ ],
+ "quote": null,
+ "reviewed": false
 }

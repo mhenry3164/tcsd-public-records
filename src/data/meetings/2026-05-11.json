@@ -1,166 +1,166 @@
 {
-  "date": "2026-05-11",
-  "type": "Regular Meeting",
-  "dateNote": "Report says 'its recent meeting' without a date. It approved April 13 minutes; the June 11 meeting approved 'May 11 regular meeting' minutes; calendar lists May 11, 2026 Regular.",
-  "sources": [
-    {
-      "issue": "2026-05-14",
-      "page": 8
-    },
-    {
-      "issue": "2026-05-14",
-      "page": 9
-    }
-  ],
-  "headline": "Tishomingo County School Board Covers Staffing, Technology, and Athletics",
-  "summary": "The board approved personnel, field trips, fundraisers, grants, technology subscriptions, fuel bids, bid advertising for the press box and bleacher project and the purchase of Darktrace cybersecurity software. It approved a revised policy allowing eighth-grade athletes to practice with high school teams, with board member Jody McClung opposed.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [
-    "Regular meeting, April 13, 2026",
-    "Executive session, April 13, 2026",
-    "Special called meeting, April 22, 2026",
-    "Special called meeting, May 1, 2026"
-  ],
-  "publicComment": "No one appeared for public comments.",
-  "votes": [
-    {
-      "item": "Policy allowing eighth-grade athletes who have completed middle school seasons to practice with high school teams, amended so transportation is the district's responsibility",
-      "member": "Stacy Stepp",
-      "action": "motion",
-      "outcome": "passed",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 9
-      }
-    },
-    {
-      "item": "Policy allowing eighth-grade athletes who have completed middle school seasons to practice with high school teams, amended so transportation is the district's responsibility",
-      "member": "Lyndon Cain",
-      "action": "second",
-      "outcome": "passed",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 9
-      }
-    },
-    {
-      "item": "Policy allowing eighth-grade athletes who have completed middle school seasons to practice with high school teams, amended so transportation is the district's responsibility",
-      "member": "Jody McClung",
-      "action": "opposed",
-      "outcome": "passed",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 9
-      }
-    }
-  ],
-  "personnel": {
-    "hires": 14,
-    "resignations": 9,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 1,
-    "note": "Hires include a summer worker at $10/hour and several coaching and athletic-administration assignments; one employee resigned one position and was hired to another. other = 1 volunteer."
+ "date": "2026-05-11",
+ "type": "Regular Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2026-05-14",
+   "page": 8
   },
-  "money": [
-    {
-      "item": "TCHS Guard/Winter Guard instructor supplement",
-      "vendor": null,
-      "amount": 1500,
-      "amountText": "$1,500",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 8
-      }
-    },
-    {
-      "item": "TCHS Theatre Assistant supplement, from TCHS district maintenance",
-      "vendor": null,
-      "amount": 900,
-      "amountText": "$900",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 8
-      }
-    },
-    {
-      "item": "Grant for Red Ribbon Week activities",
-      "vendor": null,
-      "amount": 2080.35,
-      "amountText": "$2,080.35",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 8
-      }
-    },
-    {
-      "item": "Grant for Special Olympics programs",
-      "vendor": null,
-      "amount": 8000,
-      "amountText": "$8,000",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 8
-      }
-    },
-    {
-      "item": "Darktrace cybersecurity software",
-      "vendor": "cSpire",
-      "amount": 44743,
-      "amountText": "$44,743",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 9
-      }
-    },
-    {
-      "item": "Removal of hazardous trees and stumps near Burnsville baseball fields",
-      "vendor": "Paterson Farm and Dirt Work, LLC",
-      "amount": 4000,
-      "amountText": "$4,000",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 9
-      }
-    }
-  ],
-  "donations": {
-    "count": 1,
-    "total": 25000,
-    "note": null
+  {
+   "issue": "2026-05-14",
+   "page": 9
+  }
+ ],
+ "headline": "Tishomingo County School Board Covers Staffing, Technology, and Athletics",
+ "summary": "The board approved personnel, field trips, fundraisers, grants, technology subscriptions, fuel bids, bid advertising for the press box and bleacher project and the purchase of Darktrace cybersecurity software. It approved a revised policy allowing eighth-grade athletes to practice with high school teams, with board member Jody McClung opposed.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [
+  "Regular meeting, April 13, 2026",
+  "Executive session, April 13, 2026",
+  "Special called meeting, April 22, 2026",
+  "Special called meeting, May 1, 2026"
+ ],
+ "publicComment": "No one appeared for public comments.",
+ "votes": [
+  {
+   "item": "Policy allowing eighth-grade athletes who have completed middle school seasons to practice with high school teams, amended so transportation is the district's responsibility",
+   "member": "Stacy Stepp",
+   "action": "motion",
+   "outcome": "passed",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 9
+   }
   },
-  "policy": [
-    {
-      "item": "Eighth-grade students who complete middle school sports seasons and have not committed to another middle school sport may practice and work out with high school teams on the high school coach's approval; amended in discussion so transportation is the district's responsibility.",
-      "source": {
-        "issue": "2026-05-14",
-        "page": 9
-      }
-    }
-  ],
-  "superintendent": [
-    "Superintendent Christie Holly informed the board that the district's Pre-K application had been submitted and confirmed as received."
-  ],
-  "executiveSession": [],
-  "otherActions": [
-    "Recognized the Belmont powerlifting team, Belmont girls' basketball team and TCHS dance team",
-    "19 field trip requests approved (several retroactive), including a separately approved TCHS Beta Club trip to the National Beta Convention in Nashville",
-    "5 fundraisers approved",
-    "3 use-of-facilities requests approved",
-    "1 student transfer approved",
-    "Financial report given",
-    "Tri-State Educational Foundation grant for the TCHS 2026 National Leadership Conference (amount not printed)",
-    "Technology purchases: SmartPass (IMS), Progress Learning Biology (TCHS), Respondus lockdown browser, 310 four-year Mosyle licenses from Apple (amounts not printed)",
-    "Lowest quote from CRT for certified de-escalation and restraint training",
-    "Asbestos inspections for press boxes at Belmont High School, TCHS, Iuka Middle School and Tishomingo",
-    "Advertisement for bids for the press box and bleacher project through Pryor-Morrow Architects",
-    "2026-2027 fuel bids approved from Willoughby Oil, which will also install new fuel tanks at no additional charge",
-    "Technology director reported on the Instructure/Canvas data breach and the district's response",
-    "Grants and testing update: 90.2% of third-graders passed the Reading Gate assessment; 21 of 193 tested scheduled to retest",
-    "Discussed truancy and youth court referrals",
-    "Next meeting rescheduled for June 11"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Policy allowing eighth-grade athletes who have completed middle school seasons to practice with high school teams, amended so transportation is the district's responsibility",
+   "member": "Lyndon Cain",
+   "action": "second",
+   "outcome": "passed",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 9
+   }
+  },
+  {
+   "item": "Policy allowing eighth-grade athletes who have completed middle school seasons to practice with high school teams, amended so transportation is the district's responsibility",
+   "member": "Jody McClung",
+   "action": "opposed",
+   "outcome": "passed",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 9
+   }
+  }
+ ],
+ "personnel": {
+  "hires": 14,
+  "resignations": 9,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 1,
+  "note": "Hires include a summer worker at $10/hour and several coaching and athletic-administration assignments; one employee resigned one position and was hired to another. other = 1 volunteer."
+ },
+ "money": [
+  {
+   "item": "TCHS Guard/Winter Guard instructor supplement",
+   "vendor": null,
+   "amount": 1500,
+   "amountText": "$1,500",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 8
+   }
+  },
+  {
+   "item": "TCHS Theatre Assistant supplement, from TCHS district maintenance",
+   "vendor": null,
+   "amount": 900,
+   "amountText": "$900",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 8
+   }
+  },
+  {
+   "item": "Grant for Red Ribbon Week activities",
+   "vendor": null,
+   "amount": 2080.35,
+   "amountText": "$2,080.35",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 8
+   }
+  },
+  {
+   "item": "Grant for Special Olympics programs",
+   "vendor": null,
+   "amount": 8000,
+   "amountText": "$8,000",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 8
+   }
+  },
+  {
+   "item": "Darktrace cybersecurity software",
+   "vendor": "cSpire",
+   "amount": 44743,
+   "amountText": "$44,743",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 9
+   }
+  },
+  {
+   "item": "Removal of hazardous trees and stumps near Burnsville baseball fields",
+   "vendor": "Paterson Farm and Dirt Work, LLC",
+   "amount": 4000,
+   "amountText": "$4,000",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 9
+   }
+  }
+ ],
+ "donations": {
+  "count": 1,
+  "total": 25000,
+  "note": null
+ },
+ "policy": [
+  {
+   "item": "Eighth-grade students who complete middle school sports seasons and have not committed to another middle school sport may practice and work out with high school teams on the high school coach's approval; amended in discussion so transportation is the district's responsibility.",
+   "source": {
+    "issue": "2026-05-14",
+    "page": 9
+   }
+  }
+ ],
+ "superintendent": [
+  "Superintendent Christie Holly informed the board that the district's Pre-K application had been submitted and confirmed as received."
+ ],
+ "executiveSession": [],
+ "otherActions": [
+  "Recognized the Belmont powerlifting team, Belmont girls' basketball team and TCHS dance team",
+  "19 field trip requests approved (several retroactive), including a separately approved TCHS Beta Club trip to the National Beta Convention in Nashville",
+  "5 fundraisers approved",
+  "3 use-of-facilities requests approved",
+  "1 student transfer approved",
+  "Financial report given",
+  "Tri-State Educational Foundation grant for the TCHS 2026 National Leadership Conference (amount not printed)",
+  "Technology purchases: SmartPass (IMS), Progress Learning Biology (TCHS), Respondus lockdown browser, 310 four-year Mosyle licenses from Apple (amounts not printed)",
+  "Lowest quote from CRT for certified de-escalation and restraint training",
+  "Asbestos inspections for press boxes at Belmont High School, TCHS, Iuka Middle School and Tishomingo",
+  "Advertisement for bids for the press box and bleacher project through Pryor-Morrow Architects",
+  "2026-2027 fuel bids approved from Willoughby Oil, which will also install new fuel tanks at no additional charge",
+  "Technology director reported on the Instructure/Canvas data breach and the district's response",
+  "Grants and testing update: 90.2% of third-graders passed the Reading Gate assessment; 21 of 193 tested scheduled to retest",
+  "Discussed truancy and youth court referrals",
+  "Next meeting rescheduled for June 11"
+ ],
+ "quote": null,
+ "reviewed": false
 }

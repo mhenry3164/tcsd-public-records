@@ -1,94 +1,94 @@
 {
-  "date": "2024-11-11",
-  "type": "Regular Meeting",
-  "dateNote": "Report says the board met 'On Monday evening' for its regular monthly meeting (issue dated Thursday, Nov. 14, 2024); matches the Nov. 11, 2024 regular meeting on the calendar.",
-  "sources": [
-    {
-      "issue": "2024-11-14",
-      "page": 4
-    }
-  ],
-  "headline": "School Board is Diligently Working to Improve Campus Safety, Among Other Topics Discussed at the November Meeting",
-  "summary": "The board approved personnel, field trips, fundraisers, facility-use requests and donations, and voted to change its policy on free admission to games for staff plus one family member ahead of the district's audit. It also discussed campus safety projects, lunchroom staff pay, bus driver random drug testing and the assistant pay scale, and recognized the Belmont High School volleyball team.",
-  "attendance": null,
-  "calledToOrderBy": null,
-  "minutesApproved": [],
-  "publicComment": null,
-  "votes": [
-    {
-      "item": "Change policy on free admission to games for administrators, teachers and staff plus one family member",
-      "member": "Dr. Jim Perkins",
-      "action": "motion",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-11-14",
-        "page": 4
-      }
-    },
-    {
-      "item": "Change policy on free admission to games for administrators, teachers and staff plus one family member",
-      "member": "Stacy Stepp",
-      "action": "second",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-11-14",
-        "page": 4
-      }
-    },
-    {
-      "item": "Change policy on free admission to games for administrators, teachers and staff plus one family member",
-      "member": "All members",
-      "action": "all in favor",
-      "outcome": "passed",
-      "source": {
-        "issue": "2024-11-14",
-        "page": 4
-      }
-    }
-  ],
-  "personnel": {
-    "hires": 19,
-    "resignations": 2,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 1,
-    "note": "Hires include 10 substitutes (8 substitute teachers, 2 substitute bus drivers), 6 coaching assignments, a custodian, a homebound teacher and a SPED inclusion teacher; other = 1 non-employee volunteer coach."
+ "date": "2024-11-11",
+ "type": "Regular Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2024-11-14",
+   "page": 4
+  }
+ ],
+ "headline": "School Board is Diligently Working to Improve Campus Safety, Among Other Topics Discussed at the November Meeting",
+ "summary": "The board approved personnel, field trips, fundraisers, facility-use requests and donations, and voted to change its policy on free admission to games for staff plus one family member ahead of the district's audit. It also discussed campus safety projects, lunchroom staff pay, bus driver random drug testing and the assistant pay scale, and recognized the Belmont High School volleyball team.",
+ "attendance": null,
+ "calledToOrderBy": null,
+ "minutesApproved": [],
+ "publicComment": null,
+ "votes": [
+  {
+   "item": "Change policy on free admission to games for administrators, teachers and staff plus one family member",
+   "member": "Dr. Jim Perkins",
+   "action": "motion",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-11-14",
+    "page": 4
+   }
   },
-  "money": [],
-  "donations": {
-    "count": 5,
-    "total": 6500,
-    "note": "Includes a non-monetary donation valued at $1,000 (hot dog machine)."
+  {
+   "item": "Change policy on free admission to games for administrators, teachers and staff plus one family member",
+   "member": "Stacy Stepp",
+   "action": "second",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-11-14",
+    "page": 4
+   }
   },
-  "policy": [
-    {
-      "item": "Changed the policy allowing administrators, teachers and staff plus one family member free admission to games; the district was told the practice would be an audit finding.",
-      "source": {
-        "issue": "2024-11-14",
-        "page": 4
-      }
-    },
-    {
-      "item": "Report states a policy was drafted and approved that a student who makes a legitimate threat shall be expelled for one calendar year; the report does not say at which meeting it was approved.",
-      "source": {
-        "issue": "2024-11-14",
-        "page": 4
-      }
-    }
-  ],
-  "superintendent": [
-    "Superintendent Christie Holly recognized the Belmont High School 3A volleyball state runner-up team, and players received certificates from the district."
-  ],
-  "executiveSession": [],
-  "otherActions": [
-    "30 field trip requests approved (some retroactive)",
-    "6 fundraisers approved",
-    "4 use-of-facilities requests approved",
-    "Board requested the district start the process to receive bids for multiple campus safety projects",
-    "Discussed a pay raise for lunchroom staff; board member Stacy Stepp requested figures on a $2 raise for the next meeting",
-    "Discussed bus driver random drug testing; board member Stacy Stepp asked that all drivers be tested within one to two years, and the district will look into options",
-    "Board member Jessica Seaton requested a comparison of the assistant pay scale with other districts for the next meeting"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Change policy on free admission to games for administrators, teachers and staff plus one family member",
+   "member": "All members",
+   "action": "all in favor",
+   "outcome": "passed",
+   "source": {
+    "issue": "2024-11-14",
+    "page": 4
+   }
+  }
+ ],
+ "personnel": {
+  "hires": 19,
+  "resignations": 2,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 1,
+  "note": "Hires include 10 substitutes (8 substitute teachers, 2 substitute bus drivers), 6 coaching assignments, a custodian, a homebound teacher and a SPED inclusion teacher; other = 1 non-employee volunteer coach."
+ },
+ "money": [],
+ "donations": {
+  "count": 5,
+  "total": 6500,
+  "note": "Includes a non-monetary donation valued at $1,000 (hot dog machine)."
+ },
+ "policy": [
+  {
+   "item": "Changed the policy allowing administrators, teachers and staff plus one family member free admission to games; the district was told the practice would be an audit finding.",
+   "source": {
+    "issue": "2024-11-14",
+    "page": 4
+   }
+  },
+  {
+   "item": "Report states a policy was drafted and approved that a student who makes a legitimate threat shall be expelled for one calendar year; the report does not say at which meeting it was approved.",
+   "source": {
+    "issue": "2024-11-14",
+    "page": 4
+   }
+  }
+ ],
+ "superintendent": [
+  "Superintendent Christie Holly recognized the Belmont High School 3A volleyball state runner-up team, and players received certificates from the district."
+ ],
+ "executiveSession": [],
+ "otherActions": [
+  "30 field trip requests approved (some retroactive)",
+  "6 fundraisers approved",
+  "4 use-of-facilities requests approved",
+  "Board requested the district start the process to receive bids for multiple campus safety projects",
+  "Discussed a pay raise for lunchroom staff; board member Stacy Stepp requested figures on a $2 raise for the next meeting",
+  "Discussed bus driver random drug testing; board member Stacy Stepp asked that all drivers be tested within one to two years, and the district will look into options",
+  "Board member Jessica Seaton requested a comparison of the assistant pay scale with other districts for the next meeting"
+ ],
+ "quote": null,
+ "reviewed": false
 }

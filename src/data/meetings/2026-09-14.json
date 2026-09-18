@@ -1,173 +1,173 @@
 {
-  "date": "2026-09-14",
-  "type": "Regular Meeting",
-  "dateNote": null,
-  "sources": [
-    {
-      "issue": "2026-09-17",
-      "page": 5
-    }
-  ],
-  "headline": "Tishomingo County Schools Awarded Pre-K Grant with Program Planned for 2027, Board Considers Gate Fee Increase",
-  "summary": "The board accepted a $300,000 State Invested Pre-K grant, with the program planned to begin in August 2027, and approved personnel, field trips, fundraisers, workers' compensation coverage and technology and professional development contracts. It heard a proposal to raise athletic gate fees, deferring a final vote, and authorized the superintendent to negotiate the purchase of property behind Burnsville School.",
-  "attendance": "with all board members present",
-  "calledToOrderBy": null,
-  "minutesApproved": [
-    "Regular meeting, August 10, 2026",
-    "Executive session, August 10, 2026",
-    "Special called meeting, September 2, 2026"
-  ],
-  "publicComment": null,
-  "votes": [],
-  "personnel": {
-    "hires": 3,
-    "resignations": 2,
-    "retirements": 0,
-    "transfers": 0,
-    "other": 5,
-    "note": "Hires: an ISD assistant teacher, a cafeteria worker and a custodian (one hire was an employee moving from a position the same meeting accepted a resignation from); other = 3 leave requests, 1 non-employee volunteer football coach and 1 certified athletic trainer approved for the 2026 football season."
+ "date": "2026-09-14",
+ "type": "Regular Meeting",
+ "dateNote": null,
+ "sources": [
+  {
+   "issue": "2026-09-17",
+   "page": 5
+  }
+ ],
+ "headline": "Tishomingo County Schools Awarded Pre-K Grant with Program Planned for 2027, Board Considers Gate Fee Increase",
+ "summary": "The board accepted a $300,000 State Invested Pre-K grant, with the program planned to begin in August 2027, and approved personnel, field trips, fundraisers, workers' compensation coverage and technology and professional development contracts. It heard a proposal to raise athletic gate fees, deferring a final vote, and authorized the superintendent to negotiate the purchase of property behind Burnsville School.",
+ "attendance": "with all board members present",
+ "calledToOrderBy": null,
+ "minutesApproved": [
+  "Regular meeting, August 10, 2026",
+  "Executive session, August 10, 2026",
+  "Special called meeting, September 2, 2026"
+ ],
+ "publicComment": null,
+ "votes": [],
+ "personnel": {
+  "hires": 3,
+  "resignations": 2,
+  "retirements": 0,
+  "transfers": 0,
+  "other": 5,
+  "note": "Hires: an ISD assistant teacher, a cafeteria worker and a custodian (one hire was an employee moving from a position the same meeting accepted a resignation from); other = 3 leave requests, 1 non-employee volunteer football coach and 1 certified athletic trainer approved for the 2026 football season."
+ },
+ "money": [
+  {
+   "item": "State Invested Pre-K Cohort V Grant (partial), Aug. 20, 2026-June 30, 2029 (accepted)",
+   "vendor": null,
+   "amount": 300000,
+   "amountText": "$300,000, or $100,000 annually",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
   },
-  "money": [
-    {
-      "item": "State Invested Pre-K Cohort V Grant (partial), Aug. 20, 2026-June 30, 2029 (accepted)",
-      "vendor": null,
-      "amount": 300000,
-      "amountText": "$300,000, or $100,000 annually",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Workers' compensation and employers liability, 10/1/26-10/1/27 (premium up $2,965 from last year)",
-      "vendor": "Mississippi School Boards Association Workers' Compensation Trust",
-      "amount": 106925,
-      "amountText": "$106,925",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Additional 25 students on Vocabulary.com 1-year subscription, Belmont",
-      "vendor": "Vocabulary.com",
-      "amount": 160,
-      "amountText": "$160.00",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Quarterly HVAC filter service agreement, district-wide",
-      "vendor": "B&W Filter Service, LLC",
-      "amount": 4864,
-      "amountText": "$4,864 per quarter",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "GoGuardian technology filter, one year 10/1/26-9/30/27 (lowest quote)",
-      "vendor": "Howard Technology Solutions",
-      "amount": 14500,
-      "amountText": "$14,500",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Professional development for ATSI schools (lowest quote)",
-      "vendor": "Kids First Education",
-      "amount": 13275,
-      "amountText": "$13,275",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "iCEV licenses, one-year subscription, sole source (CTE grant and district funds)",
-      "vendor": "CEV Multimedia, Ltd & iCEV online",
-      "amount": 11358,
-      "amountText": "$11,358",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Tri-State Educational Foundation grant: Smart Board for IMS 7th/8th grade",
-      "vendor": "Tri-State Educational Foundation",
-      "amount": 3071,
-      "amountText": "$3,071",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Tri-State Educational Foundation grant: IMS 8th grade trip to Huntsville Space Center",
-      "vendor": "Tri-State Educational Foundation",
-      "amount": 1920,
-      "amountText": "$1,920",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Tri-State Educational Foundation grant: Belmont Middle special education 5th/6th grade reward system",
-      "vendor": "Tri-State Educational Foundation",
-      "amount": 500,
-      "amountText": "$500",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    },
-    {
-      "item": "Certified athletic trainer for the 2026 football season",
-      "vendor": null,
-      "amount": 35,
-      "amountText": "$35 hourly rate",
-      "source": {
-        "issue": "2026-09-17",
-        "page": 5
-      }
-    }
-  ],
-  "donations": {
-    "count": 0,
-    "total": 0,
-    "note": null
+  {
+   "item": "Workers' compensation and employers liability, 10/1/26-10/1/27 (premium up $2,965 from last year)",
+   "vendor": "Mississippi School Boards Association Workers' Compensation Trust",
+   "amount": 106925,
+   "amountText": "$106,925",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
   },
-  "policy": [],
-  "superintendent": [
-    "Superintendent Christie Holly discussed logistics for a pre-K program: classes limited to 20 students with one adult per 10 students, no district transportation for pre-K, and full operation required by August 2027.",
-    "Holly updated the board on the press box project.",
-    "The district received 2 Vector bullying reports and 3 Google reports.",
-    "Financial auditors were in-house the week of the meeting, and an MDE Gifted in-district visit was scheduled for Sept. 15.",
-    "Fall Special Olympics will be held at Pontotoc; fall break is Oct. 5-9."
-  ],
-  "executiveSession": [
-    "appeal of a student discipline matter",
-    "a personnel concern"
-  ],
-  "otherActions": [
-    "Approved advertising for a Pre-K Director/K-2 Curriculum Director; board agreed to schedule a working session on the pre-K program",
-    "Gate fee increase proposed by the Belmont High and TCHS athletic directors (football $10; volleyball, basketball, baseball and softball $8; archery and junior high $6; annual, student, veteran and senior passes); board expressed support but will discuss further before a final vote",
-    "Authorized Superintendent Holly to negotiate purchase of property behind Burnsville School",
-    "Approved clinics/pharmacies to offer on-site voluntary flu vaccinations for employees beginning October 2026",
-    "Board President Jessica Seaton updated the board on Strategic Plan goals",
-    "22 field trip requests approved (one TCHS band request lists four destinations; some retroactive)",
-    "9 fundraisers approved",
-    "5 use-of-facilities requests approved",
-    "Financial reports given",
-    "Next regular meeting set for Oct. 12, 2026"
-  ],
-  "quote": null,
-  "reviewed": false
+  {
+   "item": "Additional 25 students on Vocabulary.com 1-year subscription, Belmont",
+   "vendor": "Vocabulary.com",
+   "amount": 160,
+   "amountText": "$160.00",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "Quarterly HVAC filter service agreement, district-wide",
+   "vendor": "B&W Filter Service, LLC",
+   "amount": 4864,
+   "amountText": "$4,864 per quarter",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "GoGuardian technology filter, one year 10/1/26-9/30/27 (lowest quote)",
+   "vendor": "Howard Technology Solutions",
+   "amount": 14500,
+   "amountText": "$14,500",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "Professional development for ATSI schools (lowest quote)",
+   "vendor": "Kids First Education",
+   "amount": 13275,
+   "amountText": "$13,275",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "iCEV licenses, one-year subscription, sole source (CTE grant and district funds)",
+   "vendor": "CEV Multimedia, Ltd & iCEV online",
+   "amount": 11358,
+   "amountText": "$11,358",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "Tri-State Educational Foundation grant: Smart Board for IMS 7th/8th grade",
+   "vendor": "Tri-State Educational Foundation",
+   "amount": 3071,
+   "amountText": "$3,071",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "Tri-State Educational Foundation grant: IMS 8th grade trip to Huntsville Space Center",
+   "vendor": "Tri-State Educational Foundation",
+   "amount": 1920,
+   "amountText": "$1,920",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "Tri-State Educational Foundation grant: Belmont Middle special education 5th/6th grade reward system",
+   "vendor": "Tri-State Educational Foundation",
+   "amount": 500,
+   "amountText": "$500",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  },
+  {
+   "item": "Certified athletic trainer for the 2026 football season",
+   "vendor": null,
+   "amount": 35,
+   "amountText": "$35 hourly rate",
+   "source": {
+    "issue": "2026-09-17",
+    "page": 5
+   }
+  }
+ ],
+ "donations": {
+  "count": 0,
+  "total": 0,
+  "note": null
+ },
+ "policy": [],
+ "superintendent": [
+  "Superintendent Christie Holly discussed logistics for a pre-K program: classes limited to 20 students with one adult per 10 students, no district transportation for pre-K, and full operation required by August 2027.",
+  "Holly updated the board on the press box project.",
+  "The district received 2 Vector bullying reports and 3 Google reports.",
+  "Financial auditors were in-house the week of the meeting, and an MDE Gifted in-district visit was scheduled for Sept. 15.",
+  "Fall Special Olympics will be held at Pontotoc; fall break is Oct. 5-9."
+ ],
+ "executiveSession": [
+  "appeal of a student discipline matter",
+  "a personnel concern"
+ ],
+ "otherActions": [
+  "Approved advertising for a Pre-K Director/K-2 Curriculum Director; board agreed to schedule a working session on the pre-K program",
+  "Gate fee increase proposed by the Belmont High and TCHS athletic directors (football $10; volleyball, basketball, baseball and softball $8; archery and junior high $6; annual, student, veteran and senior passes); board expressed support but will discuss further before a final vote",
+  "Authorized Superintendent Holly to negotiate purchase of property behind Burnsville School",
+  "Approved clinics/pharmacies to offer on-site voluntary flu vaccinations for employees beginning October 2026",
+  "Board President Jessica Seaton updated the board on Strategic Plan goals",
+  "22 field trip requests approved (one TCHS band request lists four destinations; some retroactive)",
+  "9 fundraisers approved",
+  "5 use-of-facilities requests approved",
+  "Financial reports given",
+  "Next regular meeting set for Oct. 12, 2026"
+ ],
+ "quote": null,
+ "reviewed": false
 }
