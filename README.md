@@ -1,68 +1,86 @@
 # TCSD Public Record
 
-Static, searchable public-record site for the Tishomingo County School District (Mississippi). Astro (static output) + Tailwind + Pagefind. Every fact links to its source.
+A static, searchable website of public records about the **Tishomingo County School District** (Iuka, Mississippi): audited financial statements, audit findings, board meetings and recorded votes, legal notices, board policies, payroll, vendor payments, and a comparison with six neighboring districts.
 
-## Commands
+Every figure on the site links to the document it came from. The site carries no commentary and endorses no one.
+
+Built and maintained by Matthew Henry, a parent with two children in the district. Independent of every candidate, the district, and the board. Nothing is sponsored. Refreshed quarterly.
+
+**Corrections:** email mhenry@effiwise.com with the page and a source, or open an issue in this repository. Corrections are made promptly and noted in the [changelog](src/data/changelog.json).
+
+## What is in this repository
+
+Everything needed to rebuild the site, and nothing that is not already public.
+
+| Content | Where | Source |
+|---|---|---|
+| Audited financial statements, FY2022–FY2025, and six neighboring districts' audits (PDF) | `public/audits/`, `public/peer-audits/` | Mississippi Office of the State Auditor |
+| Four-year financial tables, audit findings, cost per student | `src/data/finances.json`, `findings.json`, `cost-per-student.json` | Transcribed from those audits; `audits.json` and `citations.json` hold the PDF page numbers |
+| District comparison | `src/data/benchmarks.json`, `public/data/tcsd_benchmarks.csv` | The same schedules in each district's audit; MDE ratings; OpenTheBooks |
+| Payroll 2017–2025, vendor annual totals 2023–2024 | `public/data/*.csv`, `src/data/salaries-*.json`, `vendors-*.json` | Mississippi Department of Education and the district, as published by OpenTheBooks.com, reproduced unchanged |
+| Index of 320 board policies | `src/data/policies.json` | The district's policy manual on Simbli |
+| Meeting calendar | `src/data/meetings-calendar.json` | The district's OAgendas page |
+| Reported meetings, recorded votes, board member records | `src/data/meetings/*.json`, `votes.json`, `members.json` | Facts reported by the Tishomingo County News, each cited by issue date and page |
+| District legal notices, full text | `src/content/notices/*.md` | Notices the district published under state law |
+| Mississippi Ethics Commission order M-25-022 (PDF) | `public/records/` | Mississippi Ethics Commission |
+| Searchable text of every PDF | `src/data/doc-text/*.json` | Extracted from the PDFs above |
+
+**What is not here.** No newspaper issues, pages, or article text. The Tishomingo County News's reporting is its copyrighted work; this project records only the facts reported, short attributed quotes, and the issue date and page. To read the reports, subscribe at [tishconews.org](https://tishconews.org).
+
+## Editorial rules
+
+- Public record only. No social-media content, no opinion.
+- Never a page without a source line.
+- No adjectives about people. Verbs from the record only: moved, seconded, opposed, recused, absent, requested, stated.
+- A board member's vote appears only when it was printed. Nothing is inferred.
+- Personnel actions on meeting pages are counted, not named.
+- Executive-session items are listed as the paper listed them, nothing more.
+- What is not public is listed on the Missing records page, with a log of records requests.
+
+Meeting files carry `"reviewed": false` until a person has checked them against the printed page.
+
+## Run it
+
+Requires Node 20 or newer.
 
 ```
 npm install
-npm run import     # rebuild src/data/*.json, public/data/*.csv and the PDFs in public/ from ../tish_paper/district_data (needs: pip install openpyxl)
-npm run extract    # per-page PDF text -> src/data/doc-text/*.json (needs poppler: brew install poppler). Commit the output:
-                   # Vercel builds remotely and has no pdftotext, so the build only reads these files.
-npm run dev        # local dev server (search only works after a build)
-npm run build      # astro build + pagefind index
+npm run dev        # local dev server (search works only after a build)
+npm run build      # static site in dist/, plus the Pagefind search index
 npm run preview
-vercel --prod      # deploy
 ```
 
-## Where content lives
+Stack: [Astro](https://astro.build) static output, Tailwind CSS, [Pagefind](https://pagefind.app) search, PDF.js for the document viewer. Charts are plain HTML and inline SVG rendered at build time. Deploys to any static host; `vercel.json` sets the Astro preset and serves PDFs inline.
 
-| What | File(s) | How it's made |
-|---|---|---|
-| Site settings (domain, corrections email) | `src/data/site.json` | Hand-edited — **set `url` and `correctionsEmail` before launch** (also used by robots.txt, sitemap, canonical tags) |
-| Board members, recorded votes | `src/data/members.json`, `src/data/votes.json` | Hand-authored from `school_board/02_BOARD_MEMBER_RECORD.md`, checked against page text |
-| Meeting reports | `src/data/meetings/YYYY-MM-DD.json` | Extracted from newspaper reports; every file has `"reviewed": false` until a person checks it against the issue |
-| Meeting calendar | `src/data/meetings-calendar.json` | `npm run import` (xlsx "Board Meetings" tab, from OAgendas) |
-| Legal notices | `src/content/notices/*.md` | Transcribed in full from `*_legal-notice.md` pages, trimmed to the notice |
-| Finances, audit findings | `src/data/finances.json`, `findings.json`, `cost-per-student.json`, `audits.json` (PDF page numbers) | `npm run import` + hand-verified page refs |
-| Budget hearings | `src/data/budget-hearings.json` | Hand-authored from TCN 2025-07-24 p2 and 2026-07-30 p4 |
-| Salaries, vendors, policies | `src/data/salaries-*.json`, `vendors-*.json`, `policies.json` | `npm run import` from the CSVs |
-| Records requests | `src/data/records-requests.json` | Hand-edited. Shape: `{ "sent", "to", "items": [], "responseDue", "status", "responseSummary", "files": [{ "label", "href" }] }` |
-| Sources page | `src/data/sources.json` | Hand-edited |
-| Documents (PDF viewer) | `src/data/documents.json` | Hand-edited registry: title, author, report date, file, key pages (PDF page numbers), plain-language summary (`{{Key page label}}` becomes a page link) |
-| Document text for search | `src/data/doc-text/*.json` | `npm run extract` |
-| Which site pages cite which PDF page | `src/data/citations.json` | Hand-edited; shown on each document page |
-| Benchmarks | `src/data/benchmarks.json` | `npm run import` from `tcsd_benchmarks.csv`; the fact bullets and summary are in `src/pages/benchmarks.astro` |
+## Maintaining the data
 
-## Adding a new meeting report
+| To change | Edit |
+|---|---|
+| Site address, corrections email, last-updated date | `src/data/site.json` (the address feeds canonical tags, the sitemap and robots.txt) |
+| A new reported meeting | Copy a file in `src/data/meetings/`, name it by meeting date, fill it from the report, set `reviewed` once checked |
+| A recorded vote or member fact | `src/data/votes.json`, `src/data/members.json` |
+| A legal notice | New Markdown file in `src/content/notices/` (frontmatter schema in `src/content.config.ts`) |
+| A records request or response | `src/data/records-requests.json`: `{ sent, to, items[], responseDue, status, responseSummary, files[] }` |
+| A new PDF (audit, budget, records response) | Put it under `public/<collection>/`, add an entry to `src/data/documents.json` (title, author, date, pages, key pages, plain-language summary), run `npm run extract`, commit `src/data/doc-text/`. Link to it as `/documents/<collection>/<slug>#page=N` |
+| What changed | `src/data/changelog.json` |
 
-1. Copy an existing `src/data/meetings/*.json`, name it by meeting date.
-2. Fill it from the report: counts only for personnel (no employee names), every dollar item in `money`, members' votes only when printed.
-3. Set `"reviewed": true` once checked against the printed page.
+Two helper scripts regenerate data from source files kept outside this repo:
 
-## Editorial rules (enforced by the templates, keep them when editing data)
+- `npm run import` (Python 3 with `openpyxl`) rebuilds the JSON and CSV files from the source spreadsheet and CSVs. Set `TCSD_DATA_DIR` to the folder that holds them.
+- `npm run extract` (needs `pdftotext` from poppler) rebuilds the per-page PDF text. Its output is committed so hosted builds do not need poppler.
 
-- Never a page without a source line.
-- No adjectives about people. Verbs from the record only: moved, seconded, opposed, recused, absent, requested, stated.
-- Personnel actions are counted, not named, on meeting pages.
-- Executive-session items listed as the paper listed them, nothing more.
-- No social-media content.
+`npm run refresh` runs import, extract and build in order.
 
-## Adding a PDF (budget, records-request response, new audit)
+### Quarterly refresh (January, April, July, October; audits each February)
 
-1. Put the file under `public/<collection>/` (`audits`, `peer-audits`, `budget`, `records`) with a descriptive name.
-2. Add an entry to `src/data/documents.json` (copy an existing one; set `collection`, `slug`, `pages`, `keyPages`, `summary`).
-3. `npm run extract`, then commit `src/data/doc-text/`.
-4. Link to it from anywhere with `/documents/<collection>/<slug>#page=N` and add rows to `citations.json`.
+1. Review new issues of the newspaper for district legal notices and board meeting reports; add notices and meeting files.
+2. Update the meeting calendar from OAgendas.
+3. Each February, check the State Auditor's site for the district's new audit and the six neighbors' audits; add the PDFs and update the finance, findings and benchmark data.
+4. Replace the payroll and vendor CSVs when OpenTheBooks posts a new year.
+5. Refresh the policy index from Simbli.
+6. Update the records-request log and add any documents received.
+7. Set `lastUpdated`, add a changelog entry, rebuild, deploy, resubmit the sitemap.
 
-## Quarterly refresh (January, April, July, October; audits each February)
+## Reuse
 
-The gathering steps are done with Claude Code in `~/projects/tish_paper`; `npm run refresh` then re-imports, re-extracts PDF text and rebuilds.
-
-1. **Newspaper.** Review the new weekly issues (subscriber access) for district legal notices and board meeting reports. New district notices go to `src/content/notices/`; new meeting reports get a `src/data/meetings/YYYY-MM-DD.json` with `reviewed: false` for a person to check. Newspaper issues and page text never go in this repo.
-2. **Meetings calendar.** Re-pull the OAgendas list into the workbook's Board Meetings tab (or edit `src/data/meetings-calendar.json`).
-3. **Audits (February).** Check osa.ms.gov for the new TCSD audit and the six peer audits; add PDFs and `documents.json` entries; update `tcsd_benchmarks.csv`, `finances.json` inputs, `findings`, `audits.json`, `cost-per-student.json`, `citations.json`.
-4. **Payroll and vendors.** Re-pull OpenTheBooks when a new year appears; replace the CSVs.
-5. **Policies.** Re-scrape the Simbli listing into `tcsd_policy_index.csv`.
-6. **Records log.** Update `src/data/records-requests.json`; put any documents received under `public/records/` and register them in `documents.json`.
-7. Set `lastUpdated` in `src/data/site.json`, add an entry to `src/data/changelog.json`, run `npm run refresh`, deploy, resubmit the sitemap.
+The audits, legal notices, policies, payroll and vendor data are public records. Facts are free to reuse; please cite the original source, which every page names. Found an error? Open an issue or send a correction with a source.

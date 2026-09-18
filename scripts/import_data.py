@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Turn the raw district data on disk into the JSON the site builds from.
 
-Inputs live in ../tish_paper/district_data (override with TCSD_DATA_DIR).
+Inputs live in a sibling data folder that is not part of this repo (set TCSD_DATA_DIR to point at it).
 Outputs:
   src/data/*.json          read by the Astro pages at build time
   public/data/*.csv        the raw files, offered as "Download CSV"
